@@ -7,7 +7,7 @@
 
 ---
 
-![Entorn d&apos;escriptori](/.gitbook/assets/virtualitzacio-escriptori.png&size=contain)
+---?/.gitbook/assets/virtualitzacio-escriptori.png&size=contain)
 
 +++
 
