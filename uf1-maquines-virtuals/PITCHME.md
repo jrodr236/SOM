@@ -1,5 +1,13 @@
-prova1
+# Màquines virtuals
 
 ---
 
-prova2
+## Introducció
+Ús: molts àmbits
+
+---
+
+![Entorn d&apos;escriptori](../.gitbook/assets/virtualitzacio-escriptori.png)
+
+![Entorn empresarial](../.gitbook/assets/virtualitzacio-empresarial.png)
+
