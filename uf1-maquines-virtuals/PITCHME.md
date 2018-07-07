@@ -11,3 +11,14 @@
 
 ![Entorn empresarial](/.gitbook/assets/virtualitzacio-empresarial.png)
 
+---
+![Entorn d&apos;escriptori](/.gitbook/assets/virtualitzacio-escriptori.png)
+
+asdf
+asdf
+
+asdfadsf
+asdf
+
+![Entorn empresarial](/.gitbook/assets/virtualitzacio-empresarial.png)
+
