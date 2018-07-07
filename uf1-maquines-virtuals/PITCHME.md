@@ -7,7 +7,7 @@
 
 ---
 
-![Entorn d&apos;escriptori](../.gitbook/assets/virtualitzacio-escriptori.png)
+![Entorn d&apos;escriptori](/.gitbook/assets/virtualitzacio-escriptori.png)
 
-![Entorn empresarial](../.gitbook/assets/virtualitzacio-empresarial.png)
+![Entorn empresarial](/.gitbook/assets/virtualitzacio-empresarial.png)
 
