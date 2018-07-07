@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Sistemes Operatius Monolloc](README.md)
 
 ## UF1. Introducció als sistemes operatius
 
