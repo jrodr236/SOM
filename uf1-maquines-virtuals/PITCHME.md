@@ -7,7 +7,7 @@
 
 ---
 
----?/.gitbook/assets/virtualitzacio-escriptori.png&size=contain)
+---?image=/.gitbook/assets/virtualitzacio-escriptori.png&size=contain
 
 +++
 
