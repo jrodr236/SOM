@@ -15,7 +15,7 @@ Entorn d'escriptori
 
 Entorn empresarial
 
-<img src="/.gitbook/assets/virtualitzacio-empresarial.png" alt="Entorn empresarial" height="400px"/>
+<img src="/.gitbook/assets/virtualitzacio-empresarial.png" alt="Entorn empresarial" height="500px"/>
 
 ---
 
