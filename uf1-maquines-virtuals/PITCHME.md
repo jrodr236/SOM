@@ -5,15 +5,11 @@
 ## Introducció
 Ús: molts àmbits
 
----
-
-
-
-![Entorn d&apos;escriptori](/.gitbook/assets/virtualitzacio-escriptori.png =100x20)
-
-?image=/.gitbook/assets/virtualitzacio-escriptori.png&size=contain
++++
 
 Entorn d'escriptori
+
+<img src="/.gitbook/assets/virtualitzacio-escriptori.png" alt="Entorn d'escriptori" width="200px"/>
 
 +++
 
