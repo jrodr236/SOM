@@ -7,7 +7,11 @@
 
 ---?image=/.gitbook/assets/virtualitzacio-escriptori.png&size=contain
 
+Entorn d'escriptori
+
 +++
+
+Entorn empresarial
 
 ![Entorn empresarial](/.gitbook/assets/virtualitzacio-empresarial.png)
 
