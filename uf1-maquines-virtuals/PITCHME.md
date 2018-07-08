@@ -9,13 +9,13 @@
 
 Entorn d'escriptori
 
-<img src="/.gitbook/assets/virtualitzacio-escriptori.png" alt="Entorn d'escriptori" height="600px"/>
+<img src="/.gitbook/assets/virtualitzacio-escriptori.png" alt="Entorn d'escriptori" height="500px"/>
 
 +++
 
 Entorn empresarial
 
-<img src="/.gitbook/assets/virtualitzacio-empresarial.png" alt="Entorn empresarial" height="600px"/>
+<img src="/.gitbook/assets/virtualitzacio-empresarial.png" alt="Entorn empresarial" height="400px"/>
 
 ---
 
