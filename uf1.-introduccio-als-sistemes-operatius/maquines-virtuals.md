@@ -99,3 +99,15 @@ Es virtualitzen recursos específics del sistema com, per exemple, la capacitat 
 
 ## Instal·lació de programari gestor de màquines virtuals
 
+El **programari propietari** es refereix a qualsevol programa informàtic en el qual els usuaris tenen les limitacions següents: utilització, modificació, redistribució \(amb modificació o sense\), o el codi font no està disponible o l’accés és restringit.
+
+![Bill Gates](../.gitbook/assets/bill-gates.png)
+
+![Steve Jobs](../.gitbook/assets/steve-jobs.png)
+
+El **programari lliure** és la denominació del programari que dóna la llibertat als usuaris sobre el producte adquirit i, per tant, una vegada obtingut, de poder ser utilitzat, copiat, estudiat, modificat i redistribuït lliurament.
+
+![Richard Stallman](../.gitbook/assets/richard-stallman.png)
+
+![Linus Torvalds](../.gitbook/assets/linus-torvalds.png)
+
