@@ -18,7 +18,7 @@ Virtual simula funcionament de la real
 
 +++
 
-![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](../.gitbook/assets/amb-sense-vm.png)
+![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](/.gitbook/assets/amb-sense-vm.png)
 
 ---
 
@@ -34,7 +34,7 @@ Hoste: Sistema operatiu instal·lat a cada Màquina Virtual.
 
 +++
 
-![Host &amp; guest](../.gitbook/assets/host-guest.png)
+![Host &amp; guest](/.gitbook/assets/host-guest.png)
 
 ---
 
