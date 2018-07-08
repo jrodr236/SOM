@@ -1,4 +1,5 @@
 # Màquines virtuals
+Teoria: https://jrodr236.gitbook.io/som/uf1.-introduccio-als-sistemes-operatius/maquines-virtuals
 
 ---
 
