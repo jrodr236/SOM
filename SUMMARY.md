@@ -4,6 +4,7 @@
 
 ## UF1. Introducció als sistemes operatius
 
-* [Components d'un sistema informàtic](uf1.-introduccio-als-sistemes-operatius/components-dun-sistema-informatic.md)
-* [Màquines virtuals](uf1.-introduccio-als-sistemes-operatius/maquines-virtuals.md)
+* [1. El sistema informàtic](uf1.-introduccio-als-sistemes-operatius/1.-el-sistema-informatic/README.md)
+  * [Components d'un sistema informàtic](uf1.-introduccio-als-sistemes-operatius/1.-el-sistema-informatic/components-dun-sistema-informatic.md)
+  * [Màquines virtuals](uf1.-introduccio-als-sistemes-operatius/1.-el-sistema-informatic/maquines-virtuals.md)
 

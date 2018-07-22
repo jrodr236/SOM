@@ -6,9 +6,9 @@ Resum: [https://gitpitch.com/jrodr236/som/master?p=uf1-maquines-virtuals](https:
 
 La virtualització dels sistemes informàtics no només s’aplica a petits equipaments, sinó que cada vegada s’utilitza més en molts àmbits relacionats amb el món de la informàtica.
 
-![Entorn d&apos;escriptori](../.gitbook/assets/virtualitzacio-escriptori.png)
+![Entorn d&apos;escriptori](../../.gitbook/assets/virtualitzacio-escriptori.png)
 
-![Entorn empresarial](../.gitbook/assets/virtualitzacio-empresarial.png)
+![Entorn empresarial](../../.gitbook/assets/virtualitzacio-empresarial.png)
 
 ## Maquina real i màquina virtual
 
@@ -16,7 +16,7 @@ Una **màquina real** \(o **física**\) és un ordinador que té elements físic
 
 Una **màquina virtual** \(o màquina **lògica**\) és una màquina que simula el funcionament d’una màquina real. Sobre ella es poden instal·lar sistemes operatius, aplicacions informàtiques, navegar de manera segura per Internet, utilitzar diversos dispositius \(per exemple, targetes de xarxa, dispositius USB, etc.\).
 
-![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](../.gitbook/assets/amb-sense-vm.png)
+![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](../../.gitbook/assets/amb-sense-vm.png)
 
 ## Virtualització
 
@@ -30,7 +30,7 @@ El sistema operatiu sobre el qual s’executa el programari per a crear les màq
 
 Els diversos sistemes operatius instal·lats en cada màquina virtuals s’anomenen **hostes \(guest\)**.
 
-![Host &amp; guest](../.gitbook/assets/host-guest.png)
+![Host &amp; guest](../../.gitbook/assets/host-guest.png)
 
 ## Tipus de màquines virtuals
 
@@ -56,11 +56,11 @@ Tipus
 * Virtualització completa o nativa: simula la mateixa plataforma de maquinari.
 * Paravirtualització: mitjançant modificacions del sistema operatiu natiu, millora l'eficiència.
 
-![Exemple d&apos;emulaci&#xF3;](../.gitbook/assets/mario.png)
+![Exemple d&apos;emulaci&#xF3;](../../.gitbook/assets/mario.png)
 
-![Emulaci&#xF3;](../.gitbook/assets/emulacio.png)
+![Emulaci&#xF3;](../../.gitbook/assets/emulacio.png)
 
-![Virtualitzaci&#xF3; completa](../.gitbook/assets/virtualitzacio-completa.png)
+![Virtualitzaci&#xF3; completa](../../.gitbook/assets/virtualitzacio-completa.png)
 
 ### Màquines virtuals de procés
 
@@ -76,7 +76,7 @@ Exemples:
 
 * la màquina virtual Java \(JVM\), o Dalvik \(usat als dispositius Android\)
 
-![Dalvik](../.gitbook/assets/dalvik.png)
+![Dalvik](../../.gitbook/assets/dalvik.png)
 
 ### Virtualització de recursos
 
@@ -101,13 +101,13 @@ Es virtualitzen recursos específics del sistema com, per exemple, la capacitat 
 
 El **programari propietari** es refereix a qualsevol programa informàtic en el qual els usuaris tenen les limitacions següents: utilització, modificació, redistribució \(amb modificació o sense\), o el codi font no està disponible o l’accés és restringit.
 
-![Bill Gates](../.gitbook/assets/bill-gates.png)
+![Bill Gates](../../.gitbook/assets/bill-gates.png)
 
-![Steve Jobs](../.gitbook/assets/steve-jobs.png)
+![Steve Jobs](../../.gitbook/assets/steve-jobs.png)
 
 El **programari lliure** és la denominació del programari que dóna la llibertat als usuaris sobre el producte adquirit i, per tant, una vegada obtingut, de poder ser utilitzat, copiat, estudiat, modificat i redistribuït lliurament.
 
-![Richard Stallman](../.gitbook/assets/richard-stallman.png)
+![Richard Stallman](../../.gitbook/assets/richard-stallman.png)
 
-![Linus Torvalds](../.gitbook/assets/linus-torvalds.png)
+![Linus Torvalds](../../.gitbook/assets/linus-torvalds.png)
 
