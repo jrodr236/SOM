@@ -1,4 +1,4 @@
-# Components d'un sistema informàtic
+# 1. Components d'un sistema informàtic
 
 
 
