@@ -1,4 +1,4 @@
-# 2. Màquines virtuals - Exercicis
+# 2. Màquines virtuals - Exercicis pràctics
 
 1. Anem a realitzar la instal·lació del programari distribuït per VirtualBox. Suposarem que el resultat de l’estudi previ fa que el procés sigui viable i per tant farem la instal·lació. El procés que heu de seguir és el següent:
     1. Establiu perfectament els objectius del procés.
