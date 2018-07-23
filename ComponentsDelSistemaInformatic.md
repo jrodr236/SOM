@@ -1,5 +1,11 @@
 # 1. Components del sistema informàtic
 
+**Resum: pendent**
+
+*Exercicis teòrics: moodle*
+
+*Exercicis pràctics: no n'hi ha.*
+
 ## Sistema informàtic
 
 Un **sistema informàtic** és el conjunt d'elements necessaris per a la realització i l’explotació d'aplicacions informàtiques. S’hi inclouen els elements de programari, de maquinari i els humans.
@@ -43,13 +49,3 @@ Es poden dividir en dos grups:
 **Administració del sistema**: assegurar el bon funcionament del sistema informàtic i la xarxa _\(hardware\)_.
 
 **Desenvolupament d'aplicacions**: crea i manté aplicacions informàtiques _\(software\)_.
-
-# Exercicis
-
-## Exercicis teòrics
-
-Realitzar el test del moodle.
-
-## Exercicis pràctics
-
-No n'hi ha.
