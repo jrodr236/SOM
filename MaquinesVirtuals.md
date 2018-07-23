@@ -1,6 +1,6 @@
 # 2. Màquines virtuals
 
-Resum: [https://gitpitch.com/jrodr236/som/master?p=uf1-maquines-virtuals](https://gitpitch.com/jrodr236/som/master?p=MaquinesVirtuals)
+[Resum](https://gitpitch.com/jrodr236/som/master?p=MaquinesVirtuals)
 
 ## Introducció
 

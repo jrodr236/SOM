@@ -43,3 +43,13 @@ Es poden dividir en dos grups:
 **Administració del sistema**: assegurar el bon funcionament del sistema informàtic i la xarxa _\(hardware\)_.
 
 **Desenvolupament d'aplicacions**: crea i manté aplicacions informàtiques _\(software\)_.
+
+# Exercicis
+
+## Exercicis teòrics
+
+Realitzar el test del moodle.
+
+## Exercicis pràctics
+
+No n'hi ha.

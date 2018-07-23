@@ -1,5 +1,6 @@
 # Màquines virtuals
-Teoria: https://jrodr236.gitbook.io/som/uf1.-introduccio-als-sistemes-operatius/maquines-virtuals
+
+[Teoria](https://jrodr236.github.io/som/MaquinesVirtuals)
 
 ---
 
@@ -10,14 +11,13 @@ Teoria: https://jrodr236.gitbook.io/som/uf1.-introduccio-als-sistemes-operatius/
 
 Entorn d'escriptori
 
-<img src="/.gitbook/assets/virtualitzacio-escriptori.png" alt="Entorn d'escriptori" height="500px"/>
+![Entorn d&apos;escriptori](../img/virtualitzacio-escriptori.png)
 
 +++
 
 Entorn empresarial
 
-<img src="/.gitbook/assets/virtualitzacio-empresarial.png" alt="Entorn empresarial" height="500px"/>
-
+![Entorn empresarial](../img/virtualitzacio-empresarial.png)
 ---
 
 ## Maquina real i màquina virtual
@@ -25,7 +25,7 @@ Virtual simula funcionament de la real
 
 +++
 
-![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](/.gitbook/assets/amb-sense-vm.png)
+![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](../img/amb-sense-vm.png)
 
 ---
 
@@ -41,7 +41,7 @@ Hoste: Sistema operatiu instal·lat a cada Màquina Virtual.
 
 +++
 
-![Host &amp; guest](/.gitbook/assets/host-guest.png)
+![Host &amp; guest](../img/host-guest.png)
 
 ---
 
