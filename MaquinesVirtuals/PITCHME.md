@@ -17,7 +17,7 @@ Entorn d'escriptori
 
 Entorn empresarial
 
-![Entorn empresarial](/img/virtualitzacio-empresarial.png)
+![Entorn empresarial](img/virtualitzacio-empresarial.png)
 ---
 
 ## Maquina real i màquina virtual
@@ -25,7 +25,7 @@ Virtual simula funcionament de la real
 
 +++
 
-![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](../img/amb-sense-vm.png)
+![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](img/amb-sense-vm.png)
 
 ---
 
@@ -41,7 +41,7 @@ Hoste: Sistema operatiu instal·lat a cada Màquina Virtual.
 
 +++
 
-![Host &amp; guest](../img/host-guest.png)
+![Host &amp; guest](img/host-guest.png)
 
 ---
 
@@ -61,8 +61,8 @@ Hoste: Sistema operatiu instal·lat a cada Màquina Virtual.
 
 * Consolidació de servidors
 * Recuperació davant desastres
-* Proves d’aplicacions
-* Execució d’entorns complets sense instal·lació i configuració
+* Proves d'aplicacions
+* Execució d'entorns complets sense instal·lació i configuració
 * Aplicacions portàtils
 
 +++
