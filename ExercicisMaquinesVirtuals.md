@@ -1,4 +1,4 @@
-# 2. Màquines virtuals - Exercicis pràctics
+# Màquines virtuals - Exercicis pràctics
 
 1. Anem a realitzar la instal·lació del programari distribuït per VirtualBox. Suposarem que el resultat de l’estudi previ fa que el procés sigui viable i per tant farem la instal·lació. El procés que heu de seguir és el següent:
     1. Establiu perfectament els objectius del procés.
@@ -13,7 +13,7 @@
 3. Anem a realitzar la creació de màquines virtuals amb el programari de VirtualBox. Seguiu el següent procediment:
     1. Establiu els objectius del procés.
     2. Executeu el programari de creació de màquines virtuals ja instal·lat i configurat.
-    3. Seleccioneu com a tipus d’instal·lació la típica.
+    3. Seleccioneu com a tipus d'instal·lació la típica.
     4. Establiu com a sistema operatiu invitat el sistema Windows XP Professional Edition.
     5. Poseu-li un nom a la màquina virtual fàcil d’interpretar.
     6. Indiqueu 512MB la quantitat de memòria RAM.

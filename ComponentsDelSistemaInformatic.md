@@ -1,4 +1,4 @@
-# 1. Components del sistema informàtic
+# Components del sistema informàtic
 
 **Resum: pendent**
 

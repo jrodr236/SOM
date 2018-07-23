@@ -1,6 +1,6 @@
 # Màquines virtuals
 
-[Teoria](https://jrodr236.github.io/som/MaquinesVirtuals)
+[Veure Teoria](https://jrodr236.github.io/som/MaquinesVirtuals)
 
 ---
 
@@ -11,13 +11,13 @@
 
 Entorn d'escriptori
 
-![Entorn d&apos;escriptori](../img/virtualitzacio-escriptori.png)
+![Entorn d&apos;escriptori](img/virtualitzacio-escriptori.png)
 
 +++
 
 Entorn empresarial
 
-![Entorn empresarial](../img/virtualitzacio-empresarial.png)
+![Entorn empresarial](/img/virtualitzacio-empresarial.png)
 ---
 
 ## Maquina real i màquina virtual

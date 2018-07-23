@@ -1,4 +1,4 @@
-# 2. Màquines virtuals
+# Màquines virtuals
 
 [Resum](https://gitpitch.com/jrodr236/som/master?p=MaquinesVirtuals)
 
@@ -80,7 +80,7 @@ Exemples:
 
 * la màquina virtual Java \(JVM\), o Dalvik \(usat als dispositius Android\)
 
-![Dalvik](.gitbook/assets/dalvik.png)
+![Dalvik](img/dalvik.png)
 
 ### Virtualització de recursos
 
@@ -105,12 +105,12 @@ Es virtualitzen recursos específics del sistema com, per exemple, la capacitat 
 
 El **programari propietari** es refereix a qualsevol programa informàtic en el qual els usuaris tenen les limitacions següents: utilització, modificació, redistribució \(amb modificació o sense\), o el codi font no està disponible o l’accés és restringit.
 
-![Bill Gates](.gitbook/assets/bill-gates.png)
+![Bill Gates](img/bill-gates.png)
 
-![Steve Jobs](.gitbook/assets/steve-jobs.png)
+![Steve Jobs](img/steve-jobs.png)
 
 El **programari lliure** és la denominació del programari que dóna la llibertat als usuaris sobre el producte adquirit i, per tant, una vegada obtingut, de poder ser utilitzat, copiat, estudiat, modificat i redistribuït lliurament.
 
-![Richard Stallman](.gitbook/assets/richard-stallman.png)
+![Richard Stallman](img/richard-stallman.png)
 
-![Linus Torvalds](.gitbook/assets/linus-torvalds.png)
+![Linus Torvalds](img/linus-torvalds.png)
