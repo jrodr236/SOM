@@ -1,6 +1,6 @@
 # Màquines virtuals
 
-[Veure Teoria](https://jrodr236.github.io/som/MaquinesVirtuals)
+[Veure Teoria](https://jrodr236.github.io/SistemesOperatiusMonolloc/MaquinesVirtuals.html)
 
 ---
 
