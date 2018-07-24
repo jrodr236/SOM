@@ -8,10 +8,10 @@
 
 La virtualització dels sistemes informàtics no només s’aplica a petits equipaments, sinó que cada vegada s’utilitza més en molts àmbits relacionats amb el món de la informàtica.
 
-![Entorn d&apos;escriptori](img/virtualitzacio-escriptori.png)
+![Entorn d&apos;escriptori](http://i.i.cbsi.com/cnwk.1d/i/tim/2012/08/23/ParallelsDesktop7inMissionControl.png)
 *Entorn d'escriptori*
 
-![Entorn empresarial](img/virtualitzacio-empresarial.png)
+![Entorn empresarial](http://media.bestofmicro.com/S/Q/449450/original/Fig2.3-HybridStorageVirtualization.png)
 *Entorn empresarial*
 
 ## Maquina real i màquina virtual
@@ -20,7 +20,7 @@ Una **màquina real** \(o **física**\) és un ordinador que té elements físic
 
 Una **màquina virtual** \(o màquina **lògica**\) és una màquina que simula el funcionament d’una màquina real. Sobre ella es poden instal·lar sistemes operatius, aplicacions informàtiques, navegar de manera segura per Internet, utilitzar diversos dispositius \(per exemple, targetes de xarxa, dispositius USB, etc.\).
 
-![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](img/amb-sense-vm.png)
+![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](https://i0.wp.com/www.backupassist.com/blog/wp-content/uploads/2016/05/PhysicalVirtualMachine.jpg?ssl=1)
 *Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals*
 
 ## Virtualització
@@ -35,7 +35,7 @@ El sistema operatiu sobre el qual s’executa el programari per a crear les màq
 
 Els diversos sistemes operatius instal·lats en cada màquina virtuals s’anomenen **hostes \(guest\)**.
 
-![Host &amp; guest](img/host-guest.png)
+![Host &amp; guest](https://i.ytimg.com/vi/GGorVpzZQwA/maxresdefault.jpg)
 *Host &amp; guest*
 
 ## Tipus de màquines virtuals
@@ -59,17 +59,16 @@ La capa de programari que permet la virtualització s’anomena màquina virtual
 Tipus
 
 * Emulació: simula plataformes de maquinari diferents.
+![Emulaci&#xF3;](img/emulacio.png)
+
+
 * Virtualització completa o nativa: simula la mateixa plataforma de maquinari.
+![Virtualitzaci&#xF3; completa](img/virtualitzacio-completa.png)
+
 * Paravirtualització: mitjançant modificacions del sistema operatiu natiu, millora l'eficiència.
 
-![Exemple d&apos;emulaci&#xF3;](img/mario.png)
-*Exemple d&apos;emulaci&#xF3;*
 
-![Emulaci&#xF3;](img/emulacio.png)
-*Emulació*
 
-![Virtualitzaci&#xF3; completa](img/virtualitzacio-completa.png)
-*Virtualització completa*
 
 ### Màquines virtuals de procés
 
@@ -81,11 +80,9 @@ La màquina virtual s’inicia automàticament quan es llança el procés que s�
 
 El seu objectiu és proporcionar un entorn d’execució independent de la plataforma de maquinari i del sistema operatiu que amagui el maquinari real i permeti que un programa s’executi sempre de la mateixa manera sobre qualsevol plataforma.
 
-Exemples:
+>Per exemple: la màquina virtual Java \(JVM\), Dalvik (antiga) o Art (nova) usat als dispositius Android.
 
-* la màquina virtual Java \(JVM\), o Dalvik \(usat als dispositius Android\)
-
-![Dalvik](img/dalvik.png)
+![Dalvik](https://jarroba.com/wp-content/uploads/2015/05/Pila-de-arquitectura-Android-www.Jarroba.com_.png)
 
 ### Virtualització de recursos
 
@@ -106,16 +103,10 @@ Es virtualitzen recursos específics del sistema com, per exemple, la capacitat 
 * Afegeixen una gran complexitat al sistema en temps d’execució. Això té com a efecte l’alentiment del sistema, és a dir, el programari no s’executarà amb la mateixa velocitat que en una màquina real.
 * Una màquina virtual reservarà recursos de maquinari de la màquina amfitrió en el moment de la seva posada en funcionament. Típicament, aquests recursos són en forma de memòria RAM i espai de disc dur que no estaran disponibles per al sistema operatiu amfitrió. Una vegada la màquina virtual es para, la memòria RAM utilitzada per la màquina virtual queda lliure però no l’espai de disc dur que continuarà reservat per a la màquina virtual, ja que conté els fitxers que permeten al sistema operatiu hoste executar-se.
 
-## Instal·lació de programari gestor de màquines virtuals
+## Procés d'implementació de màquines virtuals
 
-El **programari propietari** es refereix a qualsevol programa informàtic en el qual els usuaris tenen les limitacions següents: utilització, modificació, redistribució \(amb modificació o sense\), o el codi font no està disponible o l’accés és restringit.
-
-![Bill Gates](img/bill-gates.png)
-
-![Steve Jobs](img/steve-jobs.png)
-
-El **programari lliure** és la denominació del programari que dóna la llibertat als usuaris sobre el producte adquirit i, per tant, una vegada obtingut, de poder ser utilitzat, copiat, estudiat, modificat i redistribuït lliurament.
-
-![Richard Stallman](img/richard-stallman.png)
-
-![Linus Torvalds](img/linus-torvalds.png)
+* Instal·lació del gestor de màquines màquines virtuals
+* Creació de màquines virtuals
+* Configuració i utilització de màquines virtuals
+* Comprovació del funcionament correcte de les màquines virtuals
+* Documentació del procés i de les seves incidències

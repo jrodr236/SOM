@@ -1,12 +1,14 @@
 # Components del sistema informàtic
 
-* Resum: **pendent**
+* [Resum](https://gitpitch.com/jrodr236/som/master?p=ComponentsDelSistemaInformatic)
 * Exercicis teòrics: *moodle*
 * Exercicis pràctics: *no n'hi ha.*
 
 ## Sistema informàtic
 
 Un **sistema informàtic** és el conjunt d'elements necessaris per a la realització i l’explotació d'aplicacions informàtiques. S’hi inclouen els elements de programari, de maquinari i els humans.
+
+![Sistema informàtic](http://btechsmartclass.com/CP/images/software-hardware-user.png)
 
 Podem definir la **informàtica** com la ciència que estudia el tractament automàtic i racional de la informació.
 
@@ -51,3 +53,6 @@ Es poden dividir en dos grups:
 **Administració del sistema**: assegurar el bon funcionament del sistema informàtic i la xarxa _\(hardware\)_.
 
 **Desenvolupament d'aplicacions**: crea i manté aplicacions informàtiques _\(software\)_.
+
+![Administrador vs. Programador](https://blog.professorbeekums.com/img/2017/1/sevssa.png)
+*Administrador vs. Programador*

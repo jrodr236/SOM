@@ -11,13 +11,13 @@
 
 Entorn d'escriptori
 
-![Entorn d&apos;escriptori](img/virtualitzacio-escriptori.png)
+![Entorn d&apos;escriptori](http://i.i.cbsi.com/cnwk.1d/i/tim/2012/08/23/ParallelsDesktop7inMissionControl.png)
 
 +++
 
 Entorn empresarial
 
-![Entorn empresarial](img/virtualitzacio-empresarial.png)
+![Entorn empresarial](http://media.bestofmicro.com/S/Q/449450/original/Fig2.3-HybridStorageVirtualization.png)
 ---
 
 ## Maquina real i màquina virtual
@@ -25,7 +25,7 @@ Virtual simula funcionament de la real
 
 +++
 
-![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](img/amb-sense-vm.png)
+![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](https://i0.wp.com/www.backupassist.com/blog/wp-content/uploads/2016/05/PhysicalVirtualMachine.jpg?ssl=1)
 
 ---
 
@@ -41,7 +41,7 @@ Hoste: Sistema operatiu instal·lat a cada Màquina Virtual.
 
 +++
 
-![Host &amp; guest](img/host-guest.png)
+![Host &amp; guest](https://i.ytimg.com/vi/GGorVpzZQwA/maxresdefault.jpg)
 
 ---
 
@@ -71,3 +71,13 @@ Hoste: Sistema operatiu instal·lat a cada Màquina Virtual.
 
 * Afegeixen complexitat (més lent)
 * Treuen recursos a la màquina real
+
+---
+
+## Procés d'implementació
+
+* Instal·lació del gestor
+* Creació
+* Configuració i utilització
+* Comprovació
+* Documentació
