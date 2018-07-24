@@ -1,4 +1,6 @@
 # UF1. Introducció als sistemes operatius
 
-* [1. Components del sistema informàtic](ComponentsDelSistemaInformatic.md)
-* [2. Màquines virtuals](MaquinesVirtuals.md)
+* [Components del sistema informàtic](ComponentsDelSistemaInformatic.md)
+* [Màquines virtuals](MaquinesVirtuals.md)
+* [Administració de màquines virtuals](AdministracioDeMaquinesVirtuals.md)
+* [Configuració de la xarxa a les màquines virtuals](XarxaMaquinesVirtuals.md)
