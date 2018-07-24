@@ -11,6 +11,7 @@
 La virtualització dels sistemes informàtics no només s’aplica a petits equipaments, sinó que cada vegada s’utilitza més en molts àmbits relacionats amb el món de la informàtica.
 
 ![Entorn d&apos;escriptori](img/virtualitzacio-escriptori.png)
+*Entorn d'escriptori*
 
 ![Entorn empresarial](img/virtualitzacio-empresarial.png)
 
