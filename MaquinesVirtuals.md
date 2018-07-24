@@ -1,10 +1,8 @@
 # Màquines virtuals
 
-[Resum](https://gitpitch.com/jrodr236/som/master?p=MaquinesVirtuals)
-
-*Exercicis teòrics: moodle*
-
-[Exercicis pràctics](ExercicisMaquinesVirtuals.md)
+* [Resum](https://gitpitch.com/jrodr236/som/master?p=MaquinesVirtuals)
+* Exercicis teòrics: *moodle*
+* [Exercicis pràctics](ExercicisMaquinesVirtuals.md)
 
 ## Introducció
 
@@ -14,6 +12,7 @@ La virtualització dels sistemes informàtics no només s’aplica a petits equi
 *Entorn d'escriptori*
 
 ![Entorn empresarial](img/virtualitzacio-empresarial.png)
+*Entorn empresarial*
 
 ## Maquina real i màquina virtual
 
@@ -22,6 +21,7 @@ Una **màquina real** \(o **física**\) és un ordinador que té elements físic
 Una **màquina virtual** \(o màquina **lògica**\) és una màquina que simula el funcionament d’una màquina real. Sobre ella es poden instal·lar sistemes operatius, aplicacions informàtiques, navegar de manera segura per Internet, utilitzar diversos dispositius \(per exemple, targetes de xarxa, dispositius USB, etc.\).
 
 ![Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals](img/amb-sense-vm.png)
+*Sense m&#xE0;quines virtuals vs. amb m&#xE0;quines virtuals*
 
 ## Virtualització
 
@@ -36,6 +36,7 @@ El sistema operatiu sobre el qual s’executa el programari per a crear les màq
 Els diversos sistemes operatius instal·lats en cada màquina virtuals s’anomenen **hostes \(guest\)**.
 
 ![Host &amp; guest](img/host-guest.png)
+*Host &amp; guest*
 
 ## Tipus de màquines virtuals
 
@@ -62,10 +63,13 @@ Tipus
 * Paravirtualització: mitjançant modificacions del sistema operatiu natiu, millora l'eficiència.
 
 ![Exemple d&apos;emulaci&#xF3;](img/mario.png)
+*Exemple d&apos;emulaci&#xF3;*
 
 ![Emulaci&#xF3;](img/emulacio.png)
+*Emulació*
 
 ![Virtualitzaci&#xF3; completa](img/virtualitzacio-completa.png)
+*Virtualització completa*
 
 ### Màquines virtuals de procés
 

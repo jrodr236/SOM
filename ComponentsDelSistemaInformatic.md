@@ -1,10 +1,8 @@
 # Components del sistema informàtic
 
-**Resum: pendent**
-
-*Exercicis teòrics: moodle*
-
-*Exercicis pràctics: no n'hi ha.*
+* Resum: **pendent**
+* Exercicis teòrics: *moodle*
+* Exercicis pràctics: *no n'hi ha.*
 
 ## Sistema informàtic
 
