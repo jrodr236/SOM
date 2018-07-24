@@ -12,4 +12,5 @@
 ## Part humana
 * Usuari
 * Personal informàtic
+
   ![Administrador vs. Programador](https://blog.professorbeekums.com/img/2017/1/sevssa.png)
