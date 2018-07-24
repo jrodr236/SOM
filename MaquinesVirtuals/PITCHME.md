@@ -11,13 +11,13 @@
 
 Entorn d'escriptori
 
-<img src="http://i.i.cbsi.com/cnwk.1d/i/tim/2012/08/23/ParallelsDesktop7inMissionControl.png" height="600px">
+<img src="http://i.i.cbsi.com/cnwk.1d/i/tim/2012/08/23/ParallelsDesktop7inMissionControl.png" height="500px">
 
 +++
 
 Entorn empresarial
 
-<img src="http://media.bestofmicro.com/S/Q/449450/original/Fig2.3-HybridStorageVirtualization.png" height="600px">
+<img src="http://media.bestofmicro.com/S/Q/449450/original/Fig2.3-HybridStorageVirtualization.png" height="500px">
 
 ---
 
