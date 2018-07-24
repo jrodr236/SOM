@@ -14,7 +14,9 @@ Podem definir la **informàtica** com la ciència que estudia el tractament auto
 
 ## Part física d'un sistema informàtic
 
-El **maquinari** _**\(hardware\)**_ fa referència a tot allò que podem veure i tocar \(el monitor, el teclat, la CPU, etc.\).
+El **maquinari** _**\(hardware\)**_ fa referència a tot allò que podem veure i tocar.
+
+> Exemples: el monitor, el teclat, la CPU, etc.
 
 ## Part lògica d'un sistema informàtic
 
@@ -38,7 +40,9 @@ El **programari d'aplicació** són els programes que fan que l’ordinador dese
 
 És la persona que utilitza la informàtica com a eina per a desenvolupar el seu treball o com a ajuda en una activitat.
 
-Cal tenir uns coneixements informàtics bàsics i, particularment, tenir uns grans coneixements sobre el funcionament de l’aplicació informàtica que està utilitzant. Per exemple, l’usuari d’aplicacions ofimàtiques.
+Cal tenir uns coneixements informàtics bàsics i, particularment, tenir uns grans coneixements sobre el funcionament de l’aplicació informàtica que està utilitzant.
+
+> Per exemple, l’usuari d’aplicacions ofimàtiques.
 
 ### Personal informàtic
 
