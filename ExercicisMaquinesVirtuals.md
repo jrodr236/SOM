@@ -26,12 +26,12 @@
 4. Repetiu la pràctica anterior amb el programari de VMWare.
 
 5. Mostra, a VirtualBox, el procediment per a:
- * Ampliar la memòria RAM.
- * Afegir un nou disc dur virtual.
- * Fer que la unitat de CD/DVD llegeixi un arxiu ISO.
- * Afegir una disquetera.
- * Canviar la configuració de la targeta de xarxa a Bridged.
- * Afegir carpetes compartides.
+    * Ampliar la memòria RAM.
+    * Afegir un nou disc dur virtual.
+    * Fer que la unitat de CD/DVD llegeixi un arxiu ISO.
+    * Afegir una disquetera.
+    * Canviar la configuració de la targeta de xarxa a Bridged.
+    * Afegir carpetes compartides.
 
 6. Utilitzant l'administrador de tasques, mostra la variació de rendiment del sistema quan executem màquines virtuals. Fes captures de pantalla per a mostrar-ho quan no s'està executant cap aplicació, quan s'està executant una màquina virtual sobre els software de VirtualBox, i quan s'està executant sobre el de VMWare. Comenta-les.
 
