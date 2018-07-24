@@ -15,9 +15,14 @@ Entorn d'escriptori
 
 +++
 
+<img src="http://media.bestofmicro.com/S/Q/449450/original/Fig2.3-HybridStorageVirtualization.png" height="90%">
+
++++
+
 Entorn empresarial
 
 ![Entorn empresarial](http://media.bestofmicro.com/S/Q/449450/original/Fig2.3-HybridStorageVirtualization.png)
+
 ---
 
 ## Maquina real i màquina virtual
