@@ -6,11 +6,11 @@ Configuració de la xarxa a les màquines virtuals
 ---
 
 ## Hardware virtual
-![Targeta de xarxa virtual](https://www.tutorialspoint.com/communication_technologies/images/ethernet_card.jpg)
+![Targeta de xarxa virtual](https://i.pinimg.com/originals/51/0d/fd/510dfd4b05143f8c54ba1a2a876c4cd7.jpg)
 
 +++
 
-![](http://www.szedup.com/wp-content/uploads/2018/05/EP-N1581-3.jpg)
+<img src="http://www.szedup.com/wp-content/uploads/2018/05/EP-N1581-3.jpg" height="500px">
 
 ---
 
@@ -26,7 +26,7 @@ Configuració de la xarxa a les màquines virtuals
 +++
 
 ### No connectat
-<img src="https://cdn.instructables.com/FXZ/EHBK/FZHLAEHA/FXZEHBKFZHLAEHA.LARGE.jpg" height="500px">
+<img src="https://www.tutorialspoint.com/communication_technologies/images/ethernet_card.jpg" height="500px">
 
 +++
 
