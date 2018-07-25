@@ -4,7 +4,7 @@
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=AdministracioDeMaquinesVirtuals)
 * Exercicis teòrics: *No n'hi ha*
-* [Exercicis pràctics](ExercicisAdministracioMaquinesVirtuals.md)
+* [Exercicis pràctics](ExercicisAdministracioDeMaquinesVirtuals.md)
 
 Estigues atent a les demostracions sobre com fer les següents tasques:
 * Instal·lar les guest additions
