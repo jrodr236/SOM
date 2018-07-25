@@ -29,8 +29,10 @@ Les *Guest Additions* ofereixen les següents funcionalitats:
 * Inici de sessió automatitzat (passant les credencials)
 
 
-Augmentar mida de la RAM
+Augmentar mida de la memòria principal (RAM)
 ---------------------------
+
+> La **memòria principal** és a on s'emmagatzemen temporalment les dades i les programes que la CPU està processant o ha de processar en un moment determinat.
 
 Cal fer-ho quan el rendiment de la màquina virtual es redueix per manca de memòria.
 
@@ -43,12 +45,17 @@ Procediment:
 4. Modificar la `Memòria base`.
 
 
-Augmentar la mida del disc dur
+Augmentar la mida de la memòria secundària (disc dur)
 ---------------------------
 
-Amb l'espai sobrant del disc dur creat, podem:
-* Augmentar la mida del volum
-* Crear un nou volum
+> La **memòria secundària** és un tipus d'emmagatzemament permanent (no volàtil), amb més capacitat que la memòria primària però més lenta.
+
+>El tipus principal és el disc dur, però n'hi ha molts més: DVD, pendrive, SSD, etc...
+
+
+Un cop augmentem l'espai del disc dur podem:
+* Augmentar la mida del volum/partició
+* Crear un nou volum/partició
 
 Procediment:
 1. Para la màquina virtual.

@@ -66,7 +66,7 @@ Es tracta d'uns modes poc utilitzat, que comparteixen la mateixa interfície de 
 ### Resum
 
 &nbsp;|VM ↔ Host|VM1 ↔ VM2|VM → Internet|VM ← Internet
----------|---------|-------------|-------------
+---------|:---------:|:-------------:|:-------------:|:-----:
 Host-only|+|+|–|–
 Internal|–|+|–|–
 Bridged|+|	+|	+|	+

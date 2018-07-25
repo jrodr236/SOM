@@ -75,14 +75,14 @@ Poc utilitzat.
 ### Resum
 
 &nbsp;|VM ↔ Host|VM1 ↔ VM2|VM → Internet|VM ← Internet
----------|---------|-------------|-------------
+---------|:---------:|:-------------:|:-------------:|:----:
 Host-only|+|+|–|–
 Internal|–|+|–|–
 
 +++
 
 &nbsp;|VM ↔ Host|VM1 ↔ VM2|VM → Internet|VM ← Internet
----------|---------|-------------|-------------
+---------|:---------:|:-------------:|:-------------:|:----:
 Bridged|+|	+|	+|	+
 NAT|	–|	–|	+|	Port forwarding
 NAT Network|	–|	+|	+|	Port forwarding
