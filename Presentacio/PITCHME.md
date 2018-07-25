@@ -6,7 +6,7 @@ Presentació SOM - SMX
 
 ---
 
-Crèdit de 1r de SMX
+Mòdul professional de 1r de SMX
 
 132 hores (4 hores a la setmana)
 
@@ -16,9 +16,11 @@ Contingut bàsic per l'ús i administració dels sistemes informàtics
 
 Unitats formatives
 ---------------------
-* UF1. Introducció als sistemes operatius
-* UF2. Sistemes operatius propietaris
-* UF3. Sistemes operatius lliures
+UF1. Introducció als sistemes operatius
+
+UF2. Sistemes operatius propietaris
+
+UF3. Sistemes operatius lliures
 
 ---
 
@@ -65,13 +67,13 @@ UF2. Sistemes operatius propietaris
 
 
 
-<img src="https://i.ytimg.com/vi/-nRaEITsx-8/maxresdefault.jpg" height="500px">
+<img src="https://i.ytimg.com/vi/-nRaEITsx-8/maxresdefault.jpg" height="400px">
 
 +++
 
 ### Administració de sistemes operatius propietaris
 
-<img src="https://www.tenforums.com/attachments/tutorials/53722d1450210008-add-windows-update-control-panel-windows-10-a-wiindows_update_in_control_panel.png" height="500px">
+<img src="https://www.tenforums.com/attachments/tutorials/53722d1450210008-add-windows-update-control-panel-windows-10-a-wiindows_update_in_control_panel.png" height="400px">
 
 ---
 
@@ -110,18 +112,22 @@ Instruments d'avaluació
 -----------------------
 
 
-* Demostracions i correcció en veu alta: 30%
-* Lliuraments: 30%
-* Proves (exàmens): 30%
+Demostracions i correcció en veu alta: 30%
+
+Lliuraments: 30%
+
+Proves (exàmens): 30%
 
 +++
 
 ### Demostracions i correcció en veu alta
 
 
-* Seguiment treball diari
-* Pràctiques *ordinàries*: correcció d'alumne aleatori
-* Grimpades: correcció opcional
+Seguiment treball diari
+
+Pràctiques *ordinàries*: correcció d'alumne aleatori
+
+Grimpades: correcció opcional
 
 |A|B|C|D|E|
 |:-:|:-:|:-:|:-:|:-:|
@@ -132,21 +138,24 @@ Instruments d'avaluació
 
 ### Lliuraments
 
-* Teoria: test
-* Pràctica: exercicis
-  * Respostes en **color blau**
-  * Tipus de fitxer: **PDF**
-  * Lliurar tard: 1 dia = 1 punt menys
-  * Copiar: 0 per tots
-  * Pràctiques *ordinàries*: permeten arribar al 7-8.
-  * *Grimpades*: permeten arribar al 10.
+Teoria: test
+
+Pràctica: exercicis
+* Respostes en **color blau**
+* Tipus de fitxer: **PDF**
+* Lliurar tard: 1 dia = 1 punt menys
+* Copiar: 0 per tots
+* Pràctiques *ordinàries*: permeten arribar al 7-8.
+* *Grimpades*: permeten arribar al 10.
 
 +++
 
 Proves (exàmens)
 ----------------
-* Part teòrica i pràctica
-* Si no es pot assistir, enviar email abans de 1a hora del matí.
+
+Part teòrica i pràctica
+
+Si no es pot assistir, enviar email abans de 1a hora del matí.
 
 ---
 
@@ -163,9 +172,11 @@ Recuperació
 
 Feu tot el possible per no anar-hi!
 
-* 1 prova per cada UF suspesa.
-* S'han de lliurar tots els exercicis de la UF fets a classe.
-* Nota màxima 6
+1 prova per cada UF suspesa.
+
+S'han de lliurar tots els exercicis de la UF fets a classe.
+
+Nota màxima 6
 
 ---
 
@@ -176,19 +187,19 @@ Algunes normes bàsiques
 
 ### Actitud com a alumne
 
-* Respecte
-* Cura
-* No menjar i beure a classe
-* Utilitzar l'ordinador únicament per l'aprenentatge del mòdul
+Respecte
+Cura
+No menjar i beure a classe
+Utilitzar l'ordinador únicament per l'aprenentatge del mòdul
 
 +++
 
 ### Actitud com a futur professional
 
-* Flexibilitat
-* Capacitat de superació
-* Optimisme
-* Iniciativa
-* Motivació
+Flexibilitat
+Capacitat de superació
+Optimisme
+Iniciativa
+Motivació
 
 [Més info](http://www.elconfidencial.com/alma-corazon-vida/2013-10-22/las-5-actitudes-laborales-mas-valoradas-para-superar-un-proceso-de-seleccion_44062/)
