@@ -1,12 +1,12 @@
 Configuració de la xarxa a les màquines virtuals
 ================================================
 
-[Veure Teoria](https://jrodr236.github.io/SOM/XarxesMaquinesVirtuals.html)
+[Veure Teoria](https://jrodr236.github.io/SOM/XarxaMaquinesVirtuals.html)
 
 ---
 
 ## Hardware virtual
-![Targeta de xarxa virtual](https://i.pinimg.com/originals/51/0d/fd/510dfd4b05143f8c54ba1a2a876c4cd7.jpg)
+<img src="https://i.pinimg.com/originals/51/0d/fd/510dfd4b05143f8c54ba1a2a876c4cd7.jpg" height="500px">
 
 +++
 
@@ -44,7 +44,7 @@ Les VM estan desconnectades entre si.
 
 Les VM estan connectades entre si
 
-*No confondre amb NAT*
+*No confondre amb* ***NAT***
 
 +++
 
