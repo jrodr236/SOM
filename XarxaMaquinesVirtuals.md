@@ -4,7 +4,7 @@
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=XarxesMaquinesVirtuals)
 * Exercicis teòrics: *pendent*
-* [Exercicis pràctics](ExercicisXarxesMaquinesVirtuals.md)
+* [Exercicis pràctics](ExercicisXarxaMaquinesVirtuals.md)
 
 ## Hardware virtual
 VirtualBox té els següents tipus de targetes de xarxa virtual:
