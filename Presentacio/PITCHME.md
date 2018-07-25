@@ -39,7 +39,7 @@ UF1. Introducció als sistemes operatius
 
 ### Administració de sistemes operatius mòbils
 
-<img src="http://www.buschmais.de/wp-content/uploads/2014/07/Android-Robot-Admin.png" height="500px">
+<img src="http://www.buschmais.de/wp-content/uploads/2014/07/Android-Robot-Admin.png" height="400px">
 
 
 +++
@@ -47,7 +47,7 @@ UF1. Introducció als sistemes operatius
 ### El sistema operatiu
 <img src="https://i.ytimg.com/vi/M5SDwFAhvp0/maxresdefault.jpg" height="500px">
 
-
+---
 
 
 UF2. Sistemes operatius propietaris
@@ -55,13 +55,13 @@ UF2. Sistemes operatius propietaris
 
 +++
 
-### A1. Instal·lació de sistemes operatius propietaris
+### Instal·lació de sistemes operatius propietaris
 
-<img src="https://filestore.community.support.microsoft.com/api/images/241990cb-a552-4dcf-9a04-95751e843caf" height="500px">
+<img src="https://filestore.community.support.microsoft.com/api/images/241990cb-a552-4dcf-9a04-95751e843caf" height="400px">
 
 +++
 
-### A2. Configuració i manteniment de sistemes operatius propietaris
+### Configuració i manteniment de sistemes operatius propietaris
 
 
 
@@ -69,31 +69,31 @@ UF2. Sistemes operatius propietaris
 
 +++
 
-### A3. Administració de sistemes operatius propietaris
+### Administració de sistemes operatius propietaris
 
 <img src="https://www.tenforums.com/attachments/tutorials/53722d1450210008-add-windows-update-control-panel-windows-10-a-wiindows_update_in_control_panel.png" height="500px">
 
-+++
+---
 
 UF3. Sistemes operatius lliures
 ---------------------
 
 +++
 
-### A1. Instal·lació de sistemes operatius lliures
+### Instal·lació de sistemes operatius lliures
 
-<img src="https://www.linuxtechi.com/wp-content/uploads/2017/10/Install-Ubuntu-option-Ubuntu17-10-1024x503.jpg" height="500px">
+<img src="https://www.linuxtechi.com/wp-content/uploads/2017/10/Install-Ubuntu-option-Ubuntu17-10-1024x503.jpg" height="400px">
 
 +++
-### A2. Configuració i manteniment de sistemes operatius lliures
+### Configuració i manteniment de sistemes operatius lliures
 
-<img src="http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/published/ubuntu-17-04-system-settings.jpg?1490780848" height="500px">
+<img src="http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/published/ubuntu-17-04-system-settings.jpg?1490780848" height="400px">
 
 +++
 
 ### A3. Administració de sistemes operatius lliures
 
-<img src="https://i.ytimg.com/vi/9j0h3qf73jI/maxresdefault.jpg" height="500px">
+<img src="https://i.ytimg.com/vi/9j0h3qf73jI/maxresdefault.jpg" height="400px">
 
 ---
 
@@ -101,47 +101,53 @@ Recursos
 ------
 
 https://jrodr236.github.io/SOM/
-* Llibre electrònic
-* Resums
-* Exercicis pràctics
 
-https://moodleinf.boscdelacoma.cat
-* Exercicis teòrics
-* Espai pels lliuraments
-* Etc...
+ https://moodleinf.boscdelacoma.cat
 
 ---
 
-Demostracions i correcció en veu alta
--------------------------------------
+Instruments d'avaluació
+-----------------------
+
+
+* Demostracions i correcció en veu alta: 30%
+* Lliuraments: 30%
+* Proves (exàmens): 30%
+
++++
+
+### Demostracions i correcció en veu alta
+
 
 * Seguiment treball diari
-* Habitualment 30% de la nota final
-* Sistema de lletres:
-  * A B C D E
-  * 10 7,5 5 2,5 0
-* Grimpades: correcció en veu alta opcional
+* Pràctiques *ordinàries*: correcció d'alumne aleatori
+* Grimpades: correcció opcional
 
----
+|A|B|C|D|E|
+|:-:|:-:|:-:|:-:|:-:|
+|10|7,5|5|2,5|0|
 
-Lliuraments
------------
 
-* Habitualment 30% de la nota final
-* Respostes en **color blau**
-* Tipus de fitxer: **PDF**
-* Lliurar tard: 1 dia = 1 punt menys
-* Copiar: 0 per tots
-* Grimpades: permet arribar al 10.
-  * No fer-les implica nota, més o menys, fins a 7.
++++
 
----
+### Lliuraments
 
-  Proves (exàmens)
-  ----------------
-  * Teòrics (test) + Pràctics
-  * Habitualment el 40% de la nota final
-  * Si no es pot assistir, enviar email abans de 1a hora del matí.
+* Teoria: test
+* Pràctica: exercicis
+  * Respostes en **color blau**
+  * Tipus de fitxer: **PDF**
+  * Lliurar tard: 1 dia = 1 punt menys
+  * Copiar: 0 per tots
+  * Pràctiques *ordinàries*: permeten arribar al 7-8.
+  * *Grimpades*: permeten arribar al 10.
+
++++
+
+Proves (exàmens)
+----------------
+* Part teòrica i pràctica
+* Si no es pot assistir, enviar email abans de 1a hora del matí.
+
 ---
 
 Absències
