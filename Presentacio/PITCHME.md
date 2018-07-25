@@ -1,5 +1,6 @@
-Presentació SOM - SMX
+Presentació
 =======================
+
 **Mòdul:** Sistemes Operatius Monolloc
 
 **Cicle:** Sistemes Microinformàtics i Xarxes
@@ -209,7 +210,6 @@ Iniciativa
 
 Motivació
 
-[Més info](http://www.elconfidencial.com/alma-corazon-vida/2013-10-22/las-5-actitudes-laborales-mas-valoradas-para-superar-un-proceso-de-seleccion_44062/)
 
 ---
 
