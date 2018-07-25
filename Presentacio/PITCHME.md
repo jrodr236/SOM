@@ -116,7 +116,7 @@ Demostracions i correcció en veu alta: 30%
 
 Lliuraments: 30%
 
-Proves (exàmens): 30%
+Proves (exàmens): 40%
 
 +++
 
@@ -127,7 +127,7 @@ Seguiment treball diari
 
 Pràctiques *ordinàries*: correcció d'alumne aleatori
 
-Grimpades: correcció opcional
+*Grimpades*: correcció opcional
 
 |A|B|C|D|E|
 |:-:|:-:|:-:|:-:|:-:|
@@ -138,15 +138,15 @@ Grimpades: correcció opcional
 
 ### Lliuraments
 
-Teoria: test
+* Teoria: test
 
-Pràctica: exercicis
-* Respostes en **color blau**
-* Tipus de fitxer: **PDF**
-* Lliurar tard: 1 dia = 1 punt menys
-* Copiar: 0 per tots
-* Pràctiques *ordinàries*: permeten arribar al 7-8.
-* *Grimpades*: permeten arribar al 10.
+* Pràctica: exercicis
+  * Respostes en **color blau**
+  * Tipus de fitxer: **PDF**
+  * Lliurar tard: 1 dia = 1 punt menys
+  * Copiar: 0 per tots
+  * Pràctiques *ordinàries*: permeten arribar al 7-8.
+  * *Grimpades*: permeten arribar al 10.
 
 +++
 
@@ -188,8 +188,11 @@ Algunes normes bàsiques
 ### Actitud com a alumne
 
 Respecte
+
 Cura
+
 No menjar i beure a classe
+
 Utilitzar l'ordinador únicament per l'aprenentatge del mòdul
 
 +++
@@ -197,9 +200,18 @@ Utilitzar l'ordinador únicament per l'aprenentatge del mòdul
 ### Actitud com a futur professional
 
 Flexibilitat
+
 Capacitat de superació
+
 Optimisme
+
 Iniciativa
+
 Motivació
 
 [Més info](http://www.elconfidencial.com/alma-corazon-vida/2013-10-22/las-5-actitudes-laborales-mas-valoradas-para-superar-un-proceso-de-seleccion_44062/)
+
+---
+
+Dubtes?
+-------
