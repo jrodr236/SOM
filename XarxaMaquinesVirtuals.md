@@ -3,7 +3,7 @@
 [//]: https://www.virtualbox.org/manual/ch06.html
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=XarxesMaquinesVirtuals)
-* Exercicis teòrics: *pendent*
+* Exercicis teòrics: *moodle*
 * [Exercicis pràctics](ExercicisXarxaMaquinesVirtuals.md)
 
 ## Hardware virtual
