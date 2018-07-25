@@ -8,9 +8,10 @@
 
 ---
 Basat en el [material didàctic de l'Institut Obert de Catalunya](https://ioc.xtec.cat/materials/FP/Materials/2201_SMX/SMX_2201_M02/web/html/).
+* © Departament d'Ensenyament.
 * Coordinació: Anna Castelló Gistau
 * Redacció: Josep Esteve Estruch
-* © Departament d'Ensenyament.
+
 
 ---
 
