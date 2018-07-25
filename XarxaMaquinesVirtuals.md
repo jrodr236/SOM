@@ -3,7 +3,7 @@
 [//]: https://www.virtualbox.org/manual/ch06.html
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=XarxesMaquinesVirtuals)
-* Exercicis teòrics: *No n'hi ha*
+* Exercicis teòrics: *pendent*
 * [Exercicis pràctics](ExercicisXarxesMaquinesVirtuals.md)
 
 ## Hardware virtual
@@ -65,7 +65,7 @@ Es tracta d'uns modes poc utilitzat, que comparteixen la mateixa interfície de 
 
 ### Resum
 
-|VM ↔ Host|VM1 ↔ VM2|VM → Internet|VM ← Internet
+&nbsp;|VM ↔ Host|VM1 ↔ VM2|VM → Internet|VM ← Internet
 ---------|---------|-------------|-------------
 Host-only|+|+|–|–
 Internal|–|+|–|–
