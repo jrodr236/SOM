@@ -142,7 +142,7 @@ Pràctiques *ordinàries*: correcció d'alumne aleatori
 * Teoria: test
 
 * Pràctica: exercicis
-  * Respostes en **color blau**
+  * Respostes en <span style="color:blue">**color blau**</span>
   * Tipus de fitxer: **PDF**
   * Lliurar tard: 1 dia = 1 punt menys
   * Copiar: 0 per tots
