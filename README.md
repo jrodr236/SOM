@@ -45,4 +45,4 @@ Aquesta obra està subjecta a una llicència de <a rel="license" href="http://cr
 
 ---
 
-[#FpInfor](https://github.com/ProfesInformatica/FpInfor) #Smx #SmxM02 #SmxM02Uf01 #SmxM02Uf02 #SmxM02Uf03
+[#FpInfor](https://profesinformatica.github.io/FpInfor/) #Smx #SmxM02 #SmxM02Uf01 #SmxM02Uf02 #SmxM02Uf03
