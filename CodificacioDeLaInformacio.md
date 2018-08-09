@@ -24,9 +24,11 @@ Els tipus de dades bàsics utilitzats pels ordinadors son:
 -   **Alfabètiques**. Formades per lletres (A, B, ..., Z).
 -   **Alfanumèriques**. Formades per tots els caràcters.
 
+Els ordinadors també emmagatzemen dades complexes: *imatges, audio, vídeo, etc...*
+
 Un **codi** és la manera diferent d’interpretar una mateixa informació.
 
--   Per exemple, el símbol X, fent servir el codi alfabètic, és una
+> Per exemple, el símbol X, fent servir el codi alfabètic, és una
     lletra, mentre que si apliquem el codi de les xifres romanes és el
     nombre 10.
 
@@ -41,7 +43,7 @@ Qualsevol quantitat, frase o dada s’emmagatzema en forma de zeros i uns.
 L’ordinador utilitza un sistema de numeració diferent del sistema
 decimal: **el sistema binari**.
 
-L’ordinador pot representar les dades de dues maneres:
+L’ordinador pot representar les dades bàsiques de dues maneres:
 
 -   mitjançant sistemes numèrics
 -   mitjançant codis alfanumèrics
@@ -59,34 +61,30 @@ el nom d’octet.
 Prefixos d’ús convencional en informàtica
 -----------------------------------------
 
-![](Pictures/1000000000000408000001F2FBF4206FE6213526.png){width="17cm"
-height="8.202cm"}
+![Prefixos](img/prefixos.png)
+*https://ca.wikipedia.org/wiki/Byte*
 
-L’ús convencional ha provocat confusions: 1.024 (210) no és 1.000.
 
--   Els fabricants de dispositius d’emmagatzematge, habitualment,
-    utilitzen els prefixos binaris
+L’ús convencional ha provocat confusions:
 
-    -   Un disc dur de 28 GB té una capacitat aproximada de 28 x 230
-        bytes.
+* 1.024 (2¹⁰) no és 1.000 (10³).
+* 1 kilobyte és diferent de 1 kilobit.
 
--   Els enginyers de telecomunicacions, en canvi, utilitzen el SI: una
-    connexió de 1 Mbps equival a una transferència de 1000x1000 bits per
-    segon.
+> Els fabricants de dispositius d'emmagatzematge, habitualment, utilitzen els prefixos binaris: un disc dur de 1 Tera té una capacitat aproximada de 1 x 2⁴⁰ bytes (1 TB, o TiB).
 
-Hi ha confusió respecte als símbols de les unitats de mesura de la
-informació, ja que no són part del SI.
+> En telecomunicacions, en canvi, s'utilitzen els prefixos del *Sistema Internacional*: una connexió de 1 Giga es equival a una transferència màxima teòrica de 1000x1000x1000 *bits* per segon (1 Gbps).
 
 Es recomana que el bit es representi amb el símbol b i el byte amb el
 símbol B.
 
-Exemple de conversió d'unitats de mesura
+En l'àmbit de la informàtica, en general s'acostumen a utilitzar els prefixos amb múltiples binaris i el byte.
 
-Disposem d’un disc dur amb una capacitat de 250 GB. A quants bytes i
+> Exemple de conversió d'unitats de mesura:
+disposem d’un disc dur amb una capacitat de 250 GB. A quants bytes i
 bits equival?
 
-![](Pictures/10000201000002B60000009F92830A4492C2655B.png){width="17cm"
-height="3.888cm"}
+![Conversió bytes](img/conversio-byte.png)
+
 
 Sistemes de representació de la informació numèrica
 ------------------------------------------
@@ -98,68 +96,77 @@ i unes regles determinats.
 Un **sistema de numeració** és el conjunt dels símbols i les normes que
 s’utilitzen per a la representació de la informació numèrica.
 
--   En tot sistema de numeració hi ha una base del sistema que indica el
-    nombre de símbols que podem utilitzar. La notació és: (base.
+En tot sistema de numeració hi ha una base del sistema que indica el nombre de símbols que podem utilitzar. La notació és: *(base*.
 
 Els **sistemes de numeració** són conjunts de dígits utilitzats per a
 representar quantitats.
 
--   Sistemes de numeració amb base: decimal (10), binari (2), octal (8),
-    hexadecimal (16), etc...
--   Sistemes de numeració sense base: romà (utilització més complicada).
+Sistemes de numeració amb base:
+* decimal (10)
+* binari (2)
+* octal (8)
+* hexadecimal (16)
+* etc...
 
-Una **magnitud analògica** –(com una tensió elèctrica o la velocitat–)
+Sistemes de numeració sense base:
+* romà (utilització més complicada).
+
+Una **magnitud analògica** -com una tensió elèctrica o la velocitat-
 pot tenir qualsevol valor dins d’un interval continu.
 
--   Per exemple, la tensió a la sortida d’un micròfon podria ser dins de
+> Per exemple, la tensió a la sortida d’un micròfon podria ser dins de
     qualsevol valor entre 0 mV i 10 mV.
 
 En la **representació digital**, les quantitats –representades per
 dígits– no poden tenir qualsevol valor, sinó sols valors discrets.
 
--   Per exemple, un rellotge digital marca el temps del dia en forma de
-    dígits decimals (hores, minuts i segons). Ara bé, el temps varia
-    d’una manera contínua, però la posició de les busques del rellotge
-    no varia d’una manera contínua, sinó a passos (segons). És a dir, el
-    rellotge només pot donar valors discrets.
+> Per exemple, un rellotge digital marca el temps del dia en forma de
+dígits decimals (hores, minuts i segons). Ara bé, el temps varia d’una manera contínua, però la posició de les busques del rellotge
+no varia d’una manera contínua, sinó a passos (segons). És a dir, el
+rellotge només pot donar valors discrets.
 
 Un **sistema digital** és una combinació de dispositius (generalment
 electrònics) dissenyada per a manipular quantitats físiques o informació
 que estigui representada de manera digital
 
--   Per exemple, els ordinadors, les calculadores digitals, els equips
-    d’àudio i vídeo digital, els telèfons digitals, etc.
+> Per exemple, els ordinadors, les calculadores digitals, els equips
+d’àudio i vídeo digital, els telèfons digitals, etc.
 
 La tecnologia digital utilitza molts sistemes de nombres. Els més comuns
 són:
 
--   Sistema binari.
-
-<!-- -->
-
--   -   És el sistema de numeració que utilitzen internament els
-        circuits digitals que configuren el maquinari dels ordinadors
+### Sistema binari.
+És el sistema de numeració que utilitzen internament els circuits digitals que configuren el maquinari dels ordinadors
         actuals.
-    -   Base 2.
-    -   Símbols: 0 i 1 (bits).
-    -   Una combinació de vuit bits s’anomena byte (per exemple,
-        10011001).
 
--   Sistema decimal.
+* Base: 2.
+* Símbols: 0 i 1 (bits).
+* Una combinació de vuit bits s’anomena byte
 
-    -   És el més conegut.
-    -   Base 10.
-    -   Símbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, i 9.
+> Per exemple: `10011001`
 
--   Sistema octal.
+### Sistema decimal.
 
-    -   Base 8.
-    -   Símbols: 0, 1, 2, 3, 4, 5, 6 i 7.
+És el més conegut.
 
--   Sistema hexadecimal.
+-   Base 10.
+-   Símbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, i 9.
 
-    -   Base 16.
-    -   Símbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
+### Sistema hexadecimal.
+
+Com que és molt fàcil la conversió amb el sistema binari, l'hexadecimal s'utilitza molt per representar números en binari d'una forma més compacta.
+
+* Base 16.
+* Símbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
+
+
+
+
+
+
+
+# PENDENT ->
+
 
 Teorema fonamental de la numeració
 ----------------------------------
