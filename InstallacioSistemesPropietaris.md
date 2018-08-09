@@ -1,6 +1,10 @@
 Instal·lació de sistemes operatius propietaris
 ======================================================
 
+* [Resum](https://gitpitch.com/jrodr236/som/master?p=InstallacioSistemesPropietaris)
+* Exercicis teòrics: Pendent
+* Exercicis pràctics: Pendent
+
 Requisits tècnics del sistema operatiu que s’ha d’instal·lar
 ------------------------------------------------------------
 
@@ -31,7 +35,7 @@ unitats d’emmagatzematge independents. Això és útil en els usuaris que
 necessiten o volen tenir diversos sistemes operatius en una mateixa
 màquina o en un mateix disc dur.
 
-Hi ha tres tipus de particions:
+Inicialment, els primers PCs estàven limitats a 4 particions. Això es va solucionar amb el particionament MBR, a on hi havien tres tipus de particions:
 
 -   Partició primària. Són les divisions primeres del disc i només n’hi
     pot haver quatre. Seran el lloc on instal·larem el sistema operatiu.
@@ -42,6 +46,11 @@ Hi ha tres tipus de particions:
 -   Partició lògica. Ocupa un tros de la partició estesa o la seva
     totalitat, la qual s’ha formatat amb un tipus específic de sistema
     de fitxers (FAT32, NTFS, EXT, etc.).
+
+Actualment, el particionament GPT no hi han aquestes limitacions.
+
+> VirtualBox utilitza el particionament MBR per defecte.
+
 
 ### Sistema de fitxers d’un sistema operatiu Windows
 
@@ -112,11 +121,17 @@ informàtic en general cal seguir les etapes següents:
     aspectes següents, entre d’altres:
 
     a)  La classe d’instal·lació que volem aplicar al sistema operatiu        seleccionat (per exemple, una instal·lació nova, una actualització, una migració, etc.).
+
     b)  L’origen del procés d’instal·lació que estableix la font a partir de la qual instal·larem el sistema operatiu (per exemple, format CD/DVD, via xarxa, via clonació, etc.).
+
     c)  La destinació de la instal·lació estableix on es farà (per exemple, en un disc dur, en una màquina virtual, etc.).
+
     d)  L’existència d’escenaris duals de sistemes operatius instal·lats o per instal·lar.
+
     e)  La necessitat de fer còpies de seguretat.
+
     f)  La preparació del sistema de partició i del sistema de fitxers.
+
     g)  La certesa de tenir la capacitat per poder desenvolupar el procés d’instal·lació.
 
 3.  Executar el procés d’instal·lació. En aquesta fase es posa en
@@ -147,7 +162,7 @@ la capacitat d’un ordinador per poder tenir i iniciar més d’un sistema
 operatiu que funciona en un mateix disc dur o equip.
 
 La capacitat de poder escollir el sistema operatiu d’arrencada és
-possible gràcies al carregador de l’arrencada o bootloader. El
+possible gràcies al carregador de l’arrencada o ***bootloader***. El
 carregador de l’arrencada o bootloader és un programa informàtic que té
 com a finalitat preparar tot el que necessita el sistema operatiu per
 funcionar. Normalment s’utilitzen els carregadors d’arrencada
@@ -174,6 +189,9 @@ operatius duals:
     per al desenvolupament i per a l’execució de les proves de
     funcionament. Això pot ajudar a reduir costos de maquinari.
 
+Actualment, la utilització de màquines virtuals està reduïnt l'ús de sistemes amb arrencada dual, ja que també permeten executar més d'un sistema operatiu en un equip.
+
+
 Normes d’utilització del programari
 -----------------------------------
 
@@ -189,7 +207,7 @@ Documentació del procés d’instal·lació i incidències
 
 La documentació del procés d’instal·lació i de configuració d’un sistema
 operatiu és el conjunt d’informació que diu què fa el sistema operatiu,
-com ho fa i per a què serveix. Aquesta documentacióno s’ha de deixar per
+com ho fa i per a què serveix. Aquesta documentació no s’ha de deixar per
 al final del procés sinó que s’ha de fer durant el mateix.
 
 Una documentació adequada i completa del procés d’instal·lació i de

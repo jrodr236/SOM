@@ -5,6 +5,9 @@ UF1. Introducció als sistemes operatius
 ---------------------
 
 * [Components del sistema informàtic](ComponentsDelSistemaInformatic.md)
+* [Codificació de la informació](CodificacioDeLaInformacio.md)
+* [Sistemes Transaccionals](SistemesTransaccionals.md)
+* El sistema operatiu (conceptes + gestor?)
 * [Màquines virtuals](MaquinesVirtuals.md)
 * [Administració de màquines virtuals](AdministracioDeMaquinesVirtuals.md)
 * [Configuració de la xarxa a les màquines virtuals](XarxaMaquinesVirtuals.md)
@@ -12,8 +15,8 @@ UF1. Introducció als sistemes operatius
 
 UF2. Sistemes operatius propietaris
 -------------------------------
-* Instal·lació de sistemes operatius propietaris
-* Utilització del sistema operatiu
+* [Instal·lació de sistemes operatius propietaris](InstallacioSistemesPropietaris.md)
+* [Utilització del sistema operatiu](UtilitzacioSistemesPropietaris.md)
 * Gestió d'arxius en mode text
 * Gestió d'arxius en mode gràfic
 * Gestió d'actualitzacions
