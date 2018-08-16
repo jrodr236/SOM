@@ -70,14 +70,13 @@ L’ús convencional ha provocat confusions:
 * 1.024 (2¹⁰) no és 1.000 (10³).
 * 1 kilobyte és diferent de 1 kilobit.
 
-> Els fabricants de dispositius d'emmagatzematge, habitualment, utilitzen els prefixos binaris: un disc dur de 1 Tera té una capacitat aproximada de 1 x 2⁴⁰ bytes (1 TB, o TiB).
+> En general s'acostumen a utilitzar els prefixos amb múltiples binaris.
+> A vegades, però, s'utiliten els prefixos del *Sistema Internacional*. Per exemple: en les connexions a Internet (1 Giga = 1000x1000x1000 *bits* per segon, 1Gbps); o en alguns dispositius d'emmagatzematge (1 Tera = 1000x1000x1000x1000 *Bytes*, 1TB).
 
-> En telecomunicacions, en canvi, s'utilitzen els prefixos del *Sistema Internacional*: una connexió de 1 Giga es equival a una transferència màxima teòrica de 1000x1000x1000 *bits* per segon (1 Gbps).
+**EXEMPLE: https://support.apple.com/es-us/HT201402**
 
 Es recomana que el bit es representi amb el símbol b i el byte amb el
 símbol B.
-
-En l'àmbit de la informàtica, en general s'acostumen a utilitzar els prefixos amb múltiples binaris i el byte.
 
 > Exemple de conversió d'unitats de mesura:
 disposem d’un disc dur amb una capacitat de 250 GB. A quants bytes i
