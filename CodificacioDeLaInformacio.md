@@ -1,10 +1,18 @@
 Codificació de la informació
 ============================
 
+
+* [Resum](https://gitpitch.com/jrodr236/som/master?p=CodificacioDeLaInformacio)
+* Exercicis teòrics: *pendent*
+* Exercicis pràctics: *no n'hi ha.*
+
+
 Definició de la informació
 --------------------------
 
-La **informació** és el resultat de la manipulació de les dades.
+La **informació** és el resultat de la manipulació de les *dades*.
+
+![Data vs. Informació](https://cdn.business2community.com/wp-content/uploads/2014/08/data-funnel.png)
 
 La **informació** és tota forma de representació de fets, objectes,
 valors, idees, etc., que permet la comunicació entre persones i
@@ -18,19 +26,25 @@ produir informació que ens ajuda a prendre decisions.
 
 Les **dades** són fets o objectes que no han estat manipulats.
 
-Els tipus de dades bàsics utilitzats pels ordinadors son:
+Els tipus de dades *bàsics* utilitzats pels ordinadors son:
 
 -   **Numèriques**. Formades per nombres (0, 1, ..., 9).
 -   **Alfabètiques**. Formades per lletres (A, B, ..., Z).
 -   **Alfanumèriques**. Formades per tots els caràcters.
 
+![Tipus de dades bàsics](https://i2.wp.com/www.datanumen.com/blogs/wp-content/uploads/2017/02/data-characters.jpg)
+
 Els ordinadors també emmagatzemen dades complexes: *imatges, audio, vídeo, etc...*
+
+![Dades complexes](https://img.haikudeck.com/mi/b0751b83c68906f93540993bb5792659.jpeg)
 
 Un **codi** és la manera diferent d’interpretar una mateixa informació.
 
 > Per exemple, el símbol X, fent servir el codi alfabètic, és una
     lletra, mentre que si apliquem el codi de les xifres romanes és el
     nombre 10.
+
+![Números romans](https://teachables.scholastic.com/content/dam/scholastic/teachables/products/25/9780439732925_004/9780439732925_004_xlg.jpg)
 
 El sistema binari
 -----------------
@@ -42,6 +56,8 @@ Qualsevol quantitat, frase o dada s’emmagatzema en forma de zeros i uns.
 
 L’ordinador utilitza un sistema de numeració diferent del sistema
 decimal: **el sistema binari**.
+
+![binari](https://img-aws.ehowcdn.com/340x221p/photos.demandstudios.com/getty/article/129/2/78468231.jpg)
 
 L’ordinador pot representar les dades bàsiques de dues maneres:
 
@@ -58,28 +74,29 @@ símbols, 0 i 1, anomenats bits.
 Un grup de vuit bits s’anomena **byte**. Aquest grup també es coneix amb
 el nom d’octet.
 
+![bit vs. byte](http://www.circuitgrove.com/sites/default/files/tutorial_photos/bitbyte.svg)
+
 Prefixos d’ús convencional en informàtica
 -----------------------------------------
+
+![Piràmide múltiples byte](http://fossbytes.com/wp-content/uploads/2016/08/bytes-kilobyte-megabyte-representation.jpg)
+
 
 ![Prefixos](img/prefixos.png)
 *https://ca.wikipedia.org/wiki/Byte*
 
-
-L’ús convencional ha provocat confusions:
+En general s'acostumen a utilitzar els prefixos amb múltiples binaris, però a vegades hi han confusions:
 
 * 1.024 (2¹⁰) no és 1.000 (10³).
 * 1 kilobyte és diferent de 1 kilobit.
 
-> En general s'acostumen a utilitzar els prefixos amb múltiples binaris.
-> A vegades, però, s'utiliten els prefixos del *Sistema Internacional*. Per exemple: en les connexions a Internet (1 Giga = 1000x1000x1000 *bits* per segon, 1Gbps); o en alguns dispositius d'emmagatzematge (1 Tera = 1000x1000x1000x1000 *Bytes*, 1TB).
-
-**EXEMPLE: https://support.apple.com/es-us/HT201402**
+![1024 vs. 1000](https://qph.fs.quoracdn.net/main-qimg-1535fd9d2793c45bc8b4a73782e8b489-c)
 
 Es recomana que el bit es representi amb el símbol b i el byte amb el
 símbol B.
 
 > Exemple de conversió d'unitats de mesura:
-disposem d’un disc dur amb una capacitat de 250 GB. A quants bytes i
+tenim un fitxer al disc dur d'exactament 250 GB. A quants bytes i
 bits equival?
 
 ![Conversió bytes](img/conversio-byte.png)
@@ -124,12 +141,14 @@ dígits decimals (hores, minuts i segons). Ara bé, el temps varia d’una maner
 no varia d’una manera contínua, sinó a passos (segons). És a dir, el
 rellotge només pot donar valors discrets.
 
+![analog vs. digital](http://i2.wp.com/www.droneuplift.com/wp-content/uploads/2016/03/Analog-digi.png)
+
 Un **sistema digital** és una combinació de dispositius (generalment
 electrònics) dissenyada per a manipular quantitats físiques o informació
 que estigui representada de manera digital
 
 > Per exemple, els ordinadors, les calculadores digitals, els equips
-d’àudio i vídeo digital, els telèfons digitals, etc.
+d’àudio i vídeo digital, els telèfons intel·ligents *(smartphones)*, etc.
 
 La tecnologia digital utilitza molts sistemes de nombres. Els més comuns
 són:
@@ -163,121 +182,49 @@ Com que és molt fàcil la conversió amb el sistema binari, l'hexadecimal s'uti
 
 
 
-
-# PENDENT ->
-
-
-Teorema fonamental de la numeració
+Conversió entre sistemes de numeració
 ----------------------------------
 
-El **teorema fonamental de la numeració** (TFN) diu que el valor decimal
+El **teorema fonamental de la numeració** (TFN) permet fer conversions entre diferents sistemes de nomeració. Aquest teorema diu que el valor decimal
 d’una quantitat expressada en altres sistemes de numeració s’expressa
 segons el polinomi següent:
 
-... + x4b4 + x3b3 + x2b2 + x1b1 + x0b0 + ...
+... + x<sub>4</sub>b⁴ + x<sub>3</sub>b³ + x<sub>2</sub>b² + x<sub>1</sub>b¹ + x<sub>0</sub>b⁰ + ...
 
 en què el símbol b representa la base i x són els dígits del nombre.
 
-Conversió entre sistemes de numeració
--------------------------------------
+> Exemple d’aplicació del teorema fonamental de la numeració:
+>
+> Representeu el 4123(5 en base 10 segons el teorema fonamental de la numeració.
+>
+> Solució: 4123(5 = 4 x 5³ + 1 x 5² + 2 x 5¹ + 3 x 5⁰ = 500 + 25 + 10 + 3 = 538(10
 
-### Conversió de nombres enters
 
-Conversió d’una base b a base 10.
+Hi han altres mètodes per fer conversions entre sistemes de numeració:
+* Regla de Ruffini
+* Divisions successives per la base.
+* Conversió directa utilitzant taula (binari-hexadecimal).
 
--   Teorema fonamental de la numeració
+```
+0 0000
+1 0001
+2 0010
+3 0011
+4 0100
+5 0101
+6 0110
+7 0111
+8 1000
+9 1001
+A 1010
+B 1011
+C 1100
+D 1101
+E 1110
+F 1111
+```
 
-    -   Exemple d’aplicació del teorema fonamental de la numeració
-    -   Representeu el 4123(5 en base 10 segons el teorema fonamental de
-        la numeració.
-    -   4123(5 = 4 x 53 + 1 x 52 + 2 x 51 + 3 x 50 = 500 + 25 + 10 + 3 =
-        538 (10
-
-<!-- -->
-
--   Regla de Ruffini
-
-![](Pictures/10000000000002E1000000E6E962EB0967640E4B.png){width="16.302cm"
-height="5.087cm"}
-
-Conversió de base decimal a base b
-
--   Divisions successives per la base.
-
-    -   Es tracta d’anar dividint el nombre i els quocients successius
-        entre la base fins que trobem un quocient més petit que el
-        divisor (base).
-    -   La unió de tots els residus obtinguts escrits en ordre invers i
-        de l’últim quocient ens donarà el resultat buscat.
-
--   Exemple
-
-    -   Passeu el nombre 75~(10~ a base 2.
-    -   75/2 = 37 + residu 1
-    -   37/2 = 18 + residu 1
-    -   18/2 = 9 + residu 0
-    -   9/2 = 4 + residu 1
-    -   4/2 = 2 + residu 0
-    -   2/2 = 1 + residu 0
-    -   El resultat és:
-    -   1 (últim quocient)
-    -   0 (últim residu)
-    -   0 (penúltim residu)
-    -   1 (antepenúltim residu)
-    -   0 (...)
-    -   1 (...)
-    -   1 (...)
-    -   El resultat serà: 1001011~(2~
-
-Conversió de base b a base b’
-
--   1\) Passar el nombre en base b a base 10.
--   2\) Passar el resultat anterior a la base b’.
--   Exemple: passeu el nombre 101(2 a base 3.
-
-    -   1\) 101(2: és el 5 en base 10. Heu d’aplicar el TFN.
-    -   2\) 5(10: és el 12(3. Podeu aplicar la regla de Ruffini.
-
-### Conversió de nombres decimals
-
-Conversió d'una base b a base 10
-
--   S'utilitza el teorema fonamental de la numeració.
--   Exemple: passeu el nombre 210,3(4 a base 10
--   210,3(4 = 2 x 42 + 1 x 41 + 0 x 40 + 3 x 4–1 = 32 + 4 + 0 + 3/4 =
-    32 + 4 + 0 + 0,75 = 36,75(10
-
-Conversió de base decimal a base b
-
--   Exemple: Passeu el nombre 12,35~(10~ a base 2
-
-    -   1\) Prenem la part entera i seguim el mateix procés que amb els nombres
-        enters (mètode de les divisions successives).
-    -   12~(10~ = 1100~(2~
-    -   2\) A continuació, agafem la part fraccionària del nombre, 0,35, la
-        multipliquem per la base i n’agafem la part entera.
-    -   0,35 x 2 = 0,70. Agafem el valor 0 del 0,70.
-    -   3\) Repetim el procés anterior amb la part fraccionària del resultat
-        anterior.
-    -   0,70 x 2 = 1,40. Agafem el valor 1 d’1,40.
-    -   4\) Repetim el procés anterior amb la part fraccionària del resultat
-        anterior.
-    -   0,40 x 2 = 0,80. Agafem el valor 0 de 0,80.
-    -   5\) Com més vegades repetim el procés, més precís serà el resultat. El
-        resultat serà 1100,010~(2~
-
-### {#anchor-17}Conversió binari-hexadecimal
-
-Amb el nombre binari fem grups de quatre dígits començant per la dreta,
-i s'utilitza la taula adjunta.
-
--   Exemple de binari-hexadecimal: passeu 101011~(2~ a hexadecimal. El
-    procés pot ser:
--   1\) 1.011~(2~ en base 10 és 11; i correspon a l’hexadecimal B.
--   2\) 10~(2~ en base 10 és 2; i correspon a l’hexadecimal 2.
--   El resultat que obtenim és 2B~(16~.
-
-Pot fer-se servir el mateix mètode per a passar d'hexadecimal a binari.
+Exemple: `A4(16 =  1010 0100(2`
 
 Operacions bàsiques amb sistemes de numeració
 ---------------------------------------------
@@ -286,7 +233,6 @@ De la mateixa manera que en el sistema de numeració decimal podem fer
 les operacions bàsiques de càlcul (suma, resta, multiplicació i
 divisió), en el sistema binari octal i hexadecimal també les podem fer.
 
--   Als apunts es poden veure alguns exemples.
 
 Representació dels nombres enters
 ---------------------------------
@@ -299,7 +245,7 @@ mètodes destaquen:
 -   Mòdul i signe.
 -   Complement a 1.
 -   Complement a 2.
--   Excés a 2n–1. (simplifiquen operacions aritmètiques a l'ordinador)
+-   Excés a 2<sup>n</sup>–1. (simplifiquen operacions aritmètiques a l'ordinador)
 
 La **paraula** és el nombre de bytes que pot gestionar l’ordinador, és a
 dir, el nombre de bits que l’ordinador és capaç de manipular per a fer
@@ -308,127 +254,19 @@ hi ha ordinadors amb paraules de 8, 16, 32 i 64 bits. Per això, la
 representació d’un mateix nombre serà diferent en màquines de paraules
 diferents.
 
--   Per exemple, un ordinador amb paraula de 8 bits pot treballar amb 28
-    = 256 combinacions diferents, i un de 32 bits amb 232 =
+>   Per exemple, un ordinador amb paraula de 8 bits pot treballar amb 2⁸
+    = 256 combinacions diferents, i un de 32 bits amb 2³² =
     4.294.967.200.
 
-### Decimal empaquetat
 
-El procés de càlcul que seguirem en utilitzar el mètode del decimal
-empaquetat és el següent:
-
--   a\) Cada dígit es representa amb quartets.
--   b\) 2 dígits s’utilitzen per a omplir un byte.
--   c\) El signe se situa en l’últim quartet del byte que és més a la dreta.
--   d\) Els quartets no utilitzats d’alguns bytes s’omplen amb zeros.
--   Exemple: representem +1999:
-
-    -   01999 +
-    -   0000 00011001 10011001 1100
-
-### Mòdul i signe
-
-El mètode de mòdul i signe representa els nombres positius i negatius de
-la manera que s’indica a continuació:
-
--   el nombre es passa a binari i el resultat es col·loca en el byte de
-    dreta a esquerra.
--   Cal recordar que el bit en què es guarda el signe se situa a la part
-    esquerra del byte.
--   Les posicions no utilitzades s’omplen amb zeros.
--   Exemples:
-
-    -   Representem el nombre 10(10:0 0 0 0 1 0 1 0
-    -   Representem el nombre –10(10:1 0 0 0 1 0 1 0
-
-### Complement a 1 (C – 1)
-
-El mètode de **complement a 1** (C – 1)
-
--   representa els nombres positius igual que el mètode de mòdul i
-    signe.
-
-<!-- -->
-
--   Per als nombres negatius el procés és el següent:
-
-    -   a\) Es representa com a positiu.
-    -   b\) Es canvien els bits 0 per 1 i els bits 1 per 0.
-
--   Exemple: representem el nombre –10(10
-
-    -   1\) El binari serà 0 0 0 0 1 0 1 0.
-    -   2\) Canviem els bit 0 per 1 i el bit 1 per 0.
-    -   El resultat serà: 1 1 1 1 0 1 0 1.
-
-### Complement a 2 (C – 2)
-
-El mètode de **complement a 2** (C – 2)
-
--   representa els nombres positius igual que en el mètode de mòdul i
-    signe.
--   Per als nombres negatius el procés és el següent:
-
-    -   a\) Es representa igual que el mètode de complement a 1.
-    -   b\) Se suma el valor 1 al bit que és més a la dreta.
-
--   Exemple: Representem el nombre –10(10
-
-    -   1\) El complement a 1 serà 1 1 1 1 0 1 0 1.
-    -   2\) Sumem 1 al bit que és més a la dreta.
-    -   3\) El resultat serà 1 1 1 1 0 1 1 0.
-
-### Excés a 2^n-1^
-
-Al mètode d'excés a 2n-1, la variable n representa el nombre de bits que
-forma la paraula de l’ordinador. El procés de càlcul que seguirem és el
-següent:
-
--   a\) Valor = 2n – 1 + nombre.
--   b\) Passem el valor a binari.
--   c\) El col·loquem en el byte.
--   Exemple: representem el nombre 10(10
-
-    -   1\) Valor = 2n – 1 + 10 = 28 – 1 + 10 = 128 + 10 = 138.
-    -   2\) El valor 138 en binari és 1 0 0 0 1 0 1 0.
-    -   3\) El resultat serà 1 0 0 0 1 0 1 0.
-
-Representació dels nombres decimals
+Representació dels nombres amb xifres decimals
 -----------------------------------
 
-Després de veure els mètodes per a representar nombres enters, passem a
-veure'n alguns per a nombres amb xifres decimals.
-
-Els mètodes principals per a representar nombres decimals son:
+Els mètodes principals per a representar nombres amb xifres decimals son:
 
 -   En coma fixa.
 -   En coma flotant.
 
-### Coma fixa
-
-Al mètode de coma fixa, el punt decimal de les quantitats se situarà en
-un lloc determinat.
-
--   S'utilitzen els mateixos mètodes que les representacions enteres,
-    però amb una quantitat de dígits fixe per als decimals.
--   Exemple:
-
-    -   4 bits per a les xifres enteres i 4 bits per a les decimals
-    -   1 1 0 0 . 1 1 0 0 representa 12,12
-
-### Coma flotant
-
-Al mètode de coma flotant, el punt decimal de les quantitats no és fixe,
-pot variar en funció d'un exponent.
-
--   r = m · be
--   Exemples:
-
-    -   2,71828 x 10-2 = 0,0271828
-    -   2,71828 x 102 = 271,828
-
-![](Pictures/100000000000025200000060BF6000E8D01F731A.png){width="15.714cm"
-height="2.538cm"}
 
 Sistemes de representació de la informació alfanumèrica
 ----------------------------------------
@@ -444,28 +282,27 @@ A l'interior l’ordinador s’utilitza un únic codi binari per a totes les
 dades, independentment d’on vinguin. Aquest codi s’anomena **codi
 intern** o codi alfanumèric, i és diferent d’un fabricant a un altre.
 
--   Exemple: IBM fa servir el codi EBCDIC als grans ordinadors, i als
-    microordinadors aplica el codi ASCII.
+>   Exemple: IBM fa servir el codi EBCDIC als grans ordinadors, i als
+    microordinadors clàssics aplica el codi ASCII.
 
-Hi ha d’haver una conversió de codis entre formes externes i internes.
-
--   Aquesta conversió es pot fer dins del mateix dispositiu d’entrada,
+Hi ha d’haver una conversió de codis entre formes externes i internes.   Aquesta conversió es pot fer dins del mateix dispositiu d’entrada,
     dins del processador, abans d’arribar al processador, en un
     dispositiu anomenat interfície o connexió.
+
 
 En tot aquest procés de transmissió de la informació, hi ha un sistema
 de control d’errors per a assegurar que les dades arribin correctament a
 la destinació.
 
--   Exemple: control de paritat.
-
-    -   Paritat parella. El nombre total de bits 1 en cada byte ha de
+>   Exemple: control de paritat.
+>    -   Paritat parella. El nombre total de bits 1 en cada byte ha de
         ser parell; si no, en el bit de paritat es posa un 1 i, en cas
         contrari, es posa un 0.
-    -   Paritat senar. El nombre total de bits 1 en cada byte ha de ser
+>    -   Paritat senar. El nombre total de bits 1 en cada byte ha de ser
         senar; si no, en el bit de paritat es posa un 1 i, en cas
         contrari, es posa un 0.
 
+![control de paritat](https://image.slidesharecdn.com/dcchapter-10-140704010417-phpapp02/95/error-detection-and-correction-21-638.jpg?cb=1404436011)
 
 Codificació interna de les dades
 ------------------------------
@@ -478,11 +315,15 @@ símbol en funció del sistema d’avaluació que fem servir.
 
 Tenim diferents sistemes de codificació interna de les dades:
 
--   Codi **ASCII**. És un codi que es fa servir avui dia per a
+-   Codi **ASCII**. És el codi classic que s'ha fet servir per a
     representar cada caràcter en forma d’un byte i que s’aplica
     principalment en els microordinadors.
 -   Codi **EBCDIC**. També és un codi de 8 bits i s’aplica principalment
     en grans ordinadors.
--   Codi **Unicode**. És un codi de 16 bits; per tant, el nombre de
-    caràcters que podem representar és de 216: 65.536 caràcters (tots
-    els idiomes, no només l'alfabet llatí com els anteriors)
+-   Codi **Unicode**. És el més modern i cada cop s'utilitza més. És un codi de 32 bits; per tant, el nombre de
+    caràcters que podem representar és de 2³²: 4.294.967.296 caràcters (tots
+    els idiomes, no només l'alfabet llatí com els anteriors, i emojis, símbols matemàtics, tècnics, musicals, etc...).
+
+![ascii](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/USASCII_code_chart.png/361px-USASCII_code_chart.png)
+
+![unicode emoji](https://amp.businessinsider.com/images/567ea534e6183e26008b4f0e-750-405.png)
