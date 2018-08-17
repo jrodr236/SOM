@@ -97,7 +97,7 @@ Prefixos d’ús convencional en informàtica
 
 > Exemple:fitxer de 250 GB. Bytes? bits?
 
-![Conversió bytes](../img/conversio-byte.png)
+![Conversió bytes](img/conversio-byte.png)
 
 ---
 
