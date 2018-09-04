@@ -4,7 +4,7 @@ Codificació de la informació
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=CodificacioDeLaInformacio)
 * Exercicis teòrics: *moodle*
-* Exercicis pràctics: ExercicisCodificacioDeLaInformacio.md
+* [Exercicis pràctics](ExercicisCodificacioDeLaInformacio.md)
 
 
 Definició de la informació
