@@ -177,7 +177,7 @@ Feu tot el possible per no anar-hi!
 
 S'han de lliurar tots els exercicis de la UF fets a classe.
 
-Nota màxima 6
+Nota màxima 6.
 
 ---
 
