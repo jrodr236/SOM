@@ -12,7 +12,7 @@ La **informació** és el resultat de la manipulació de les *dades*.
 
 +++
 
-![Data vs. Informació](https://cdn.business2community.com/wp-content/uploads/2014/08/data-funnel.png)
+![Data vs. Informació](https://www.difference.wiki/wp-content/uploads/2017/08/data-vs-information.jpg)
 
 
 ---
