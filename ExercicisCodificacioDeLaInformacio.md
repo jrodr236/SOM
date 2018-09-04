@@ -6,9 +6,9 @@ Exercici de grup
 
 > Segueix les instruccions del professor per fer les següents pràctiques:
 
-1. Codifica una pregunta sobre informàtica en codi ASCII.
+1. Codifica una pregunta sobre informàtica en codi ASCII. Escriu-la en un paper indicant el teu nom i cognoms.
 
-2. Decodifica la pregunta codificada en ASCII que el professor et farà arribar.
+2. Decodifica la pregunta codificada en ASCII que el professor et farà arribar. Contesta-la al paper, indicant també el teu nom i cognoms.
 
 
 Exercicis de base
@@ -18,8 +18,8 @@ Exercicis de base
 
 1. Calcula el nombre de kB, GB i PB que corresponen a 234.987.000 bits.
 
-2. Tenim un fitxer que ocupa just la meitat d'un disc de Blu-Ray. Volem fer-ne una còpia però no ens queda cap més disc Blu-Ray. Calcula quants discos DVD necessitaríem si podem fer trossos del fitxer de la mateixa mida. I CD-ROMs.
-   * Capacitats: Blu-Ray 25GB; DVD 4,7GB; CD-ROM 700MB.
+2. Tenim un fitxer que ocupa just la meitat d'un disc de Blu-Ray. Volem fer-ne una còpia però no ens queda cap més disc Blu-Ray. Calcula quants discos DVD necessitaríem si podem fer trossos del fitxer de la mateixa mida. Fes el càlcul també amb CDs.
+   * Capacitats: Blu-Ray 25GB; DVD 4,7GB; CDs 700MB.
 
 3. Converteix el número hexadecimal F87A02 a binari.
 

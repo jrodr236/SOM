@@ -3,7 +3,7 @@ Codificació de la informació
 
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=CodificacioDeLaInformacio)
-* Exercicis teòrics: *pendent*
+* Exercicis teòrics: *moodle*
 * Exercicis pràctics: *no n'hi ha.*
 
 
