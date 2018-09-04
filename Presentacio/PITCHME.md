@@ -85,7 +85,7 @@ UF3. Sistemes operatius lliures
 
 ### Instal·lació de sistemes operatius lliures
 
-<img src="https://www.linuxtechi.com/wp-content/uploads/2017/10/Install-Ubuntu-option-Ubuntu17-10-1024x503.jpg" height="400px">
+<img src="https://tutorials.ubuntu.com/bundled/src/codelabs/tutorial-install-ubuntu-desktop/img/747a83dc503cd86c.png" height="400px">
 
 +++
 ### Configuració i manteniment de sistemes operatius lliures
