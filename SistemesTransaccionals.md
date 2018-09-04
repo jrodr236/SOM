@@ -3,7 +3,7 @@ Sistemes transaccionals
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=SistemesTransaccionals)
 * Exercicis teòrics: *moodle*
-* [Exercicis pràctics](ExercicisSistemesTransaccionals.md)
+* Exercicis pràctics: _no n'hi ha_
 
 
 
