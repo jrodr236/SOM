@@ -2,7 +2,7 @@
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=ComponentsDelSistemaInformatic)
 * Exercicis teòrics: *moodle*
-* Exercicis pràctics: *no n'hi ha.*
+* Exercicis pràctics: ExercicisCodificacioDeLaInformacio.md
 
 ## Sistema informàtic
 
