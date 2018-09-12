@@ -14,6 +14,16 @@ _VMWare Workstation_ permet automatitzar la instal·lació de determinats sistem
 > Per tal de practicar les instal·lacions reals, en aquesta matèria, **MAI** utilitzarem aquesta opció.
 
 
+Disc en un o en múltiples fitxers
+---------------------------
+
+En el moment de fer la instal·lació, VMWare ens demana si volem que el fitxer del disc virtual estigui en un sol fitxer o _"trosejat"_ en múltiples fitxers.
+
+![Split disk](https://i.stack.imgur.com/76ObU.png)
+
+> En aquesta matèria, per simplificar el moviment de màquines virtuals, escollirem **SEMPRE** un sol fitxer.
+
+
 Modificar la imatge ISO de la unitat de CD/DVD
 ------------------------------------------------
 Per a fer una instal·lació a partir d'un CD/DVD, cal indicar a la màquina virtual a on es troba la imatge ISO. Per fer-ho cal:
@@ -25,14 +35,7 @@ Per a fer una instal·lació a partir d'un CD/DVD, cal indicar a la màquina vir
 ![CD/DVD settings](http://www.techulator.com/attachments/Resources/5081-14750-VMWare-Workstation-options.png)
 
 
-Disc en un o en múltiples fitxers
----------------------------
 
-En el moment de fer la instal·lació, VMWare ens demana si volem que el fitxer del disc virtual estigui en un sol fitxer o _"trosejat"_ en múltiples fitxers.
-
-![Split disk](https://i.stack.imgur.com/76ObU.png)
-
-> En aquesta matèria, per simplificar el moviment de màquines virtuals, escollirem **SEMPRE** un sol fitxer.
 
 Instal·lar les _VMWare Tools_
 ------------------------------

@@ -3,7 +3,7 @@ Administració de màquines virtuals - Exercicis pràctics
 
 > Aquestes primeres pràctiques es corregiran a classe. Cada pràctica l'explicarà un/a alumne/a escollit aleatòriament.
 
-1. Mostra els passos necessaris per instal·lar les Guest Additions a una màquina virtual amb Windows i també a Ubuntu.
+1. Mostra els passos necessaris per instal·lar les _VMWare Tools_ a una màquina virtual amb Windows i també a Ubuntu.
 2. Augmenta la memòria principal (RAM) d'una màquina virtual en 512MB.
 3. Augmenta la mida del disc dur d'una màquina virtual Windows en 2GB. Augmenta la mida del volum per aprofitar el nou espai.
 4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot.
