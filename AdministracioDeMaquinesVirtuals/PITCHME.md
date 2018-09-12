@@ -7,7 +7,7 @@ Easy Install
 -----------
 
 
-<img src="https://geek-university.com/wp-content/images/vmware-player/vmware_player_easy_install.jpg?x13092" height="400px">
+<img src="https://geek-university.com/wp-content/images/vmware-player/vmware_player_easy_install.jpg?x13092" height="300px">
 
 **DEMO**
 
@@ -17,8 +17,8 @@ Disc en un o en múltiples fitxers
 ------------
 
 
-
-![Split disk](https://i.stack.imgur.com/76ObU.png)
+<img src="https://i.stack.imgur.com/76ObU.png" height="300px">
+ 
 **DEMO**
 
 ---
@@ -26,7 +26,7 @@ Disc en un o en múltiples fitxers
 Modificar la imatge ISO de la unitat de CD/DVD
 -------------
 
-<img src="http://www.techulator.com/attachments/Resources/5081-14750-VMWare-Workstation-options.png" height="400px">
+<img src="http://www.techulator.com/attachments/Resources/5081-14750-VMWare-Workstation-options.png" height="300px">
 
 **DEMO**
 
