@@ -1,7 +1,7 @@
 # Administració de màquines virtuals
 [Veure Teoria](https://jrodr236.github.io/SOM/AdministracioDeMaquinesVirtuals.html)
 
----
+---aa
 
 Easy Install
 -----------
