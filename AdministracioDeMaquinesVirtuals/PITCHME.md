@@ -3,7 +3,28 @@
 
 ---
 
-## Instal·lar les guest additions
+Easy Install
+-----------
+
+**DEMO**
+
+---
+
+Disc en un o en múltiples fitxers
+------------
+
+**DEMO**
+
+---
+
+Modificar la imatge ISO de la unitat de CD/DVD
+-------------
+
+**DEMO**
+
+---
+
+## Instal·lar les _VMWare Tools_
 
 **DEMO**
 
