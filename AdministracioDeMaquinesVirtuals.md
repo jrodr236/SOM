@@ -112,6 +112,12 @@ Per crear un nou _snapshot_, seleccionar `VM > Snapshots > Take Snapshot...`.
 
 La gestió de *snapshots* es fa des de `VM > Snapshots > Snapshot Manager`.
 
+Localització de les màquines virtuals
+--------------------------
+Les màquines virtuals creades es poden trobar a:
+- Sistemes Windows: `C:\Users\nom_usuari\Documents\Virtual Machines`
+- Sistemes GNU/Linux: `/home/nom_usuari/vmware`
+
 Exportar i importar VMs en el format OVF
 ---------------------------
 [OVF](https://en.wikipedia.org/wiki/Open_Virtualization_Format) (Open Virtualization Format) és un format estàndard per l'intercanvi de màquines virtuals, que és compatible amb els principals gestors de màquines virtuals: VirtualBox, VMWare, etc...

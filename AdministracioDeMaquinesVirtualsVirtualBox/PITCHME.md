@@ -1,5 +1,5 @@
 # Administració de màquines virtuals (VirtualBox)
-[Veure Teoria](https://jrodr236.github.io/SOM/AdministracioDeMaquinesVirtuals.html)
+[Veure Teoria](https://jrodr236.github.io/SOM/AdministracioDeMaquinesVirtualsVirtualBox.html)
 
 ---
 

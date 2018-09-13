@@ -6,69 +6,63 @@
 * Exercicis teòrics: *moodle*
 * [Exercicis pràctics](ExercicisXarxaMaquinesVirtuals.md)
 
-## Hardware virtual
-VirtualBox té els següents tipus de targetes de xarxa virtual:
+[//]: https://pubs.vmware.com/workstation-9/index.jsp?topic=%2Fcom.vmware.ws.using.doc%2FGUID-BAFA66C3-81F0-4FCA-84C4-D9F7D258A60A.html
 
-* AMD PCNet PCI II (Am79C970A);
-* AMD PCNet FAST III (Am79C973, the default);
-* Intel PRO/1000 MT Desktop (82540EM);
-* Intel PRO/1000 T Server (82543GC);
-* Intel PRO/1000 MT Server (82545EM);
-* Paravirtualized network adapter (virtio-net).
+VMWare Workstation permet escollir els següents tipus d'adaptadors de xarxa:
 
-Cada targeta indica quin hardware serà presentat a la màquina virtual.
+- Bridged
+- Nat
+- Host-only
+- Custom
+- LAN segment
 
-Es recomana escollir correctament el tipus de sistema operatiu en la creació de la màquina virtual. Això farà que s'esculli la millor targeta pel sistema a instal·lar.
+Bridged (Pont)
+-------
+La màquina virtual es connecta a la xarxa utilitzant l'adaptador de xarxa del sistema host, intercanviant paquets amb la xarxa real directament. La màquina virtual té una identitat única a la xarxa, separada i no relacionada amb el sistema host.
 
-## Modes de Xarxa
+![Bridged Networking](https://pubs.vmware.com/workstation-9/topic/com.vmware.ws.using.doc/GUID-8AB8E6E2-E16F-4E60-8421-669C96E6BF38-high.png)
 
-### No connectat
-En aquest mode, VirtualBox informa al convidat que hi ha una targeta de xarxa, però que no hi ha cap connexió, com si el cable cable Ethernet no estigués connectat a la targeta. D'aquesta manera, es pot "desendollar" el cable Ethernet virtual i interrompre la connexió. Això pot ser útil per informar un sistema operatiu convidat que no hi ha cap connexió de xarxa disponible i fer una reconfiguració.
+És útil per instal·lar sistemes que han de ser visibles per les màquines que estan connectades a la xarxa real.
 
-### NAT
-
-![](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f2e3e7b6-c53b-4457-85e9-49625315791a/Image/90093dc07a2e9cb7d93bf7a3fa8f8c19/nat.png)
-*Les VM estan desconnectades entre si*
-
-Si tot el que voleu és navegar per la Web, baixar fitxers i visualitzar correus electrònics a l'interior del client, aquest mode predeterminat hauria de ser suficient.
-
-### Xarxa NAT
-
-![](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f2e3e7b6-c53b-4457-85e9-49625315791a/Image/04856a6937656d8c2a2e0dd30855f3ba/nat_port_forward.png)
-*Les VM estan connectades entre si*
-
+NAT
+----
 Aquest mode funciona de manera similar a un *router* domèstic, agrupant els sistemes que l'utilitzen en una xarxa i evitant que els sistemes fora d'aquesta xarxa accedeixin directament als sistemes dins d'ell, però deixant que els sistemes interconnectin entre si.
 
-*No confondre amb NAT*
+![NAT](https://pubs.vmware.com/workstation-9/topic/com.vmware.ws.using.doc/GUID-4C1FE8E1-9C52-4A43-9C36-97AEC38C737B-high.png)
 
-### Adaptador pont
+És útil per tenir sistemes amb connexió a la xarxa, però que no siguin visibles per les màquines de la xarxa real.
 
-![](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f2e3e7b6-c53b-4457-85e9-49625315791a/Image/5e1da37f793c380abd4375ff64b21c70/bridged.png)
+Host-only (només host)
+--------
+Els adaptadors de xarxa virtual de la màquina virtual i del hoste estan connectades a una xarxa Ethernet privada. Aquesta xarxa està completament contenida dins el sistema hoste.
 
-Això és per a necessitats de xarxes més avançades, com ara simulacions de xarxa i servidors en funcionament en un hoste. Quan està habilitat, VirtualBox es connecta a una de les seves targetes de xarxa instal·lades i intercanvia paquets de xarxa directament, evitant la pila de xarxa del sistema operatiu principal.
+![Host-Only](https://pubs.vmware.com/workstation-9/topic/com.vmware.ws.using.doc/GUID-B8B0D851-3DF2-4999-AE86-9059AE017A9C-high.png)
 
-### Xarxa interna
+És útil per tenir sistemes aïllats, sense connexió a la xarxa real.
 
-![](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f2e3e7b6-c53b-4457-85e9-49625315791a/Image/d16091a2abef68694625196dd18f588a/internal.png)
+Custom (personalitzat)
+------
+Permet escollir configuracions de xarxa personalitzades.
 
-Això es pot utilitzar per crear un tipus diferent de xarxa basada en programari que sigui visible per a màquines virtuals seleccionades, però no per a aplicacions que s'executin a l'amfitrió o al món exterior.
+Encara que VMnet0, VMnet1, i VMnet8 son accessibles a la llista, aquestes xarxes usualment s'utilitzen per les xarxes bridged, host-only, i NAT.
 
-### Adaptador de només amfitrió
 
-![](https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f2e3e7b6-c53b-4457-85e9-49625315791a/Image/1ae51906a03cffa842010fd6d6937c61/host_only.png)
+LAN Segment
+-----------
+És una xarxa privada que es comparteix amb altres màquines virtuals.
 
-Això es pot utilitzar per crear una xarxa que contingui l'amfitrió i un conjunt de màquines virtuals, sense necessitat de la interfície de xarxa física de l'amfitrió. Al contrari, es crea una interfície de xarxa virtual (similar a una interfície *loopback*) al host, proporcionant connectivitat entre les màquines virtuals i el host.
+Pot ser útil per proves _multitier_, anàlisi de rendiment de la xarxa, i situacions a on l'aïllament de la màquina virtual és important.
 
-### Mòdul genèric
 
-Es tracta d'uns modes poc utilitzat, que comparteixen la mateixa interfície de xarxa genèrica, permetent a l'usuari seleccionar un controlador que es pugui incloure amb VirtualBox o que es distribueixi en un paquet d'extensió.
-
-### Resum
+Resum
+-----
 
 &nbsp;|VM ↔ Host|VM1 ↔ VM2|VM → Internet|VM ← Internet
 ---------|:---------:|:-------------:|:-------------:|:-----:
-Host-only|+|+|–|–
-Internal|–|+|–|–
 Bridged|+|	+|	+|	+
-NAT|	–|	–|	+|	Port forwarding
-NAT Network|	–|	+|	+|	Port forwarding
+NAT|	+|	+|	+|	Port forwarding
+Host-only|+|+|–|–
+
+![Resum networking](https://img-16.ccm2.net/8emiYyGU-cMoBjDSxzM8hA0QZ0g=/ee98a57cbb9e4db08a5e4dbd86c078c6/ccm-faq/0-xOzTOwr6-untitled-s-.png)
+
+

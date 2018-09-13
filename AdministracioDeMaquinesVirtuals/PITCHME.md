@@ -53,6 +53,15 @@ Modificar la imatge ISO de la unitat de CD/DVD
 ## Crear snapshots i realitzar rollbacks
 
 **DEMO**
+
+-----
+
+Localització de les màquines virtuals
+--------------------------
+
+- Windows: `C:\Users\nom_usuari\Documents\Virtual Machines`
+- GNU/Linux: `/home/nom_usuari/vmware`
+
 ---
 ## Exportar i importar VMs en el format OVF
 
