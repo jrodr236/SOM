@@ -6,7 +6,7 @@ Administració de màquines virtuals - Exercicis pràctics
 1. Seguint les instruccions del professor, instal·la el sistema Ubuntu en una nova màquina virtual.
 1. Instal·la les _VMWare Tools_ a la màquina virtual Ubuntu.
 2. Augmenta la memòria principal (RAM) d'una màquina virtual en 512MB.
-3. Augmenta la mida del disc dur en 2GB. Verifica si cal augmentar la mida del volum per aprofitar el nou espai.
+3. Augmenta la mida del disc dur en 2GB. Caldria augmentar la mida del volum per aprofitar el nou espai?
 4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot.
 5. Fes una exportació d'una màquina virtual en format OVF.
 6. Restaura l'arxiu OVF anterior.
