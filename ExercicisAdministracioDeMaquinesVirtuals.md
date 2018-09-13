@@ -12,7 +12,7 @@ Administració de màquines virtuals - Exercicis pràctics
 4. Crea un snapshot d'una màquina  virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot. Quin fons d'escriptori ha quedat?
 5. Fes una exportació d'una màquina virtual en format OVF.
 6. Restaura l'arxiu OVF anterior.
-7. Mostra l'adreça d'Internet a on es pugui trobar 
+7. Mostra una adreça d'Internet a on es pugui trobar 
 una màquina virtual que tingui l'Ubuntu instal·lat.
 8. Utilitzant una _Shared folder_, mostra com copiar un arxiu de text des de la màquina real a una màquina virtual.
 
