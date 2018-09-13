@@ -3,14 +3,15 @@ Administració de màquines virtuals - Exercicis pràctics
 
 > Aquestes primeres pràctiques es corregiran a classe. Cada pràctica l'explicarà un/a alumne/a escollit aleatòriament.
 
-1. Mostra els passos necessaris per instal·lar les _VMWare Tools_ a una màquina virtual amb Windows i també a Ubuntu.
+1. Seguint les instruccions del professor, instal·la el sistema Ubuntu en una nova màquina virtual.
+1. Instal·la les _VMWare Tools_ a la màquina virtual Ubuntu.
 2. Augmenta la memòria principal (RAM) d'una màquina virtual en 512MB.
-3. Augmenta la mida del disc dur d'una màquina virtual Windows en 2GB. Augmenta la mida del volum per aprofitar el nou espai.
+3. Augmenta la mida del disc dur en 2GB. Verifica si cal augmentar la mida del volum per aprofitar el nou espai.
 4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot.
 5. Fes una exportació d'una màquina virtual en format OVF.
 6. Restaura l'arxiu OVF anterior.
-7. Descarrega una màquina virtual d'Internet que tingui l'Ubuntu instal·lat.
-8. Mostra com copiar un arxiu de text des de la màquina real a una màquina virtual.
+7. Mostra a on es pot trobar una altra màquina virtual a'Internet que tingui l'Ubuntu instal·lat.
+8. Utilitzant una _Shared folder_, mostra com copiar un arxiu de text des de la màquina real a una màquina virtual.
 
 Grimpades
 ----------

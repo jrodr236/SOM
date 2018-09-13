@@ -11,7 +11,7 @@ _VMWare Workstation_ permet automatitzar la instal·lació de determinats sistem
 
 ![Easy Install](https://geek-university.com/wp-content/images/vmware-player/vmware_player_easy_install.jpg?x13092)
 
-> Per tal de practicar les instal·lacions reals, en aquesta matèria, **MAI** utilitzarem aquesta opció.
+> Per tal de practicar les instal·lacions reals, en aquesta matèria, **NO** utilitzarem aquesta opció. Ara, però, farem una excepció: comença a fer l'exercici pràctic 1.
 
 
 Disc en un o en múltiples fitxers
