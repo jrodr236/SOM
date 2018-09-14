@@ -3,28 +3,16 @@ Administració de màquines virtuals - Exercicis pràctics
 
 > Aquestes primeres pràctiques es corregiran a classe. Cada pràctica l'explicarà un/a alumne/a escollit aleatòriament.
 
-<<<<<<< HEAD
 1. Instal·la les _VMWare Tools_ a la màquina virtual Ubuntu.
-2. La màquina virtual Windows d'ofimàtica té instal·lades les _VMWare Tools_? Si no ho té, instal·la-ho.
+2. La màquina virtual Windows d'ofimàtica té instal·lades les _VMWare Tools_? Si no ho té, instal·la-les.
+2. Clona la màquina virtual Windows.
+3. Localitza els directoris a on hi han les tres maquines virtuals: Ubuntu, Windows d'ofimàtica i Windows clonada. Estan al lloc indicat per poder-les utilitzar a casa teva?
 2. Augmenta la memòria principal (RAM) de la màquina virtual Ubuntu en 512MB.
 3. Augmenta la mida del disc dur en 2GB de la màquina virtual Ubuntu. Caldria augmentar la mida del volum per aprofitar el nou espai?
-4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot.
+4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot. Quin fons d'escriptori ha quedat?
 5. Fes una exportació d'una màquina virtual en format OVF.
 6. Restaura l'arxiu OVF anterior.
-7. Mostra a on es pot trobar una altra màquina virtual a Internet que tingui el sistema operatiu Fedora ja instal·lat.
-=======
-1. Seguint les instruccions del professor, instal·la el sistema Ubuntu en una nova màquina virtual.
-2. Clona la màquina virtual Windows que teniu del modul d'ofimàtica.
-3. Localitza els directoris a on hi han les tres maquines virtuals: Ubuntu, Windows d'ofimàtica i Windows clonada.
-1. Instal·la les _VMWare Tools_ a la màquina virtual Ubuntu.
-2. Augmenta la memòria principal (RAM) de la màquina virtual Ubuntu en 512MB.
-3. Augmenta la mida del disc dur en la maquina clonada en 2GB. Cal augmentar la mida del volum per aprofitar el nou espai?
-4. Crea un snapshot d'una màquina  virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot. Quin fons d'escriptori ha quedat?
-5. Fes una exportació d'una màquina virtual en format OVF.
-6. Restaura l'arxiu OVF anterior.
-7. Mostra una adreça d'Internet a on es pugui trobar 
-una màquina virtual que tingui l'Ubuntu instal·lat.
->>>>>>> 92e7a356fe7ab7a18feff80291578bc4bb456efe
+7. Mostra l'adreça d'Internet a on es pugui trobar una màquina virtual que tingui el sistema operatiu Fedora ja instal·lat.
 8. Utilitzant una _Shared folder_, mostra com copiar un arxiu de text des de la màquina real a una màquina virtual.
 
 Grimpades
