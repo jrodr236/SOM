@@ -11,14 +11,16 @@
 1.  Configura el gestor de màquines virtuals per poder-ho fer servir a l'institut i a casa.
 
 3. Localitza la màquina virtual Windows que us han passat al mòdul d'ofimàtica. A partir del menú de configuració que trobaràs al _VMWare Workstation_, mostra les següents dades de la màquina virtual:
-   * Tipus i versió del sistema operatiu
-   * Memòria base
+   * Tipus i versió del sistema operatiu (Options > General)
+   * Ubicació de la màquina virtual (Working directory)
+   * Quantitat de memòria
    * Quantitat de processadors
+   * Ubicació de l'arxiu del disc dur virtual (Disk file)
+   * Mida actual del disc dur (Current size)
+   * Mida màxima del disc dur (Maximum size)
+   * Imatge ISO connectada al DVD (Use ISO image file)
+   * Tipus de xarxa (Network connection)
    * Memòria de vídeo
-   * Mida virtual del disc dur
-   * Mida real del disc dur
-   * Ubicació del disc dur
-   * Xarxa connectada a...
 
 4. Dins del sistema Windows Virtual, executa l'administrador de tasques.
    * Quanta memòria hi ha en total?
