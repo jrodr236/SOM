@@ -42,6 +42,10 @@ Instal·lar les _VMWare Tools_
 
 Les _VMWare Tools_ s'han d'instal·lar dins la màquina virtual després d'instal·lar el sistema operatiu. Consisteixen en els controladors dels dispositius i aplicacions del sistema que optimitzen el sistema operatiu convidat per millorar el rendiment i la usabilitat.
 
+Els dos aspectes que més dificulten l'ús de les màquines virtuals sense les _VMWare Tools_ instal·lades són:
+- La resolució de la pantalla no s'adapta a la mida de la finestra.
+- No s'integra el ratolí entre la màquina virtual i la real. En aquest cas, per poder "treure" la fletxa del ratolí és utilitzant la combinació `CTRL+ALT`.
+
 Procediment per instal·lar les _VMWare Tools_:
 1. Iniciar la màquina virtual.
 2. Clicar a `VM > Install VMWare Tools`.
@@ -56,7 +60,6 @@ Les *Guest Additions* ofereixen les següents funcionalitats:
 * Millora del rendiment del ratolí.
 * Sincronització del rellotge de la màquina virtual amb el rellotge de l'escriptori del host o del client.
 * Ús de _scripts_ que ajuden a automatitzar les operations del sistema operatiu _guest_.
-
 
 
 Augmentar mida de la memòria principal (RAM)

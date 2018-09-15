@@ -34,6 +34,8 @@ Modificar la imatge ISO de la unitat de CD/DVD
 
 ## Instal·lar les _VMWare Tools_
 
+Veure adaptació pantalla i integració del ratolí sense _VMWare Tools_
+
 **DEMO**
 
 ---
