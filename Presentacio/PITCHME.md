@@ -121,7 +121,7 @@ Proves (exàmens): 40%
 
 +++
 
-### Demostracions i correcció en veu alta
+### Qualificacions amb lletres
 
 
 Seguiment treball diari
