@@ -6,9 +6,10 @@
 
 >Seguint les **indicacions del professor**, realitza les tasques següents. Adjunta **captures de pantalla** i explicacions dels passos més importants.
 
-1. Inicia les descàrregues que necessitaràs per les pràctiques:
+1. Inicia les descàrregues que necessitaràs per les pràctiques. Desa-les al teu disc dur extern:
    - _VMWare Workstation_ per Windows.
    - Màquina virtual Windows de proves
+     * Descomprimeix-la.
    - ISO per instal·lar Ubuntu.
 
    Recorda que pots accedir-hi via `Fitxers > Ctrl+L > smb://192.168.0.17`.
