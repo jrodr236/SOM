@@ -33,7 +33,7 @@
    * Número de processadors
    * Desactiva la xarxa per evitar perdre rendiment per les actualitzacions.
 
-4. Arrenca la màquina virtual. Dins del sistema Windows Virtual, executa l'administrador de tasques.
+4. Arrenca la màquina virtual. Dins del sistema Windows Virtual, executa `Administrador de tasques > More details > Performance`.
    * A la màquina real, com ha canviat la memòria ocupada?
    * A la màquina virtual, quanta memòria hi ha en total?
    * A la màquina virtual, quanta memòria està utilitzada?
