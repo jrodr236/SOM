@@ -11,7 +11,7 @@ Configuració de la xarxa a les màquines virtuals - Exercicis pràctics
    ```
    > Les IPs estan darrera la paraula `inet`, i son del tipus `192.168.X.X`, `172.X.X.X`, etc... Ignorar la IP de loopback (`127.X.X.X`).
 
-4. Prova la connexió a Internet.
+4. Prova la connexió a Internet a la màquina real. Si no funciona, comenta-li al professor.
 
    > Per fer una prova senzilla, pots fer un *test* de connexió a un servidor d'Internet amb la següent comanda:
    ```console
