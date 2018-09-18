@@ -29,7 +29,7 @@
 
 4. Revisa el hardware real i el seu estat amb l'aplicació `Monitor del Sistema`. Deixa-la oberta mentre fas totes les pràctiques.
    Fes els canvis en la configuració a la màquina virtual que t'indiqui el professor:
-   * RAM (Redueix la memòria de la màquina virtual en funció de la quantitat de memòria del teu PC.
+   * RAM (Redueix la memòria de la màquina virtual en funció de la quantitat de memòria del teu PC. Fixa't en la mínima, la recomanada i la màxima).
    * Número de processadors
    * Desactiva la xarxa per evitar perdre rendiment per les actualitzacions.
 
