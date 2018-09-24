@@ -56,7 +56,7 @@ Veure adaptació pantalla i integració del ratolí sense _VMWare Tools_
 
 **DEMO**
 
------
+---
 
 Localització de les màquines virtuals
 --------------------------
