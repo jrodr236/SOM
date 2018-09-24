@@ -153,7 +153,7 @@ Procediment:
 3. Escollir la opció `Shared Folders`.
 4. Escollir `Always enabled` o `Enabled until next power off or suspend`, segons convingui.
 5. Clicar el botó `Add` i afegir la carpeta compartida, escollint les opcions addients.
-4. Accedir al *servidor d'arxius virtual* `\\.host\Shared Folders\`.
+4. Accedir al *servidor d'arxius virtual* `\\vmware-host\Shared Folders\`.
 
 
 Configuració de la xarxa
