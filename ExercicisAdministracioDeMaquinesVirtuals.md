@@ -9,9 +9,9 @@ Administració de màquines virtuals - Exercicis pràctics
 2. Clona la màquina virtual Windows.
 3. Localitza els directoris a on hi han les tres maquines virtuals: Ubuntu, Windows original i Windows clonada. Estan al lloc indicat per poder-les utilitzar a casa teva?
 2. Augmenta la memòria principal (RAM) de la màquina virtual Ubuntu en 512MB.
-4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot. Quin fons d'escriptori ha quedat?
 5. Fes una exportació d'una màquina virtual en format OVF.
 6. Restaura l'arxiu OVF anterior.
+4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot. Quin fons d'escriptori ha quedat?
 7. Mostra l'adreça d'Internet a on es pugui trobar una màquina virtual que tingui el sistema operatiu Fedora ja instal·lat.
    - No cal que la descarreguis, només fes una captura de la pàgina i indica la seva adreça.
 8. Utilitzant una _Shared folder_, mostra com copiar un arxiu de text des de la màquina real a una màquina virtual.
