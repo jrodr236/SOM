@@ -49,8 +49,9 @@ Els dos aspectes que més dificulten l'ús de les màquines virtuals sense les _
 Procediment per instal·lar les _VMWare Tools_:
 1. Iniciar la màquina virtual.
 2. Clicar a `VM > Install VMWare Tools`.
-3. Si no s'ha iniciat automàticament, anar al CD i executar el programa `setup.exe` que hi ha dins la carpeta `setup`.
-4. Fer servir l'assistent per instal·lar les *VMWare Tools*.
+3. Si no s'ha iniciat automàticament:
+   - Si la màquina virtual és Windows, anar al CD i executar el programa `setup.exe` que hi ha dins la carpeta `setup`. Fer servir l'assistent per instal·lar les *VMWare Tools*.
+   - Si la màquina virtual és Linux, anar al CD, descomprimir el fitxer amb nom semblant a `VMwareTools.x.x.x-xxxx.tar.gz`, i des d'un terminal executar el fitxer `vmware-install.pl`.
 
 Les *Guest Additions* ofereixen les següents funcionalitats:
 * Rendiment de gràfics considerablement més ràpid i _Windows Aero_ en els sistemes operatius compatibles amb _Aero_.
