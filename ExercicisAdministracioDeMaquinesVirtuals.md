@@ -3,12 +3,12 @@ Administració de màquines virtuals - Exercicis pràctics
 
 > Aquestes primeres pràctiques es corregiran a classe. Cada pràctica l'explicarà un/a alumne/a escollit aleatòriament.
 
-1. Reinstal·la les _VMWare Tools_ a la màquina virtual Ubuntu.
-2. La màquina virtual Windows té instal·lades les _VMWare Tools_? Si no ho té, instal·la-les.
+1. ~Reinstal·la les _VMWare Tools_ a la màquina virtual Ubuntu.~
+2. La màquina virtual Windows té instal·lades les _VMWare Tools_? Si no ho té, instal·la-les, i si no les té, torna-les a instal·lar.
+3. Augmenta la mida del disc dur en 2GB de la màquina virtual Windows. Caldria augmentar la mida del volum per aprofitar el nou espai?
 2. Clona la màquina virtual Windows.
 3. Localitza els directoris a on hi han les tres maquines virtuals: Ubuntu, Windows original i Windows clonada. Estan al lloc indicat per poder-les utilitzar a casa teva?
 2. Augmenta la memòria principal (RAM) de la màquina virtual Ubuntu en 512MB.
-3. Augmenta la mida del disc dur en 2GB de la màquina virtual Windows. Caldria augmentar la mida del volum per aprofitar el nou espai?
 4. Crea un snapshot d'una màquina virtual. Després, canvïa el fons d'escriptori d'aquesta màquina. Finalment, reverteix el canvi restaurant l'snapshot. Quin fons d'escriptori ha quedat?
 5. Fes una exportació d'una màquina virtual en format OVF.
 6. Restaura l'arxiu OVF anterior.
