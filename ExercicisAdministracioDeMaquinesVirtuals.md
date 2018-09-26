@@ -4,7 +4,7 @@ Administració de màquines virtuals - Exercicis pràctics
 > Aquestes primeres pràctiques es corregiran a classe. Cada pràctica l'explicarà un/a alumne/a escollit aleatòriament.
 
 1. La màquina virtual Windows té instal·lades les _VMWare Tools_? Si no ho té, instal·la-les, i si les té, torna-les a instal·lar.
-3. Augmenta la mida del disc dur en 2GB de la màquina virtual Windows. Caldria augmentar la mida del volum per aprofitar el nou espai?
+3. Augmenta la mida del disc dur de la màquina virtual Windows en 2GB. Caldria augmentar la mida del volum per aprofitar el nou espai?
 2. Clona la màquina virtual Windows.
 3. Localitza els directoris a on hi han les tres maquines virtuals: Ubuntu, Windows original i Windows clonada. Estan al lloc indicat per poder-les utilitzar a casa teva?
 2. Augmenta la memòria principal (RAM) de la màquina virtual Ubuntu en 512MB.
