@@ -72,3 +72,12 @@ Internal|–|+|–|–
 Bridged|+|	+|	+|	+
 NAT|	–|	–|	+|	Port forwarding
 NAT Network|	–|	+|	+|	Port forwarding
+
+Proxy de l'institut
+---------------------
+
+Igual que a la màquina real, a les màquines virtuals necessitem configurar el _proxy_ per que aquestes puguin navegar per Internet.
+
+Recorda que la configuració és:
+
+**Automatic**: `http://192.168.0.244/proxy.inf.pac`
