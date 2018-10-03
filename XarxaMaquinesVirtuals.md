@@ -77,3 +77,5 @@ Igual que a la màquina real, a les màquines virtuals necessitem configurar el 
 Recorda que la configuració és:
 
 **Automatic**: `http://192.168.0.244/proxy.inf.pac`
+
+El navegador Firefox té una configuració de proxy pròpia. Cal indicar que utilitzi el proxy del sistema.

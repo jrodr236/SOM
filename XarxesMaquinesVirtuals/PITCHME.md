@@ -73,3 +73,5 @@ Proxy institut
 ---------------------
 
 **Automatic**: `http://192.168.0.244/proxy.inf.pac`
+
+Firefox té configuració proxy pròpia. Indicar que utilitzi el proxy del sistema.
