@@ -20,7 +20,7 @@ Configuració de la xarxa a les màquines virtuals - Exercicis pràctics
 
 4. Apunta el mode en el que està configurada la xarxa de la màquina virtual Ubuntu. Canvia el mode de xarxa de la màquina virtual Ubuntu a *NAT* (si escau). Quina és la seva IP? Prova la connexió a Internet. Explica perquè has obtingut aquests resultats.
 
-5. Canvia el mode de xarxa de la màquina virtual Ubuntu a *Adaptador pont*. Quina és la seva IP? Prova la connexió a Internet. Explica perquè has obtingut aquests resultats.
+5. Canvia el mode de xarxa de la màquina virtual Ubuntu a *Pont (Bridged)*. Quina és la seva IP? Prova la connexió a Internet. Explica perquè has obtingut aquests resultats.
 
 5. Canvia el mode de xarxa de la màquina virtual Ubuntu a *Host-only*. Quina és la seva IP? Prova la connexió a Internet. Explica perquè has obtingut aquests resultats.
 
