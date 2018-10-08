@@ -12,7 +12,7 @@ Configuració de la xarxa a les màquines virtuals - Exercicis pràctics
 
    > Per conèixer la IP d'una màquina amb linux, cal obrir el *Terminal* i utilitzar la comanda
    ```console
-   ip addr show
+   ip a
    ```
    > Les IPs estan darrera la paraula `inet`, i son del tipus `192.168.X.X`, `172.X.X.X`, etc... Ignorar la IP de loopback (`127.X.X.X`).
 
