@@ -1,7 +1,7 @@
 Configuració de la xarxa a les màquines virtuals
 ================================================
 
-[Veure Teoria](https://jrodr236.github.io/SOM/XarxaMaquinesVirtualsVirtualBox.html)
+[Veure Teoria](https://jrodr236.github.io/SOM/XarxaMaquinesVirtuals.html)
 
 ---
 
