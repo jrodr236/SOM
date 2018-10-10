@@ -30,6 +30,8 @@ Grimpades
 ----------
 >Les següents pràctiques son especialment difícils. La correcció a classe serà voluntària, però seran avaluades quan es lliurin al moodle.
 
+Recorda que el _Firewall_ integrat dels sistemes Windows estan configurats per no respondre els _pings_. Per les següents pràctiques, es recomana deshabilitar el _Firewall_ de Windows.
+
 1. Verifica si dues màquines virtuals configurades amb *NAT* tenen visibilitat de xarxa entre elles.
 
 1. Verifica si dues màquines virtuals, que s'estiguin executant en dos ordinadors diferents, configurades amb *Bridged* tenen visibilitat de xarxa entre elles.
