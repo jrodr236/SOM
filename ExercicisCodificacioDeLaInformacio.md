@@ -107,3 +107,5 @@ Grimpades
 >Les següents pràctiques son especialment difícils. La correcció a classe serà voluntària, però seran avaluades quan es lliurin al moodle.
 
 1. Explica els càlculs que realitza un sistema informàtic per sumar els següents números en decimal: 63 + 19, començant passant els números a binari.
+
+2. Com s'emmagatzema el número 0,000000000000000000000000000038746 utilitzant una codificació del tipus coma flotant?
