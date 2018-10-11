@@ -6,10 +6,8 @@ UF1. Introducció als sistemes operatius
 
 * [Components del sistema informàtic](ComponentsDelSistemaInformatic.md)
 * [Màquines virtuals](MaquinesVirtuals.md)
-* [Administració de màquines virtuals](AdministracioDeMaquinesVirtuals.md)
-  - [Material antic, VirtualBox](AdministracioDeMaquinesVirtualsVirtualBox.md)
-* [Configuració de la xarxa a les màquines virtuals](XarxaMaquinesVirtuals.md)
-  - [Material antic, VirtualBox](XarxaMaquinesVirtualsVirtualBox.md)
+* [Administració de màquines virtuals](AdministracioDeMaquinesVirtuals.md). _Material antic amb [VirtualBox](AdministracioDeMaquinesVirtualsVirtualBox.md)_
+* [Configuració de la xarxa a les màquines virtuals](XarxaMaquinesVirtuals.md). _Material antic amb [VirtualBox](XarxaMaquinesVirtualsVirtualBox.md)_
 * [Codificació de la informació](CodificacioDeLaInformacio.md)
 * [Sistemes Transaccionals](SistemesTransaccionals.md)
 * El sistema operatiu (conceptes + gestor?)
