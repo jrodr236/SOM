@@ -7,6 +7,10 @@ Sistemes operatius mòbils
 
 {:toc}
 
+xxxx
+
+{% include toc.html html=content %}
+
 Història
 -----------
 
