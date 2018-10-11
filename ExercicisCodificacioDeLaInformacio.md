@@ -48,7 +48,6 @@ Exercicis de base
 |13
 | |E
 | | |1111
-
 5. Sense utilitzar calculadora ni cap eina per ajudar-te, converteix el número hexadecimal F87A02 a binari. Explica pas a pas com ho has fet.
 
 6. Sense utilitzar calculadora ni cap eina per ajudar-te, converteix el número binari 1111001 a hexadecimal. Explica pas a pas com ho has fet.
