@@ -30,24 +30,24 @@ Exercicis de base
 
 4. Omple la següent taula de conversions:
 
-| Decimal | Hexadecimal | Binari |
-|:-------:|:-----------:|:------:|
-|0|0|0000|
-|1|1|0001|
-|2
-|3|3| |
-|4| |
-| |5
-| | 6
-|7
-|8
-| |9
-|10
-| |B
-|12
-|13
-| |E
-| | |1111
+   | Decimal | Hexadecimal | Binari |
+   |:-------:|:-----------:|:------:|
+   |0|0|0000|
+   |1|1|0001|
+   |2
+   |3|3| |
+   |4| |
+   | |5
+   | | 6
+   |7
+   |8
+   | |9
+   |10
+   | |B
+   |12
+   |13
+   | |E
+   | | |1111
 
 5. Sense utilitzar calculadora ni cap eina per ajudar-te, converteix el número hexadecimal F87A02 a binari. Explica pas a pas com ho has fet.
 
