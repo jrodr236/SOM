@@ -55,10 +55,12 @@ Exercicis de base
 
 7. Utilitzant una calculadora, converteix els números decimals 255 i 256 a hexadecimal i a binari.
 
-8. Quin és el número més gran (en decimal) que es pot emmagatzemar utilitzant la mida de paraula dels següents sistemes?
+8. Quina és la mida de paraula dels següents sistemes?
    - Nintendo NES
    - Intel 80386 (i386)
    - Intel Core i7
+
+8. Quin és el número més gran que es pot emmagatzemar utilitzant la mida de paraula dels sistemes de l'exercici anterior? Indica els números en binari, en hexadecimal i en decimal.
 
 9. Els següents son exemples de detecció d'errors "Two-dimensional parity-check code", com els vists a classe. Indica si tenen o no errors, i on són: 
    ```
