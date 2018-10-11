@@ -111,3 +111,14 @@ Grimpades
 1. Explica els càlculs que realitza un sistema informàtic per sumar els següents números en decimal: 63 + 19, començant passant els números a binari.
 
 2. Com s'emmagatzema el número 0,000000000000000000000000000038746 utilitzant una codificació del tipus coma flotant?
+
+3. Busca informació sobre compressió amb pèrdua i compressió sense pèrdua. Prepara't per explicar-ho als teus companys i companyes, amb paraules senzilles i amb exemples.
+
+3. Explica, amb paraules senzilles i exemples, què és un [mapa de bits](https://ca.wikipedia.org/wiki/Mapa_de_bits).
+
+4. Els següents formats son mapes de bits? En cas que no ho siguin, explica perquè.
+   - bmp
+   - jpeg
+   - png
+   - gif
+
