@@ -6,23 +6,8 @@ Sistemes operatius mòbils
 * Exercicis pràctics: _pendent_
 
 
-
-xxxx
-
-
-
-{% capture markdown %}
-
 Història
 -----------
-
-{% endcapture %}
-
-{% assign text = markdown | markdownify %}
-
-{% include toc.html html=text baseurl="example.org" %}
-
-
 
 ![First mobiles](https://cdn.thomasnet.com/kc/thumbs/3172.png)
 
