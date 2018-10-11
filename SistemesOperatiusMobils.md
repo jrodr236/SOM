@@ -1,6 +1,10 @@
 Sistemes Operatius Mòbils
 ======================
 
+* Resum: _pendent_
+* Exercicis teòrics: _pendent_
+* Exercicis pràctics: _pendent_
+
 Història
 -----------
 

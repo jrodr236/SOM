@@ -11,7 +11,8 @@ UF1. Introducció als sistemes operatius
 * [Codificació de la informació](CodificacioDeLaInformacio.md)
 * [Sistemes Transaccionals](SistemesTransaccionals.md)
 * El sistema operatiu (conceptes + gestor?)
-* Android (...)
+* [Sistemes operatius Mòbils](SistemesOperatiusMobils.md)
+
 
 UF2. Sistemes operatius propietaris
 -------------------------------
@@ -24,6 +25,7 @@ UF2. Sistemes operatius propietaris
 * Gestió d'emmagatzematge
 * Gestió de processos i serveis
 * Mètodes de recuperació del sistema operatiu
+
 
 UF3. Sistemes operatius lliures
 ------------------------------
