@@ -5,7 +5,7 @@ Sistemes operatius mòbils
 * Exercicis teòrics: _pendent_
 * Exercicis pràctics: _pendent_
 
-{:toc}
+
 
 xxxx
 
