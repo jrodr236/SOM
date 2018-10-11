@@ -10,7 +10,7 @@ Els primers mòbils s'utilitzaven per enviar i rebre trucades i poca cosa més. 
 
 ![Evolution of the Mobile Phone](https://irishtechnews.ie/wp-content/uploads/2016/04/the-evolution-of-the-mobile-phone-1-638.jpg)
 
-A partir dels 2000, quan les funcionalitats dels mòbils van començar a crèixer, es van començar a utilitzar sistemes operatius genèrics (com Symbian o System 40), que funcionaven a diferents tipus de mòbils.
+A partir dels 2000, quan les funcionalitats dels mòbils van començar a crèixer, es van començar a utilitzar sistemes operatius genèrics (com Symbian o Series 40), que funcionaven a diferents tipus de mòbils.
 
 ![Symbian](https://i1.wp.com/hipertextual.com/archivo/wp-content/uploads/2014/10/Symbian1.jpg?resize=670%2C413&ssl=1)
 
