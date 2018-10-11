@@ -11,7 +11,7 @@ UF1. Introducció als sistemes operatius
 * [Codificació de la informació](CodificacioDeLaInformacio.md)
 * [Sistemes Transaccionals](SistemesTransaccionals.md)
 * El sistema operatiu (conceptes + gestor?)
-* [Sistemes operatius Mòbils](SistemesOperatiusMobils.md)
+* [Sistemes operatius mòbils](SistemesOperatiusMobils.md)
 
 
 UF2. Sistemes operatius propietaris
