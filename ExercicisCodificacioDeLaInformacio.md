@@ -22,13 +22,13 @@ Exercicis de base
 2. Tenim un fitxer que ocupa just la meitat d'un disc de Blu-Ray. Volem fer-ne una còpia però no ens queda cap més disc Blu-Ray. Calcula quants discos DVD necessitaríem si podem fer trossos del fitxer de la mateixa mida. Fes el càlcul també amb CDs.
    * Capacitats: Blu-Ray 25GB; DVD 4,7GB; CDs 700MB.
 
-3. Tenim una connexió de fibra òptica de 5 Gigues. Tenint en compte que això és la velocitat màxima teòrica (5 Giga**bits**), fes els càlculs per saber:
+3. Tenim una connexió de fibra òptica de 5 Gigues. Tenint en compte que aquesta és la velocitat màxima teòrica (5 Giga**bits**), fes els càlculs per saber:
    * Quant de temps, com a mínim, trigarà en baixar-se un fitxer de 5 Gigabits?
    * Quant de temps, com a mínim, trigarà en baixar-se un fitxer de 5 GigaBytes?
    * Quant de temps, com a mínim, trigarà en baixar-se un fitxer de 18 GigaBytes?
    * Quant de temps, com a mínim, trigarà en baixar-se un fitxer de 512 MegaBytes?
 
-3. Omple la següent taula de conversions:
+4. Omple la següent taula de conversions:
 
 | Decimal | Hexadecimal | Binari |
 |:-------:|:-----------:|:------:|
@@ -49,18 +49,18 @@ Exercicis de base
 | |E
 | | |1111
 
-3. Sense utilitzar calculadora ni cap eina per ajudar-te, converteix el número hexadecimal F87A02 a binari. Explica pas a pas com ho has fet.
+5. Sense utilitzar calculadora ni cap eina per ajudar-te, converteix el número hexadecimal F87A02 a binari. Explica pas a pas com ho has fet.
 
-4. Sense utilitzar calculadora ni cap eina per ajudar-te, converteix el número binari 1111001 a hexadecimal. Explica pas a pas com ho has fet.
+6. Sense utilitzar calculadora ni cap eina per ajudar-te, converteix el número binari 1111001 a hexadecimal. Explica pas a pas com ho has fet.
 
-5. Utilitzant una calculadora, converteix els números decimals 255 i 256 a hexadecimal i a binari.
+7. Utilitzant una calculadora, converteix els números decimals 255 i 256 a hexadecimal i a binari.
 
-6. Quin és el número més gran (en decimal) que es pot emmagatzemar utilitzant la mida de paraula dels següents sistemes?
+8. Quin és el número més gran (en decimal) que es pot emmagatzemar utilitzant la mida de paraula dels següents sistemes?
    - Nintendo NES
    - Intel 80386 (i386)
    - Intel Core i7
 
-5. Els següents son exemples de detecció d'errors "Two-dimensional parity-check code", com els vists a classe. Indica si tenen o no errors, i on són: 
+9. Els següents son exemples de detecció d'errors "Two-dimensional parity-check code", com els vists a classe. Indica si tenen o no errors, i on són: 
    ```
    a)
    0 0 1 0 1 0 1 | 1
@@ -97,10 +97,10 @@ Exercicis de base
    1 0 0 0 1 0 1 | 0
    ```
 
-6. Intenta escriure un caràcter UNICODE a l'editor de textos *notepad* de Windows. Per exemple, aquest: https://emojipedia.org/penguin/
+10. Intenta escriure un caràcter UNICODE a l'editor de textos *notepad* de Windows. Per exemple, aquest: https://emojipedia.org/penguin/
    Es pot escriure? Creus que té suport de UNICODE? Creus que té suport per ASCII?
 
-7. A l'editor de textos *gedit*, intenta escriure un caràcter UNICODE. Funciona? Perquè?
+11. A l'editor de textos *gedit*, intenta escriure un caràcter UNICODE. Funciona? Perquè?
 
 Grimpades
 ----------
