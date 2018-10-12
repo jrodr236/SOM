@@ -5,7 +5,7 @@ Projecte Android-x86
 ----------------
 Aquest projecte es dedica a crear versions d'Android que puguin executar-se a PCs.
 
--CM = https://lineageos.org/
+-CM = https://lineageos.org/ (abans cianogmen??)
 - Android = open source
 
 
