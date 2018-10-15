@@ -56,9 +56,13 @@ Exercicis de base
 7. Utilitzant una calculadora, converteix els números decimals 255 i 256 a hexadecimal i a binari.
 
 8. Quina és la mida de paraula dels següents sistemes?
-   - Nintendo NES
-   - Intel 80386 (i386)
-   - Intel Core i7
+   - Nintendo NES       <!--  8 bits -->
+   - Intel 80386 (i386) <!-- 32 bits -->
+   - Intel Core i7      <!-- 64 bits -->
+   - Sega Mega Drive    <!-- 16 bits -->
+   - PlayStation I      <!-- 32 bits -->
+   - XBox One           <!-- 64 bits -->
+   - Intel 8086         <!-- 16 bits -->
 
 8. Quin és el número més gran que es pot emmagatzemar utilitzant la mida de paraula dels sistemes de l'exercici anterior? Indica els números en binari, en hexadecimal i en decimal.
 
