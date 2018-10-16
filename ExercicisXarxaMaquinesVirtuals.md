@@ -3,6 +3,8 @@ Configuració de la xarxa a les màquines virtuals - Exercicis pràctics
 
 > Aquestes primeres pràctiques es corregiran a classe. Cada pràctica l'explicarà un/a alumne/a escollit aleatòriament.
 
+Recorda que els sistemes **Windows**, per defecte, **no responen els pings**. El seu _firewall_ bloqueja les respostes.
+
 1. Quina és l'adreça de xarxa IP de la màquina real?
 
    > Per conèixer la IP d'una màquina amb linux, cal obrir el *Terminal* i utilitzar la comanda
