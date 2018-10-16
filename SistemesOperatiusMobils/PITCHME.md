@@ -59,7 +59,7 @@ Altres sistemes operatius a destacar:
 Sistemes operatius mòbils més utilitzats
 -------------------------
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="500px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="400px">
 
 ---
 
