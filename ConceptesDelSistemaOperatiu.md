@@ -1,6 +1,10 @@
 Conceptes del sistema operatiu
 ================
 
+* Resum: _pendent_
+* Exercicis teòrics: _pendent_
+* Exercicis pràctics: _pendent_
+
 Definició de sistema operatiu
 -----------
 
