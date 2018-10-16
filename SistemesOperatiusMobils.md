@@ -1,8 +1,8 @@
 Sistemes operatius mòbils
 ======================
 
-* Resum: _pendent_
-* Exercicis teòrics: _pendent_
+* [Resum](https://gitpitch.com/jrodr236/som/master?p=SistemesOperatiusMobils)
+* Exercicis teòrics: _moodle_
 * [Exercicis pràctics](ExercicisSistemesOperatiusMobils.md)
 
 
@@ -87,6 +87,4 @@ Apps
 
 Una app (aplicació mòbil) és una aplicació informàtica dissenyada per ser utilitzada en telèfons intel·ligents, tauletes tàctils i altres dispositius mòbils.
 
-Es poden adquirir a través de plataformes de distribució d'aplicació. Algunes aplicacions són gratuïtes, mentre que altres han de ser comprades.
-
-Solen ser descarregades de la plataforma de distribució (Google Play, APP Store, ...) a un dispositiu de destinació mòbil com un iPhone, una Blackberry o un telèfon d'Android, però de vegades poden ser descarregades directament a ordinadors, tant portàtils com de sobretaula.
+Es poden adquirir a través de plataformes de distribució d'aplicació (Google Play, APP Store, ...). Algunes aplicacions són gratuïtes, mentre que altres han de ser comprades.

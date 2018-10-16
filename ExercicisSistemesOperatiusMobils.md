@@ -29,3 +29,8 @@ Sistemes operatius mòbils - Exercicis pràctics
     * Mostrar la pantalla d'un dispositiu android en un PC _(7 punts)_.
     * Cóm _rotejar_ un dispositiu Android _(10 punts)_.
     * Cóm descarregar i instal·lar un Android d'una versió superior a la que tenim (10 punts).
+
+Grimpades
+=========
+
+1. Instal·la un emulador d'iOS. Fes algunes proves bàsiques i mostra el seu funcionament. Pots instal·lar alguna APP?
