@@ -3,7 +3,7 @@ Sistemes operatius mòbils
 
 * Resum: _pendent_
 * Exercicis teòrics: _pendent_
-* Exercicis pràctics: _pendent_
+* [Exercicis pràctics](ExercicisSistemesOperatiusMobils.md)
 
 
 Història
@@ -30,7 +30,7 @@ La resta dels sistemes operatius no van ser capaços d'adaptar-se a les caracter
 ![Android & iOS](https://boygeniusreport.files.wordpress.com/2016/11/iphone-android.jpg?quality=98&strip=all)
 
 Altres sistemes operatius per mòbils i _tablets_ a destacar són:
-- **Windows Phone**: creat per Microsoft, molt interessant per la integració amb els altres sistemes Widnows, no ha aconseguit gaire quota de mercat.
+- **Windows Phone**: creat per Microsoft, molt interessant per la integració amb els altres sistemes Windows, no ha aconseguit gaire quota de mercat.
 - **Blackberry OS**: utilitzat en els dispositius mòbils Blackberry, molt populars abans de l'arribada dels smartphones.
 - **Ubuntu Touch**: pretèn portar l'experiència d'Ubuntu als dispositius mòbils. Actualment abandonat per Canonical (desenvolupador d'Ubuntu), però recuperat per la comunitat.
 - **Fuchsia**: un misterios sistema operatiu de Google que podria substituïr Android.
