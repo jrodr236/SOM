@@ -59,7 +59,7 @@ Altres sistemes operatius a destacar:
 Sistemes operatius mòbils més utilitzats
 -------------------------
 
-![Smartphone Sales](https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="500px">
 
 ---
 
@@ -91,7 +91,7 @@ Obert i fragmentat.
 ---
 
 iOS
----
+------
 
 ![iOS](https://photos5.appleinsider.com/gallery/27993-42763-0-28317-22777-27973-21832-25629-21575-24846-170605-iOS11-l-l-2-l-l-l.jpg)
 
@@ -107,11 +107,12 @@ Tancat, però sense fragmentació.
 Apps
 ------
 
-![APPs](http://prevenblog.com/wp-content/uploads/apps2.jpg)
+<img src="http://prevenblog.com/wp-content/uploads/apps2.jpg" height="500px">
+
 
 +++
 
-APP per mòbil
+Aplicacions per dispositius mòbil
 
 Solen descarregar-se de plataformes de distribució (Google Play, APP Store, ...)
 
