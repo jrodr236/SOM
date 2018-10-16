@@ -13,7 +13,7 @@ Història
 
 Els primers mòbils s'utilitzaven per enviar i rebre trucades i poca cosa més. Aquests dispositius utilitzaven uns sistemes operatius desenvolupats específicament per cada model de mòbil.
 
-![Evolution of the Mobile Phone](https://irishtechnews.ie/wp-content/uploads/2016/04/the-evolution-of-the-mobile-phone-1-638.jpg)
+![Evolution of the Mobile Phone](https://funalive.com/uploads/files/article/images/evolution-phone.jpg)
 
 A partir dels 2000, quan les funcionalitats dels mòbils van començar a crèixer, es van començar a utilitzar sistemes operatius genèrics (com Symbian o Series 40), que funcionaven a diferents tipus de mòbils.
 

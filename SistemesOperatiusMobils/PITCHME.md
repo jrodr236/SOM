@@ -3,6 +3,7 @@ Sistemes operatius mòbils
 
 [Veure Teoria](https://jrodr236.github.io/SOM/SistemesOperatiusMobils.html)
 
+---
 
 Història
 -----------
@@ -19,7 +20,7 @@ Només trucades. Sistemes operatius específics per cada model.
 
 ### Evolució
 
-![Evolution of the Mobile Phone](https://irishtechnews.ie/wp-content/uploads/2016/04/the-evolution-of-the-mobile-phone-1-638.jpg)
+![Evolution of the Mobile Phone](https://funalive.com/uploads/files/article/images/evolution-phone.jpg)
 
 +++
 
