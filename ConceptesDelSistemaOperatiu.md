@@ -47,7 +47,7 @@ S’encarrega de controlar la resta dels mòduls i sincronitzar-ne l’execució
 
 Getiona el processador i la manera com poden accedir al processador els diferents processos (un **procés** és programa en execució).
 
-![Processor management](http://4.bp.blogspot.com/-yEb5302jgtE/U6FAmPYWk_I/AAAAAAAABFU/T23nzMvwDWU/s1600/process_state_diagram02.gif)
+![Processor](https://i.ebayimg.com/images/g/yjkAAOSwowxZdf7j/s-l300.jpg)
 
 ### Administrador de memòria
 
@@ -55,13 +55,13 @@ S’encarrega d’assignar certes porcions de la memòria principal (RAM) als di
 
 També vigila que els diferents processos no puguin accedir a l'espai de memòria dels altres processos.
 
-![Memory management](https://www.tutorialspoint.com/operating_system/images/process_swapping.jpg)
+![Memory](https://www.southerncomputerservices.com.au/wp-content/uploads/2018/06/RAM.jpg)
 
 ### Sistema d’entrada/sortida,
 
 S'encarrega de la gestió dels dispositius. Els controladors _(drivers)_ són els que permeten la comunicació entre els dispositius i el sistema operatiu.
 
-![Input/Output management](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter13/13_01_TypicalBus.jpg)
+![Input/Output management](http://blog.drivethelife.com/wp-content/uploads/2015/12/device-driver.png)
 
 ### Administrador d’arxius.
 
