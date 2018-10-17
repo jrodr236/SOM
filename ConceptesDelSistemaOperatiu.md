@@ -1,7 +1,7 @@
 Conceptes del sistema operatiu
 ================
 
-* Resum: _pendent_
+* [Resum]((https://gitpitch.com/jrodr236/som/master?p=ConceptesDelSistemaOperatiu)
 * Exercicis teòrics: _pendent_
 * Exercicis pràctics: _pendent_
 

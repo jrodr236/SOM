@@ -9,7 +9,7 @@ UF1. Introducció als sistemes operatius
 * [Administració de màquines virtuals](AdministracioDeMaquinesVirtuals.md). _Material antic amb [VirtualBox](AdministracioDeMaquinesVirtualsVirtualBox.md)_
 * [Configuració de la xarxa a les màquines virtuals](XarxaMaquinesVirtuals.md). _Material antic amb [VirtualBox](XarxaMaquinesVirtualsVirtualBox.md)_
 * [Codificació de la informació](CodificacioDeLaInformacio.md)
-* [Sistemes Transaccionals](SistemesTransaccionals.md)
+* [Sistemes transaccionals](SistemesTransaccionals.md)
 * [Sistemes operatius mòbils](SistemesOperatiusMobils.md)
 * [Conceptes del sistema operatiu](ConceptesDelSistemaOperatiu.md)
 
