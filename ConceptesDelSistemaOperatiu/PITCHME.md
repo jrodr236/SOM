@@ -8,12 +8,17 @@ Conceptes del sistema operatiu
 Definició de sistema operatiu
 -----------
 
-Un sistema operatiu és un conjunt de programes i funcions que:
-* administren els recursos oferts pel maquinari per a obtenir un rendiment eficient,
-* controlen l’execució de programes d’aplicació,
-* amaguen els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
+Sistema operatiu és un programari que:
 
 +++
+
+* administren els recursos oferts pel maquinari per a obtenir un rendiment eficient,
++++
+* controlen l’execució de programes d’aplicació,
++++
+* amaguen els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
+
++++ 
 
 ![Operating System](https://www.supraits.com/wp-content/uploads/2018/01/Operating-Systems.png)
 
@@ -22,7 +27,7 @@ Un sistema operatiu és un conjunt de programes i funcions que:
 Funcions principals del sistema operatiu
 ------------
 
----
++++
 
 * Administra el processador.
 * Administra la memòria.
@@ -61,23 +66,27 @@ Hi ha la part del codi del SO que s'útilitza més.
 
 ### Planificador del processador:
 
-Controla l'accés al processador per part dels processos (**procés** = programa en execució).
+![Processor](https://i.ebayimg.com/images/g/yjkAAOSwowxZdf7j/s-l300.jpg)
 
 +++
 
-![Processor](https://i.ebayimg.com/images/g/yjkAAOSwowxZdf7j/s-l300.jpg)
+Controla l'accés al processador per part dels processos.
+
+(**Procés** = programa en execució).
+
 
 +++
 
 ### Administrador de memòria
 
+![Memory](https://www.southerncomputerservices.com.au/wp-content/uploads/2018/06/RAM.jpg)
+
++++
+
 Assigna RAM als programes.
 
 Vigila que els processos no accedeixin a l'espai de memòria dels altres.
 
-+++
-
-![Memory](https://www.southerncomputerservices.com.au/wp-content/uploads/2018/06/RAM.jpg)
 
 +++
 
