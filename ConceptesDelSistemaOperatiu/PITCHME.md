@@ -12,11 +12,11 @@ Sistema operatiu és un programari que:
 
 +++
 
-* administren els recursos oferts pel maquinari per a obtenir un rendiment eficient,
+* administra els recursos oferts pel maquinari per a obtenir un rendiment eficient,
 +++
-* controlen l’execució de programes d’aplicació,
+* controla l’execució de programes d’aplicació,
 +++
-* amaguen els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
+* amaga els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
 
 +++ 
 
@@ -47,6 +47,8 @@ Funcions principals del sistema operatiu
 
 Arquitectura del sistema operatiu
 ----------------
+
+Alguns elements importants:
 
 +++
 
@@ -104,7 +106,9 @@ Controladors _(drivers)_ permeten la comunicació entre els dispositius i el sis
 
 ### Administrador d’arxius.
 
-Estructura d'arxius habitual: Fitxers + Directoris
+Estructura d'arxius habitual:
+
+Fitxers + Directoris
 
 +++
 
