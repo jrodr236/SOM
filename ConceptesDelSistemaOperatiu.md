@@ -1,10 +1,6 @@
 Conceptes del sistema operatiu
 ================
 
-* [Resum]((https://gitpitch.com/jrodr236/som/master?p=ConceptesDelSistemaOperatiu)
-* Exercicis teòrics: _pendent_
-* Exercicis pràctics: _pendent_
-
 Definició de sistema operatiu
 -----------
 
@@ -12,8 +8,6 @@ Un sistema operatiu és un conjunt de programes i funcions que:
 * administren els recursos oferts pel maquinari per a obtenir un rendiment eficient,
 * controlen l’execució de programes d’aplicació,
 * amaguen els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
-
-![Operating System](https://www.supraits.com/wp-content/uploads/2018/01/Operating-Systems.png)
 
 Funcions principals del sistema operatiu
 ------------
@@ -45,13 +39,9 @@ S’encarrega de controlar la resta dels mòduls i sincronitzar-ne l’execució
 
 És la part del codi del sistema operatiu que s'utilitza més àmpliament, i algunes de les parts dels següents elements s'hi troben integrats.
 
-![Kernel](https://ugc.kn3.net/i/origin/http://nexolinux.com/wp-content/uploads/2013/02/explore_linux_kernel.png)
-
-### Planificador del processador:
+### Planificador del processador
 
 Getiona el processador i la manera com poden accedir al processador els diferents processos (un **procés** és programa en execució).
-
-![Processor](https://i.ebayimg.com/images/g/yjkAAOSwowxZdf7j/s-l300.jpg)
 
 ### Administrador de memòria
 
@@ -59,25 +49,15 @@ S’encarrega d’assignar certes porcions de la memòria principal (RAM) als di
 
 També vigila que els diferents processos no puguin accedir a l'espai de memòria dels altres processos.
 
-![Memory](https://www.southerncomputerservices.com.au/wp-content/uploads/2018/06/RAM.jpg)
-
-### Sistema d’entrada/sortida,
+### Sistema d’entrada/sortida
 
 S'encarrega de la gestió dels dispositius. Els controladors _(drivers)_ són els que permeten la comunicació entre els dispositius i el sistema operatiu.
 
-![Input/Output management](http://blog.drivethelife.com/wp-content/uploads/2015/12/device-driver.png)
-
-### Administrador d’arxius.
+### Administrador d’arxius
 
 S’encarrega de mantenir l’estructura de les dades dels sistemes d'emmagatzemament massius. Habitualment aquesta estructura utilitza:
 - Fitxers (arxius): grups d'informació relacionades.
 - Directoris (carpetes): agrupació d'arxius i altres directoris
-
-> Conceptes importants: camí relatiu i camí absolut.
-> * Camí relatiu: camí per arribar a un fitxer o directori, des de la posició actual.
-> * Camí absolut: camí per arribar a un fitxer o directori des de la posició de l'arrel.
-
-![Relative & Absolute Paths](https://automatetheboringstuff.com/images/000032.jpg)
 
 ### La interfície d'usuari _(shell)_
 
@@ -88,5 +68,3 @@ Rep totes les ordres de l’usuari i dóna el control als diferents programes de
 La interfície que es vol definir entre l’usuari i el sistema pot ser de dos tipus:
 - Línia de comandes (CLI): es basen en ordres escrites.
 - Interfície gràfica d'usuari (GUI): es basen en la selecció d'eines gràfiques (botons, icones, etc...)
-
-![CLI vs. GUI](http://www.itrelease.com/wp-content/uploads/2017/11/GUI-vs-CLI.png)
