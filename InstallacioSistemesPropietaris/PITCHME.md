@@ -28,7 +28,7 @@ Mètodes d’instal·lació i de planificació dels paràmetres bàsics d’un d
 
 * Divisió d'un disc dur.
 * Cada partició és una unitat d'emmagatzematge independent.
-* MBR (Antic, utilitzat per VirtualBox)
+* MBR (Antic, per defecte a màquines virtuals)
   * 4 particions primàries màxim
   * Les primàries poden ser esteses, que tenen lògiques a dins (tantes com necessitis)
 * GPT (Actual): sense aquestes limitacions

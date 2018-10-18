@@ -49,7 +49,7 @@ Inicialment, els primers PCs estàven limitats a 4 particions. Això es va soluc
 
 Actualment, el particionament GPT no hi han aquestes limitacions.
 
-> VirtualBox utilitza el particionament MBR per defecte.
+> La majoria de gestors de màquines virtuals (VMWare, VirtualBox, etc...) utilitzen el particionament MBR per defecte.
 
 
 ### Sistema de fitxers d’un sistema operatiu Windows
