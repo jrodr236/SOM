@@ -9,9 +9,9 @@ Definició de sistema operatiu
 -----------
 
 Un sistema operatiu és un conjunt de programes i funcions que:
-* administren els recursos oferts pel maquinari per a obtenir un rendiment eficient,
-* controlen l’execució de programes d’aplicació,
-* amaguen els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
+* Administren els recursos oferts pel maquinari per a obtenir un rendiment eficient.
+* Controlen l’execució de programes d’aplicació.
+* Amaguen els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
 
 ![Operating System](https://www.supraits.com/wp-content/uploads/2018/01/Operating-Systems.png)
 
