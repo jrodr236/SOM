@@ -12,11 +12,11 @@ Sistema operatiu és un programari que:
 
 +++
 
-* administra els recursos oferts pel maquinari per a obtenir un rendiment eficient,
+* Administra els recursos oferts pel maquinari per a obtenir un rendiment eficient.
 +++
-* controla l’execució de programes d’aplicació,
+* Controla l’execució de programes d’aplicació.
 +++
-* amaga els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
+* Amaga els detalls del maquinari de manera que donen a l’usuari i a les aplicacions un camí senzill i flexible d’accés al sistema.
 
 +++ 
 
