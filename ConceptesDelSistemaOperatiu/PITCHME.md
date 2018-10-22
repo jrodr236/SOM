@@ -81,7 +81,7 @@ Controla l'accés al processador per part dels processos.
 
 ### Administrador de memòria
 
-![Memory](https://www.southerncomputerservices.com.au/wp-content/uploads/2018/06/RAM.jpg)
+![Memory](https://www.extremetech.com/wp-content/uploads/2016/02/DRAM-Feature.jpg)
 
 +++
 
