@@ -2,8 +2,8 @@ Conceptes del sistema operatiu
 ================
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=ConceptesDelSistemaOperatiu)
-* Exercicis teòrics: _pendent_
-* Exercicis pràctics: _pendent_
+* Exercicis teòrics: _moodle._
+* Exercicis pràctics: _no n'hi ha._
 
 Definició de sistema operatiu
 -----------
@@ -47,7 +47,7 @@ S’encarrega de controlar la resta dels mòduls i sincronitzar-ne l’execució
 
 ![Kernel](https://ugc.kn3.net/i/origin/http://nexolinux.com/wp-content/uploads/2013/02/explore_linux_kernel.png)
 
-### Planificador del processador:
+### Planificador del processador
 
 Getiona el processador i la manera com poden accedir al processador els diferents processos (un **procés** és programa en execució).
 
@@ -61,13 +61,13 @@ També vigila que els diferents processos no puguin accedir a l'espai de memòri
 
 ![Memory](https://www.extremetech.com/wp-content/uploads/2016/02/DRAM-Feature.jpg)
 
-### Sistema d’entrada/sortida,
+### Sistema d’entrada/sortida
 
 S'encarrega de la gestió dels dispositius. Els controladors _(drivers)_ són els que permeten la comunicació entre els dispositius i el sistema operatiu.
 
 ![Input/Output management](http://blog.drivethelife.com/wp-content/uploads/2015/12/device-driver.png)
 
-### Administrador d’arxius.
+### Administrador d’arxius
 
 S’encarrega de mantenir l’estructura de les dades dels sistemes d'emmagatzemament massius. Habitualment aquesta estructura utilitza:
 - Fitxers (arxius): grups d'informació relacionades.
