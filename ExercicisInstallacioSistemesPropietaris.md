@@ -1,4 +1,34 @@
 Instal·lació de sistemes operatius propietaris - Exercicis pràctics
 ======================================================
 
-1. Suposem que hem d'instal·lar un sistema operatiu en un ordinador de la nostra empresa. Un dels requeriments tècnics és poder afegir l'ordinador a un Domini d'Active Directory. Digues, d'entre totes les edicions de la última versió de Windows (Windows 10 Home Edition, Windows 10 Professional, etc...), quines compleixen aquest requisit i quines no.
+1. Seguint els següents passos, comprova si el teu ordinador està preparat per a instal·lar el Windows 8:
+
+   a) Cerca a Internet “windows 10 requirements”, i ves a l’enllaç de microsoft.
+   
+   b) Quins son els requeriments d’aquest sistema operatiu?
+
+   c) L'ordinador que utilitzes a classe els compleix? Justifica-ho.
+
+2. Compara les versions de Windows 7 i 10:
+
+   a) Quines característiques suporta Windows 10 sobre Windows 7?
+
+   b) Quins diferents requeriments tenen aquests dos sistemes operatius?
+
+3. Descarrega la següents versions de Windows:
+   
+   `en_windows_10_education_version_1703_updated_march_2017_x64_dvd_10189297.iso`
+
+3. Utilitzant màquines virtuals, realitza totes les etapes d’instal·lació d’un sistema operatiu (objectius, anàl·lisi, etc...) amb el Windows descarregat.
+
+6. Hi ha hagut alguna incidència durant les instal·lacions? Les has pogut solucionar? Com?
+
+7. Llegeix (per sobre) el contracte de llicència del Windows 10 i comenta algun punt que et cridi l’atenció. Creus que, en general, es respecta aquesta llicència? Perquè?
+
+8. Executa el programa msconfig. Per a què serveix la pestanya `boot`?
+
+9. Dissenya un pòster per a penjar a una sala d’informàtica intentant persuadir als usuaris d’intentar utilitzar els comptes i contrasenyes d’altres persones.
+
+10. Realitza un manual de 2 pàgines com a màxim indicant la forma de realitzar les tasques més habituals en el _mode tauleta_ del Windows 10.
+
+11. Llegeix en anglès la pàgina a la que apunta el següent enllaç: https://www.groovypost.com/howto/dual-boot-windows-10-other-versions-windows/; explica breument quin procediment s’explica i quins passos son necessaris per a aconseguir-ho.

@@ -3,7 +3,7 @@ Instal·lació de sistemes operatius propietaris
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=InstallacioSistemesPropietaris)
 * Exercicis teòrics: Pendent
-* Exercicis pràctics: Pendent
+* [Exercicis pràctics](ExercicisInstallacioSistemesPropietaris.md)
 
 Requisits tècnics del sistema operatiu que s’ha d’instal·lar
 ------------------------------------------------------------
