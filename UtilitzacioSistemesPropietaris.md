@@ -19,6 +19,8 @@ drets, permisos i atributs en el sistema en què és definit. Només s'ha
 de fer servir per a realitzar tasques administratives; per a l'ús normal
 cal fer servir un usuari convencional.
 
+![Windows Users](https://s3.amazonaws.com/webucator-how-tos/1215.gif)
+
 En els sistemes operatius Windows els comptes d'usuari contenen la
 següent informació:
 
@@ -34,6 +36,8 @@ Arrencada i parada del sistema.
 Iniciar una sessió en un sistema informàtic és el procés mitjançant el
 qual accedim al sistema informàtic per poder-lo utilitzar. Una sessió
 representa l’estat en què s’utilitza el sistema informàtic.
+
+![Windows Sessions](http://guruhelp.net/img/windows/windows-10-task-manager11.jpg)
 
 ### Procés d'arrencada del sistema informàtic
 
@@ -63,7 +67,7 @@ que explicarem tot seguit:
     carregador de sistemes operatius (com NTLDR, GRUB, etc...) es mostra
     un menú per a escollir amb quin es vol arrencar.
 
-1.  es carrega el nucli (kernel) del sistema operatiu que està situat en
+1.  Es carrega el nucli (kernel) del sistema operatiu que està situat en
     el sector d’arrencada de la seva partició.
 2.  A partir d’aquest moment, el procés d’arrencada pot ser diferent per
     a cada sistema operatiu i també depèn del mode d’arrencada que
@@ -75,6 +79,8 @@ que explicarem tot seguit:
     fitxers entre els quals podem destacar els fitxers relacionats amb
     l’entorn de treball de l’usuari que inicia la sessió.
 
+![BIOS POST](https://www.howtogeek.com/wp-content/uploads/2010/05/xsshot117.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.J7Spr9yQi2.png)
+
 El procés que s'acaba d'explicar correspon als antic sistemes **BIOS**, utilitzats també pels alguns sistemes de màquines virtuals. Actualment, però, amb l'adopció d'**UEFI** en tots els sistemes moderns, els passos anteriors a la càrrega del sistema operatiu son molt més ràpids i complexos.
 
 
@@ -85,6 +91,8 @@ pot ser més o menys complicat que dependrà del sistema operatiu
 utilitzat i en el qual no podrem utilitzar el sistema operatiu a partir
 d’aquest moment. Mai no es pot acabar una sessió del sistema apagant
 directament l'ordinador.
+
+![Windows Shut down](https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTIvMDgvcG93ZXItYnV0dG9uLWkuanBn)
 
 Utilització del sistema operatiu
 --------------------------------
@@ -113,5 +121,6 @@ següents:
     segons un llenguatge determinat. En el cas del sistema operatiu
     MS-DOS, podem utilitzar com a intèrpret d’ordres el fitxer
     command.com i, en els sistemes Windows, podem utilitzar com a
-    intèrpret d’ordres el fitxer cmd.exe.
+    intèrpret d’ordres el fitxer cmd.exe o PowerShell.
 
+![PowerShell](https://www.howtogeek.com/wp-content/uploads/2017/03/img_58c1e6c925557.png)
