@@ -13,6 +13,8 @@ allò que volem que tingui el nostre sistema operatiu, és a dir, tots els
 serveis que necessitem en el nostre sistema informàtic per poder-lo
 utilitzar d’una manera còmoda i eficient.
 
+![Computer crash](https://images.techhive.com/images/article/2016/08/omg-laptop-computer-crash-wtf-100678098-primary.idge.jpg)
+
 Selecció del sistema operatiu que s’ha d’instal·lar
 ---------------------------------------------------
 
@@ -21,6 +23,8 @@ mitjançant el qual s’avaluen les característiques dels diferents
 sistemes operatius disponibles en cada moment, i en el qual es
 contrasten les seves característiques amb els requeriments tècnics
 establerts.
+
+![Operating systems](https://cdn-images-1.medium.com/max/800/1*ahUuu9SZXa_vbz7Hvl7A1g.jpeg)
 
 Mètodes d’instal·lació i de planificació dels paràmetres bàsics d’un disc dur
 -----------------------------------------------------------------------------
@@ -35,6 +39,8 @@ unitats d’emmagatzematge independents. Això és útil en els usuaris que
 necessiten o volen tenir diversos sistemes operatius en una mateixa
 màquina o en un mateix disc dur.
 
+![Hard Drive Partitions](https://assets.pcmag.com/media/images/317282-how-to-partition-a-hard-drive.jpg)
+
 Inicialment, els primers PCs estàven limitats a 4 particions. Això es va solucionar amb el particionament MBR, a on hi havien tres tipus de particions:
 
 -   Partició primària. Són les divisions primeres del disc i només n’hi
@@ -47,7 +53,11 @@ Inicialment, els primers PCs estàven limitats a 4 particions. Això es va soluc
     totalitat, la qual s’ha formatat amb un tipus específic de sistema
     de fitxers (FAT32, NTFS, EXT, etc.).
 
+![MBR Partitions](https://2.bp.blogspot.com/-DG6Yu--1O2g/VngL8QBFWII/AAAAAAAAAGw/AqAsecfPza8/s1600/2.png)
+
 Actualment, el particionament GPT no hi han aquestes limitacions.
+
+![GPT Partition](https://1.bp.blogspot.com/-lj3hQNq4mNE/VngMLBhnk-I/AAAAAAAAAG4/9VnkYjmq16E/s1600/3.png)
 
 > La majoria de gestors de màquines virtuals (VMWare, VirtualBox, etc...) utilitzen el particionament MBR per defecte.
 
@@ -72,11 +82,15 @@ Com a sistemes de fitxers, en podem indicar els següents:
     endavant, amb l’objectiu de crear un sistema de fitxers eficient. És
     un sistema adequat per a les particions molt grans.
 
+![NTFS i FAT](https://www.muycomputer.com/wp-content/uploads/2015/12/%C2%BFEn-qu%C3%A9-contextos-hay-que-usar-FAT32-NTFS-y-exFAT.jpg)
+
 ### Formatació d’un disc dur
 
 La formatació és un procés mitjançant el qual es crea el sistema de
 fitxers corresponent mitjançant el qual el sistema operatiu podrà
 gestionar les dades de la partició.
+
+![Formatejar en la instal·lació](https://images.pcworld.com/images/article/2012/01/windows-7-clean-install-a-10829904.jpg)
 
 ### Clonació d’un disc dur
 
@@ -85,6 +99,8 @@ exacta de la informació d’una màquina en una altra màquina. L’objectiu
 d’aquest procés és salvaguardar la informació, o bé utilitzar la
 informació clonada per poder-ne disposar d’una manera ràpida i còmoda en
 altres equipaments informàtics.
+
+![Clonezilla](https://www.tecmint.com/wp-content/uploads/2016/08/Select-Disk-to-Clone.png)
 
 Instal·lació de sistemes operatius i configuració de paràmetres bàsics
 ----------------------------------------------------------------------
@@ -101,8 +117,10 @@ del dispositiu de destinació:
 -   Instal·lació nova en un disc dur buit o en una màquina virtual que
     no conté cap sistema operatiu, o bé en un disc dur o en una màquina
     virtual que ja contenen altres sistemes operatius.
--   Actualització d’un sistema operatiu ja existent.
+-   Actualització _(upgrade)_ d’un sistema operatiu ja existent.
 -   Migració d’un sistema operatiu a un altre sistema operatiu.
+
+![Upgrade](https://www.wikihow.com/images/thumb/f/f9/Upgrade-from-Windows-Vista-to-Windows-7-Step-9.jpg/aid718976-v4-728px-Upgrade-from-Windows-Vista-to-Windows-7-Step-9.jpg)
 
 En funció de l’origen del sistema operatiu que s’ha d’instal·lar:
 
@@ -111,6 +129,8 @@ En funció de l’origen del sistema operatiu que s’ha d’instal·lar:
 -   via xarxa
 -   a partir de dispositius clonats
 -   etc...
+
+![Windows USB](https://www.howtogeek.com/wp-content/uploads/2015/01/sfi_full-650x300.png)
 
 Per instal·lar un sistema operatiu seleccionat en un equipament
 informàtic en general cal seguir les etapes següents:
@@ -141,11 +161,15 @@ informàtic en general cal seguir les etapes següents:
 4.  Comprovar el resultat de la instal·lació.
 5.  Documentar el procés dut a terme.
 
+![Windows Instal·lation](https://www.wikihow.com/images/thumb/f/fc/Install-Windows-7-%28Beginners%29-Step-13.jpg/aid1733421-v4-728px-Install-Windows-7-%28Beginners%29-Step-13.jpg)
+
 ### Comprovació de la instal·lació del sistema operatiu
 
 La comprovació del funcionament del sistema operatiu instal·lat és la
 fase en la qual podem comprovar i avaluar el funcionament del sistema
 operatiu instal·lat i actuar en conseqüència.
+
+![Windows test](http://i.imgur.com/J9FVf.png)
 
 ### Configuració del sistema operatiu instal·lat
 
@@ -153,6 +177,8 @@ La configuració del sistema operatiu és la fase del procés
 d’instal·lació del sistema operatiu mitjançant la qual podem adaptar el
 funcionament del sistema operatiu a les necessitats dels usuaris i també
 a la millora del rendiment del sistema informàtic en general.
+
+![Control Panel](https://upload.wikimedia.org/wikipedia/en/c/c4/Windows_Control_Panel.png)
 
 Creació d’escenaris duals amb els diferents sistemes operatius instal·lats
 --------------------------------------------------------------------------
@@ -189,6 +215,8 @@ operatius duals:
     per al desenvolupament i per a l’execució de les proves de
     funcionament. Això pot ajudar a reduir costos de maquinari.
 
+![Dual Boot](https://www.groovypost.com/wp-content/uploads/2017/10/Step-10-EasyBCD-623x480.png)
+
 Actualment, la utilització de màquines virtuals està reduïnt l'ús de sistemes amb arrencada dual, ja que també permeten executar més d'un sistema operatiu en un equip.
 
 
@@ -201,6 +229,8 @@ dirigides als futurs usuaris del sistema operatiu i que tenen com a
 objectiu principal donar a conèixer la manera d’utilitzar aquest
 programari amb la finalitat que els usuaris en puguin obtenir el màxim
 rendiment d’una manera còmoda i eficient.
+
+![Windows para Dummies](https://images-na.ssl-images-amazon.com/images/I/51HQk0LuDRL._SX358_BO1,204,203,200_.jpg)
 
 Documentació del procés d’instal·lació i incidències
 ----------------------------------------------------
@@ -257,3 +287,5 @@ informacions següents:
     apartat pot ser inclosa en la documentació del cicle de vida d’un
     sistema informàtic (documentació general del sistema informàtic,
     documentació del maquinari i documentació del programari).
+
+![Documentation](https://devops.com/wp-content/uploads/2015/03/continuious_documentation.jpg)

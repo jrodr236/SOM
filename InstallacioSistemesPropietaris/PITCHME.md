@@ -10,6 +10,8 @@ Requisits tècnics del sistema operatiu que s’ha d’instal·lar
 
 Son els serveis ha de tenir el sistema informàtic.
 
+<img src="https://images.techhive.com/images/article/2016/08/omg-laptop-computer-crash-wtf-100678098-primary.idge.jpg" height="200">
+
 ---
 
 Selecció del sistema operatiu que s’ha d’instal·lar
