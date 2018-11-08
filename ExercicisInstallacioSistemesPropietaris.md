@@ -1,7 +1,7 @@
 Instal·lació de sistemes operatius propietaris - Exercicis pràctics
 ======================================================
 
-1. Seguint els següents passos, comprova si el teu ordinador està preparat per a instal·lar el Windows 8:
+1. Seguint els següents passos, comprova si el teu ordinador està preparat per a instal·lar el Windows 10:
 
    a) Cerca a Internet “windows 10 requirements”, i ves a l’enllaç de microsoft.
    
