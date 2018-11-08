@@ -125,6 +125,7 @@ del dispositiu de destinació:
 En funció de l’origen del sistema operatiu que s’ha d’instal·lar:
 
 -   instal·lació a partir de CD/DVD
+-   USB
 -   via disc dur
 -   via xarxa
 -   a partir de dispositius clonats
