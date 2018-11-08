@@ -33,7 +33,7 @@ Mètodes d’instal·lació i de planificació dels paràmetres bàsics d’un d
 * Divisió d'un disc dur.
 * Cada partició és una unitat d'emmagatzematge independent.
 
-<img src="https://assets.pcmag.com/media/images/317282-how-to-partition-a-hard-drive.jpg" height="200">
+<img src="https://assets.pcmag.com/media/images/317282-how-to-partition-a-hard-drive.jpg" height="300">
 
 +++
 
@@ -41,13 +41,17 @@ Mètodes d’instal·lació i de planificació dels paràmetres bàsics d’un d
   * 4 particions primàries màxim
   * Les primàries poden ser esteses, que tenen lògiques a dins (tantes com necessitis)
 
-<img src="https://2.bp.blogspot.com/-DG6Yu--1O2g/VngL8QBFWII/AAAAAAAAAGw/AqAsecfPza8/s1600/2.png" height="200">
++++
+
+<img src="https://2.bp.blogspot.com/-DG6Yu--1O2g/VngL8QBFWII/AAAAAAAAAGw/AqAsecfPza8/s1600/2.png">
 
 +++
 
 * GPT (Actual): sense aquestes limitacions
 
-<img src="https://1.bp.blogspot.com/-lj3hQNq4mNE/VngMLBhnk-I/AAAAAAAAAG4/9VnkYjmq16E/s1600/3.png" height="200">
++++
+
+<img src="https://1.bp.blogspot.com/-lj3hQNq4mNE/VngMLBhnk-I/AAAAAAAAAG4/9VnkYjmq16E/s1600/3.png">
 
 +++
 
@@ -57,7 +61,9 @@ Mètodes d’instal·lació i de planificació dels paràmetres bàsics d’un d
 
 NTFS: sistema per defecte a Windows.
 
-<img src="https://www.muycomputer.com/wp-content/uploads/2015/12/%C2%BFEn-qu%C3%A9-contextos-hay-que-usar-FAT32-NTFS-y-exFAT.jpg" height="200">
++++
+
+<img src="https://www.muycomputer.com/wp-content/uploads/2015/12/%C2%BFEn-qu%C3%A9-contextos-hay-que-usar-FAT32-NTFS-y-exFAT.jpg">
 
 +++
 
@@ -65,7 +71,7 @@ NTFS: sistema per defecte a Windows.
 
 Creació del sistema de fitxers.
 
-<img src="https://images.pcworld.com/images/article/2012/01/windows-7-clean-install-a-10829904.jpg" height="200">
+<img src="https://images.pcworld.com/images/article/2012/01/windows-7-clean-install-a-10829904.jpg" height="350">
 
 +++
 
@@ -75,7 +81,7 @@ Creació del sistema de fitxers.
   * Salvaguardar informació
   * Replicar sistema ràpidament
 
-<img src="https://www.tecmint.com/wp-content/uploads/2016/08/Select-Disk-to-Clone.png" height="200">
+<img src="https://www.tecmint.com/wp-content/uploads/2016/08/Select-Disk-to-Clone.png" height="250">
 
 ---
 
@@ -92,7 +98,9 @@ Mètodes:
 * Actualització _(upgrade)_
 * Migració
 
-<img src="https://www.wikihow.com/images/thumb/f/f9/Upgrade-from-Windows-Vista-to-Windows-7-Step-9.jpg/aid718976-v4-728px-Upgrade-from-Windows-Vista-to-Windows-7-Step-9.jpg" height="200">
++++
+
+<img src="https://www.wikihow.com/images/thumb/f/f9/Upgrade-from-Windows-Vista-to-Windows-7-Step-9.jpg/aid718976-v4-728px-Upgrade-from-Windows-Vista-to-Windows-7-Step-9.jpg">
 
 +++
 
@@ -104,7 +112,9 @@ Orígen
 -   clonació
 -   etc...
 
-<img src="https://www.howtogeek.com/wp-content/uploads/2015/01/sfi_full-650x300.png" height="200">
++++
+
+<img src="https://www.howtogeek.com/wp-content/uploads/2015/01/sfi_full-650x300.png">
 
 +++
 
@@ -116,7 +126,9 @@ Etapes:
 4. Comprovar resultats
 5. Documentar
 
-<img src="https://www.wikihow.com/images/thumb/f/fc/Install-Windows-7-%28Beginners%29-Step-13.jpg/aid1733421-v4-728px-Install-Windows-7-%28Beginners%29-Step-13.jpg" height="200">
++++
+
+<img src="https://www.wikihow.com/images/thumb/f/fc/Install-Windows-7-%28Beginners%29-Step-13.jpg/aid1733421-v4-728px-Install-Windows-7-%28Beginners%29-Step-13.jpg">
 
 +++
 
@@ -124,7 +136,7 @@ Etapes:
 
 Funciona ok?
 
-<img src="http://i.imgur.com/J9FVf.png" height="200">
+<img src="http://i.imgur.com/J9FVf.png" height="350">
 
 +++
 
@@ -133,7 +145,9 @@ Funciona ok?
 * Adaptar funcionament a necessitats dels usuaris
 * Millorar rendiment
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Windows_Control_Panel.png" height="200">
++++
+
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Windows_Control_Panel.png"">
 
 ---
 
@@ -148,7 +162,7 @@ Cada sistema operatiu necessita una partició.
 
 ***Bootloader***: és un programa que ens deixa escollir entre els diferents sistemes i s'encarrega de carregar-lo.
 
-<img src="https://www.groovypost.com/wp-content/uploads/2017/10/Step-10-EasyBCD-623x480.png" height="200">
+<img src="https://www.groovypost.com/wp-content/uploads/2017/10/Step-10-EasyBCD-623x480.png" height="350">
 
 +++
 
@@ -161,7 +175,7 @@ Normes d’utilització del programari
 
 Manual d'usuari: com utilitzar el programari.
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/51HQk0LuDRL._SX358_BO1,204,203,200_.jpg" height="200">
+<img src="https://images-na.ssl-images-amazon.com/images/I/51HQk0LuDRL._SX358_BO1,204,203,200_.jpg" height="300">
 
 ---
 
@@ -169,7 +183,7 @@ Documentació del procés d’instal·lació i incidències
 ----------------------------------------------------
 
 
-<img src="https://devops.com/wp-content/uploads/2015/03/continuious_documentation.jpg" height="200">
+<img src="https://devops.com/wp-content/uploads/2015/03/continuious_documentation.jpg" height="300">
 
 +++
 
