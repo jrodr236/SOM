@@ -147,7 +147,7 @@ Funciona ok?
 
 +++
 
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Windows_Control_Panel.png"">
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Windows_Control_Panel.png">
 
 ---
 
