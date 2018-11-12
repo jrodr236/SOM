@@ -59,6 +59,16 @@ Procés arrencada:
     * Buscar 1r sector (**MBR**) del disc arrencable o 1r sector de CD/DVD.
 * Sistemes **UEFI**: procés molt més ràpid i complex.
 
+
+
++++
+
+<img src="https://www.howtogeek.com/wp-content/uploads/2010/05/xsshot117.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.J7Spr9yQi2.png" height="500">
+
++++
+
+<img src="https://configurationmanagerblog.files.wordpress.com/2017/03/uefi-vs-bios.png" height="500">
+
 +++
 
 * Després (**BIOS & UEFI**)
@@ -66,11 +76,6 @@ Procés arrencada:
     - Arrencada mode text / entorn gràfic
     - Inici de sessió
     - Execució de diferents fitxers
-
-+++
-
-<img src="https://www.howtogeek.com/wp-content/uploads/2010/05/xsshot117.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.J7Spr9yQi2.png" height="500">
-
 +++
 
 ### Tancar el sistema

@@ -83,6 +83,7 @@ que explicarem tot seguit:
 
 El procés que s'acaba d'explicar correspon als antic sistemes **BIOS**, utilitzats també pels alguns sistemes de màquines virtuals. Actualment, però, amb l'adopció d'**UEFI** en tots els sistemes moderns, els passos anteriors a la càrrega del sistema operatiu son molt més ràpids i complexos.
 
+![UEFI vs. BIOS](https://configurationmanagerblog.files.wordpress.com/2017/03/uefi-vs-bios.png)
 
 ### Tancar el sistema
 
@@ -91,6 +92,8 @@ pot ser més o menys complicat que dependrà del sistema operatiu
 utilitzat i en el qual no podrem utilitzar el sistema operatiu a partir
 d’aquest moment. Mai no es pot acabar una sessió del sistema apagant
 directament l'ordinador.
+
+)
 
 ![Windows Shut down](https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTIvMDgvcG93ZXItYnV0dG9uLWkuanBn)
 
