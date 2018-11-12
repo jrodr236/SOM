@@ -69,7 +69,7 @@ Procés arrencada:
 
 +++
 
-<img src="https://www.howtogeek.com/wp-content/uploads/2010/05/xsshot117.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.J7Spr9yQi2.png" height="200">
+<img src="https://www.howtogeek.com/wp-content/uploads/2010/05/xsshot117.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.J7Spr9yQi2.png" height="500">
 
 +++
 
