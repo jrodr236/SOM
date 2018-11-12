@@ -123,4 +123,6 @@ següents:
     command.com i, en els sistemes Windows, podem utilitzar com a
     intèrpret d’ordres el fitxer cmd.exe o PowerShell.
 
+![edit.com](https://i.stack.imgur.com/dJQOG.png)
+
 ![PowerShell](https://www.howtogeek.com/wp-content/uploads/2017/03/img_58c1e6c925557.png)

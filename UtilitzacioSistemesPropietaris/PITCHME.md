@@ -93,4 +93,8 @@ Modes bàsics:
 
 +++
 
+<img src="https://i.stack.imgur.com/dJQOG.png" height="500">
+
++++
+
 <img src="https://www.howtogeek.com/wp-content/uploads/2017/03/img_58c1e6c925557.png" height="500">
