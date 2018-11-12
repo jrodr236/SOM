@@ -14,7 +14,9 @@ Els gestiona l'administrador.
 
 L'administrador té tots els drets, permisos i atributs del sistema. No fer-lo servir per tasques convencionals.
 
-<img src="https://s3.amazonaws.com/webucator-how-tos/1215.gif" height="200">
++++
+
+<img src="https://s3.amazonaws.com/webucator-how-tos/1215.gif" height="500">
 
 
 +++
@@ -38,7 +40,7 @@ Iniciar sessio = accedir al sistema per utilitzar-lo.
 
 Sessió = estat en què s'utilitza el sistema.
 
-<img src="http://guruhelp.net/img/windows/windows-10-task-manager11.jpg" height="200">
+<img src="http://guruhelp.net/img/windows/windows-10-task-manager11.jpg" height="300">
 
 +++
 
@@ -56,11 +58,16 @@ Procés arrencada:
     * Buscar unitat arrencable
     * Buscar 1r sector (**MBR**) del disc arrencable o 1r sector de CD/DVD.
 * Sistemes **UEFI**: procés molt més ràpid i complex.
+
++++
+
 * Després (**BIOS & UEFI**)
     - Càrrega nucli (***kernel***) del sistema operatiu
     - Arrencada mode text / entorn gràfic
     - Inici de sessió
     - Execució de diferents fitxers
+
++++
 
 <img src="https://www.howtogeek.com/wp-content/uploads/2010/05/xsshot117.png.pagespeed.gp+jp+jw+pj+ws+js+rj+rp+rw+ri+cp+md.ic.J7Spr9yQi2.png" height="200">
 
@@ -70,7 +77,7 @@ Procés arrencada:
 
 No acabar sessió apagant directament l'ordinador, ni la màquina virtual.
 
-<img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTIvMDgvcG93ZXItYnV0dG9uLWkuanBn" height="200">
+<img src="https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTIvMDgvcG93ZXItYnV0dG9uLWkuanBn" height="300">
 
 ---
 
@@ -84,4 +91,6 @@ Modes bàsics:
 * Gràfics (*GUI*)
 * Text
 
-<img src="https://www.howtogeek.com/wp-content/uploads/2017/03/img_58c1e6c925557.png" height="200">
++++
+
+<img src="https://www.howtogeek.com/wp-content/uploads/2017/03/img_58c1e6c925557.png" height="500">
