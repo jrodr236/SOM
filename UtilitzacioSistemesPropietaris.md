@@ -4,7 +4,7 @@ Utilització del sistema operatiu
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=UtilitzacioSistemesPropietaris)
 * Exercicis teòrics: Pendent
-* Exercicis pràctics: Pendent
+* [Exercicis pràctics](ExercicisUtilitzacioSistemesPropietaris.md)
 
 Comptes d'usuari
 ----------------
@@ -93,7 +93,7 @@ utilitzat i en el qual no podrem utilitzar el sistema operatiu a partir
 d’aquest moment. Mai no es pot acabar una sessió del sistema apagant
 directament l'ordinador.
 
-)
+
 
 ![Windows Shut down](https://img.purch.com/o/aHR0cDovL3d3dy5sYXB0b3BtYWcuY29tL2ltYWdlcy93cC9wdXJjaC1hcGkvaW5jb250ZW50LzIwMTIvMDgvcG93ZXItYnV0dG9uLWkuanBn)
 
@@ -106,9 +106,7 @@ operatius, és a dir, per poder-nos comunicar i donar ordres als sistemes
 operatius.
 
 Actualment, els sistemes operatius tenen els modes bàsics de
-funcionament
-
-següents:
+funcionament següents:
 
 1.  Menús. La comunicació entre usuari i sistema es fa mitjançant la
     utilització de diferents menús d’opcions disponibles en el mateix
