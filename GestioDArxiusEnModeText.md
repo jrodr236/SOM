@@ -223,6 +223,8 @@ Hi ha dues maneres d’indicar el camí en una estructura d’arbre:
 -   Mitjançant el **camí relatiu**. És el camí en què sempre es comença
     a partir del lloc on som situats en l’estructura en arbre.
 
+![Relative & Absolute Paths](https://automatetheboringstuff.com/images/000032.jpg)
+
 Manipulació de directoris
 -------------------------
 
