@@ -1,6 +1,12 @@
 Gestió d'arxius en mode text
 ====================================
 
+
+* [Resum](https://gitpitch.com/jrodr236/som/master?p=GestioDArxiusEnModeText)
+* Exercicis teòrics: _moodle_
+* [Exercicis pràctics](ExercicisGestioDArxiusEnModeText.md)
+
+
 Tipus d'entorn en mode text del Windows
 ---------------------------------------
 
@@ -20,11 +26,15 @@ d'usuari en mode text:
         Microsoft. Altres sistemes són el PC-DOS, el DR-DOS i més
         recentment el FreeDOS.
 
+        ![cmd](http://fossbytes.com/wp-content/uploads/2016/04/speed-up-internet-connection-using-cmd.jpg)
+
 -   Windows **PowerShell**: s'ha creat per substituïr el símbol del sistema; és molt més potent i modern.
-    -   Està dissenyad per al seu us per part dels administradors de
+    -   Està dissenyat per al seu us per part dels administradors de
         sistemes, amb el propòsit d'automatitzar tasques o realitzar-les
         de forma més controlada.
     - Per facilitar el seu ús, permet utilitzar-hi algunes comandes bàsiques de cmd i de Unix (Linux, Mac OS X...)
+
+      ![PowerShell](https://stackify.com/wp-content/uploads/2017/04/Powershell-commands-1.png)
 
 Unitats
 -------
@@ -43,6 +53,8 @@ Les unitats es representen de la manera següent:
 A les altres particions, unitats magnètiques, òptiques, flash... se’ls
 assignen les lletres següents per ordre alfabètic.
 
+![lletres d'unitat](http://www.partitionwizard.com/images/tu3001/drive-letter-is-missing-in-windows.jpg)
+
 Fitxers
 -------
 
@@ -52,6 +64,8 @@ referència.
 
 A Windows el distintiu consta de nom i extensió. L'extensió indica el
 tipus de fitxer (exe, docx, pdf...).
+
+![extensions](https://i1.wp.com/www.tapscape.com/wp-content/uploads/2017/12/Extensions.jpg?fit=768%2C428&ssl=1)
 
 Directoris
 ----------
@@ -64,6 +78,8 @@ Una unitat d’emmagatzematge comença per un directori arrel, que contindrà fi
 Igual que en els fitxers, els directoris han de tenir un nom, i les
 regles d’assignació són les mateixes que les indicades en el cas dels fitxers, però no és normal assignar
 extensions als directoris.
+
+![directori](http://computertutorflorida.com/wp-content/uploads/2014/11/folder1.jpg)
 
 Format de les ordres
 --------------------
@@ -160,7 +176,7 @@ lletra Z. Per exemple, primera partició del disc dur (C:), segona partició del
 La **unitat activa** és aquella unitat en la que estem situats en el
 moment d’executar una ordre. Una manera de saber-ho cal només observar
 l’indicador del sistema. La primera lletra que s’indica en ell es
-correspon amb la unitat activa (C:\\&gt; aquest indicador del sistema
+correspon amb la unitat activa (`C:\\&gt;` aquest indicador del sistema
 operatiu ens informa que tenim com a unitat activa la C).
 
 Directoris i subdirectoris
