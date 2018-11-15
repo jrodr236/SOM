@@ -123,6 +123,8 @@ Sistema d’ajuda
 
 L'ordre `Get-Help` mostra ajuda de les comandes de PowerShell. En el cas de necessitar ajuda sobre una ordre completa, es pot utilitzar el paràmetre `-?`.
 
+Executar `Update-Help` per actualitzar el sistema d'ajuda de PowerShell.
+
 
 ### cmd
 
@@ -176,7 +178,7 @@ lletra Z. Per exemple, primera partició del disc dur (C:), segona partició del
 La **unitat activa** és aquella unitat en la que estem situats en el
 moment d’executar una ordre. Una manera de saber-ho cal només observar
 l’indicador del sistema. La primera lletra que s’indica en ell es
-correspon amb la unitat activa (`C:\\&gt;` aquest indicador del sistema
+correspon amb la unitat activa (`C:\>` aquest indicador del sistema
 operatiu ens informa que tenim com a unitat activa la C).
 
 Directoris i subdirectoris

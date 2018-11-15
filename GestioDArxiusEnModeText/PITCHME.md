@@ -101,6 +101,9 @@ Sistema d’ajuda
 - Ordre `Get-Help`
 - Paràmetre `-?`
 
+
+Executar `Update-Help` per actualitzar el sistema d'ajuda de PowerShell.
+
 +++
 
 ### cmd
@@ -139,12 +142,14 @@ existència física real.
 
 +++
 
-Una **unitat lògica** son particions de la unitat física (potser una unitat física només té una partició). S'identifiquen per lletres. Per exemple, primera partició del disc dur (C:), segona partició del disc dur (D:), primera partició del segon disc dur (E:), etc...
+Una **unitat lògica** son particions de la unitat física (potser una unitat física només té una partició). S'identifiquen per lletres.
+
+Per exemple, primera partició del disc dur (C:), segona partició del disc dur (D:), primera partició del segon disc dur (E:), etc...
 
 +++
 
 La **unitat activa** és aquella unitat en la que estem situats en el
-moment d’executar una ordre. Ho indica l'indicador del sistema (`C:\\&gt;`).
+moment d’executar una ordre. Ho indica l'indicador del sistema (`C:\>`).
 
 ---
 
@@ -197,6 +202,11 @@ Algunes de les ordres que permeten manipular directoris son:
 |New-Item -ItemType Directory|ni ItemType Directory|md|mkdir|
 |Set-Location|sl|cd|cd|
 |Remove-Item|ri|rd|rmdir|
+
++++
+
+|PowerShell|abreviació|cmd|Unix|
+|---|---|---|---|
 |Get-ChildItem|gci|dir|ls|
 |Move-Item|mi|move|mv|
 | | |xcopy| |
@@ -220,10 +230,16 @@ Algunes de les ordres que permeten gestionar fitxers son:
 |Copy-Item|cp|copy|cp|
 | | |xcopy| |
 |Remove-Item|ri|del|del|
-|Rename-Item|rni|ren|mv|
- Move-Item|mi|move|mv|
- Get-Content|gc|type|cat|
 
 > Fixa't en que, a cmd i unix, rd/rmdir != del
->
+
++++
+
+|PowerShell|abreviació|cmd|Unix|
+|---|---|---|---|
+|Rename-Item|rni|ren|mv|
+| Move-Item|mi|move|mv|
+| Get-Content|gc|type|cat|
+
+
 > Fixa't que, a Unix, mv serveix per moure i per reanomenar
