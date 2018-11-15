@@ -70,7 +70,7 @@ Hi ha un directori arrel a la unitat.
 
 +++
 
-![directori](http://computertutorflorida.com/wp-content/uploads/2014/11/folder1.jpg)
+![directori](https://uis.georgetown.edu/sites/uis/files/files/upload/win10-fileexplorer-display9.jpg)
 
 ---
 
