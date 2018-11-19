@@ -20,6 +20,7 @@ Instal·lació de sistemes operatius propietaris - Exercicis pràctics
    `en_windows_10_education_version_1703_updated_march_2017_x64_dvd_10189297.iso`
 
 3. Utilitzant màquines virtuals, realitza totes les etapes d’instal·lació d’un sistema operatiu (objectius, anàl·lisi, etc...) amb el Windows descarregat.
+   * Heu de fer la instal·lació tradicional. Per tant, **NO podeu fer servir l'_Easy Install_ de VMWare.**
 
 6. Hi ha hagut alguna incidència durant les instal·lacions? Les has pogut solucionar? Com?
 
