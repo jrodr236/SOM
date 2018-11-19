@@ -3,7 +3,7 @@ Utilització del sistema operatiu
 
 
 * [Resum](https://gitpitch.com/jrodr236/som/master?p=UtilitzacioSistemesPropietaris)
-* Exercicis teòrics: Pendent
+* Exercicis teòrics: *moodle*
 * [Exercicis pràctics](ExercicisUtilitzacioSistemesPropietaris.md)
 
 Comptes d'usuari
