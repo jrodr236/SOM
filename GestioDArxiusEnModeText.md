@@ -96,6 +96,8 @@ Tota ordre és formada per:
       * comencen pel
     caràcter `/` **(cmd)**
       * comencen pel caràcter `-` **(PowerShell)**
+
+      
 <!--
 
 Tipus d'ordres

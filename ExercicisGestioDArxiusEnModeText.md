@@ -49,3 +49,13 @@ Gestió d'arxius en mode text -  - Exercicis pràctics
 13. Aconsegueix que el fitxer `PROVA2.TXT` tingui l'atribut de només lectura. Després, intenta modificar-lo.
 
 14. Aconsegueix que el fitxer `PROVA2.TXT` tingui l'atribut d'ocult. Es mostra amb la resta dels fitxers?
+
+
+Grimpades
+---------
+
+1. Utilitzant la comanda ATTRIB, feu que un fitxer anomenat NOPUCBORRAR.TXT no pugui eliminar-se.
+
+2. Utilitzant la comanda ATTRIB, feu que un fitxer anomenat NOPUCVEURE.TXT sigui ocult.
+
+3. Aconsegueix un mitjà per instal·lar el sistema FreeDOS o l'antic MS-DOS. Instal·la-ho en una màquina virtual, i fes algunes proves de les comandes que hem vist a classe.

@@ -33,3 +33,10 @@ Instal·lació de sistemes operatius propietaris - Exercicis pràctics
 10. Realitza un manual de 2 pàgines com a màxim indicant la forma de realitzar les tasques més habituals en el _mode tauleta_ del Windows 10.
 
 11. Llegeix en anglès la pàgina a la que apunta el següent enllaç: https://www.groovypost.com/howto/dual-boot-windows-10-other-versions-windows/; explica breument quin procediment s’explica i quins passos son necessaris per a aconseguir-ho.
+
+
+Grimpades
+---------
+
+1. Instal·lar el sistema operatiu Mac OS X en una màquina virtual.
+

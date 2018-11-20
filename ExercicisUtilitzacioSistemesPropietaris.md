@@ -38,3 +38,9 @@ Utilització del sistema operatiu - Exercicis pràctics
 4. Busca i explica la diferència entre apagar, suspendre i hivernar un equip.
 
 5. Busca informació sobre l'aplicació clàssica `edit.com`. Per la forma d'interaccionar-hi, digues quin és el seu tipus d'interfície.
+
+
+Grimpades
+---------
+
+1. En grup, busqueu informació sobre el procés d'arrencada en els sistemes UEFI. Prepareu-vos per explicar-ho a la resta de la classe, vigilant que s'entengui molt bé.

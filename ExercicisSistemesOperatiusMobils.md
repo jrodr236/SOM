@@ -31,6 +31,6 @@ Sistemes operatius mòbils - Exercicis pràctics
     * Cóm descarregar i instal·lar un Android d'una versió superior a la que tenim (10 punts).
 
 Grimpades
-=========
+---------
 
 1. Instal·la un emulador d'iOS. Fes algunes proves bàsiques i mostra el seu funcionament. Pots instal·lar alguna APP?
