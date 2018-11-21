@@ -11,7 +11,7 @@ Instal·lació de sistemes operatius propietaris - Exercicis pràctics
 
 2. Compara les versions de Windows 7 i 10:
 
-   a) Quines característiques suporta Windows 10 sobre Windows 7?
+   a) Quines millores aporta Windows 10 sobre Windows 7?
 
    b) Quins diferents requeriments tenen aquests dos sistemes operatius?
 
