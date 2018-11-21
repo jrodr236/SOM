@@ -28,7 +28,7 @@ Instal·lació de sistemes operatius propietaris - Exercicis pràctics
 
 8. Executa el programa msconfig. Per a què serveix la pestanya `boot`?
 
-9. Dissenya un pòster per a penjar a una sala d’informàtica intentant persuadir als usuaris d’intentar utilitzar els comptes i contrasenyes d’altres persones.
+9. Dissenya un pòster per a penjar a una sala d’informàtica intentant persuadir als usuaris per que no utilitzin els comptes i contrasenyes d’altres persones.
 
 10. Realitza un manual de 2 pàgines com a màxim indicant la forma de realitzar les tasques més habituals en el _mode tauleta_ del Windows 10.
 
