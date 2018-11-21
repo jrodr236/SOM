@@ -45,8 +45,8 @@ externes, com els pendrives, DVDs o cintes magnètiques.
 
 Les unitats es representen de la manera següent:
 
--   Antiga unitat de disquets: A: (unitat principal de disquets).
--   Antiga unitat de disquets: B: (unitat secundària de disquets).
+-   Unitat de disquets: A: (unitat principal de disquets).
+-   Unitat de disquets: B: (unitat secundària de disquets).
 -   Unitat de discos durs: C: (primera partició de la unitat de disc
     dur).
 
