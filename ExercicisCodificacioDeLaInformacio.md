@@ -103,7 +103,7 @@ Exercicis de base
    1 0 0 0 1 0 1 | 0
    ```
 
-10. Intenta escriure un caràcter UNICODE a l'editor de textos *notepad* de Windows. Per exemple, aquest: https://emojipedia.org/penguin/
+10. **[REFER]** Intenta escriure un caràcter UNICODE a l'editor de textos *notepad* de Windows. Per exemple, aquest: https://emojipedia.org/penguin/
    Es pot escriure? Creus que té suport de UNICODE? Creus que té suport per ASCII?
 
 11. A l'editor de textos *gedit*, intenta escriure un caràcter UNICODE. Funciona? Perquè?
