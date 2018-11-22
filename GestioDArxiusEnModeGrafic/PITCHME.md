@@ -21,9 +21,9 @@ Gestió dels permisos d’accés a fitxers i directoris
 
 Element bàsic per la seguretat d'arxius i directoris: permisos d'accés.
 
-El propietari és l'encarregat de condecir els permisos.
+El propietari és l'encarregat de concedir els permisos.
 
-On? Menú Propietats del menú contextuals dels arxius i carpetes, pestanya Seguretat.
+On? Arxius i carpetes > menú contextual > Propietats > Seguretat.
 
 ---
 
@@ -70,7 +70,7 @@ Aspectes a tenir en compte
 * Els permisos de directoris i fitxers poden ser contradictoris, en cas que prevalgui el permís sobre el fitxer.
     - De totes maneres, si un usuari pot eliminar arxius d’una carpeta, els permisos sobre el fitxer no ho podran impedir.
 
-    +++
++++
 
 * Per defecte, els permisos s’hereten des del directori pare.
     - Això provoca que s’alterin en copiar un arxiu o directori, encara que es conserven si es tracta de canviar-los d’ubicació dins de la unitat lògica.
@@ -79,6 +79,9 @@ Aspectes a tenir en compte
 
 Permisos avançats
 ------------------
+
+Normalment amb els permisos estàndard en tenim prou. Si no, cal utilitzar els avançats.
+
 +++
 
 ![Permisos NTFS avançats](http://www.petenetlive.com/wp-content/uploads/2015/11/005-Add-NTFS-Permission-Everyone.png)
