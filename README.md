@@ -19,7 +19,7 @@ UF2. Sistemes operatius propietaris
 * [Instal·lació de sistemes operatius propietaris](InstallacioSistemesPropietaris.md)
 * [Utilització del sistema operatiu](UtilitzacioSistemesPropietaris.md)
 * [Gestió d'arxius en mode text](GestioDArxiusEnModeText.md)
-* Gestió d'arxius en mode gràfic
+* [Gestió d'arxius en mode gràfic](GestioDArxiusEnModeGrafic.md)
 * Gestió d'actualitzacions
 * Gestió d'usuaris
 * Gestió d'emmagatzematge
