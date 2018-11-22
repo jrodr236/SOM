@@ -30,12 +30,12 @@ En Windows, aquest tipus de permisos es concedeixen a dos nivells:
 
 Permisos estàndards NTFS per a fitxers:
 * **Lectura**: Veure el contingut del fitxer, les seves dades, els seus atributs i permisos, i tenir-hi accés.
-* Escriptura: Afegir dades al fitxer, escriure’n els atributs i visualitzar-ne els permisos.
+* **Escriptura**: Afegir dades al fitxer, escriure’n els atributs i visualitzar-ne els permisos.
 * **Lectura i execució**: Veure el contingut del fitxer, els seus atributs i permisos, executar-lo i tenir-hi accés.
 * **Modificació**: Llegir, escriure i/o eliminar el fitxer.
 * **Control total**: Llegir, escriure, modificar i/o eliminar el fitxer, a més de canviar permisos i prendre la possessió del fitxer.
 
-![Permisos NTFS de fitxers estàndards](https://www.sqa.org.uk/e-learning/ClientOS02CD/images/pic002.jpg)
+
 
 Permisos estàndards NTFS per a directoris:
 * **Lectura**: Veure els fitxers i subdirectoris del directori corresponent i fer-ne una llista.
@@ -45,7 +45,7 @@ Permisos estàndards NTFS per a directoris:
 * **Llistar el contingut**: Veure fitxers i directoris i fer-ne una llista.
 * **Control total**: Totes les acciones permeses per a la resta de permisos; a més, pot canviar els permisos del directori, prendre possessió de qualsevol subdirectori o fitxer i eliminar-los.
 
-![Permisos NTFS de directoris estàndars](https://tr1.cbsistatic.com/hub/i/2015/05/07/c36496db-f4aa-11e4-940f-14feb5cc3d2a/a-2012-10-30_17-28-08.png)
+![Permisos NTFS de directori estàndards](https://www.sqa.org.uk/e-learning/ClientOS02CD/images/pic002.jpg)
 
 Alguns aspectes a tenir en compte respecte als permisos:
 * Els permisos es poden concedir, denegar o simplement no preveure’ls i sempre preval la denegació.
