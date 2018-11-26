@@ -83,7 +83,8 @@ Prefixos d’ús convencional en informàtica
 
 
 ![Prefixos](img/prefixos.png)
-*https://ca.wikipedia.org/wiki/Byte*
+
+[*Font de la imatge: wikipedia*](https://ca.wikipedia.org/wiki/Byte)
 
 En general s'acostumen a utilitzar els prefixos amb múltiples binaris, però a vegades hi han confusions:
 
