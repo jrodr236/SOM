@@ -34,6 +34,7 @@ Instal·lació de sistemes operatius propietaris - Exercicis pràctics
 
 11. Llegeix en anglès la pàgina a la que apunta el següent enllaç: https://www.groovypost.com/howto/dual-boot-windows-10-other-versions-windows/; explica breument quin procediment s’explica i quins passos son necessaris per a aconseguir-ho.
 
+_[TODO]: Instal·lar VMWare Tools_
 
 Grimpades
 ---------
