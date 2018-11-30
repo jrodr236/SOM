@@ -31,9 +31,9 @@ Utilització del sistema operatiu - Exercicis pràctics
     
     c) Aconsegueix que la propera arrencada sigui per fer un diagnostic del sistema. Prova-ho.
 
-    c) Aconsegueix que la propera arrencada sigui amb una càrrega del sistema mínima. Per a què ens pot servir?
+    d) Aconsegueix que la propera arrencada sigui amb una càrrega del sistema mínima. Per a què ens pot servir?
 
-    d) Fes que es mostri la informació del sistema operatiu mentre arrenca.
+    e) Fes que es mostri la informació del sistema operatiu mentre arrenca.
 
     f) Quins serveis creus que son innecessaris per a l'arrencada del sistema? Deshabilita'ls.
 
