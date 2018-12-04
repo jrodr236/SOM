@@ -13,13 +13,13 @@ Utilització del sistema operatiu - Exercicis pràctics
 
     e) Quines son les tres últimes versions del sistema operatiu Windows orientat a servidors?
 
-2. Busca a Internet la forma d'accedir a la configuració de la BIOS del VMWare Workstation. Amb una màquina virtual de prova, busca el lloc a on s'indica  l'ordre dels dispositius d'arrencada. Fes que la unitat òptica sigui la última.
+2. Busca a Internet la forma d'accedir a la configuració de la `BIOS` del VMWare Workstation. Amb una màquina virtual de prova, busca el lloc a on s'indica  l'ordre dels dispositius d'arrencada. Fes que la unitat òptica sigui la última.
 
-3. A les propietats de la màquina virtual Windows, revisa el sistema que utilitza. És BIOS o UEFI?
+3. A les propietats de la màquina virtual Windows, revisa el sistema que utilitza. És `BIOS` o `UEFI`?
 
-    Canvia el sistema, és a dir: posa-hi BIOS si és UEFI, o posa UEFI si era BIOS.
+    Canvia el sistema, és a dir: posa-hi `BIOS` si és `UEFI`, o posa `UEFI` si era `BIOS`.
     
-    Indica els canvis que provoca aquest canvi (per exemple, les opcions de configuració de la BIOS/UEFI, l'arrencada del sistema, etc...).
+    Indica els canvis que provoca aquest canvi (per exemple, les opcions de configuració de la `BIOS`/`UEFI`, l'arrencada del sistema, etc...).
 
     Torna a deixar el sistema com estava originalment.
 
@@ -49,4 +49,4 @@ Utilització del sistema operatiu - Exercicis pràctics
 Grimpades
 ---------
 
-1. En grup, busqueu informació sobre el procés d'arrencada en els sistemes UEFI. Prepareu-vos per explicar-ho a la resta de la classe, vigilant que s'entengui molt bé.
+1. En grup, busqueu informació sobre el procés d'arrencada en els sistemes `UEFI`. Prepareu-vos per explicar-ho a la resta de la classe, vigilant que s'entengui molt bé.
