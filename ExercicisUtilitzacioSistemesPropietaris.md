@@ -17,9 +17,9 @@ Utilització del sistema operatiu - Exercicis pràctics
 
 3. A les propietats de la màquina virtual Windows, revisa el sistema que utilitza. És BOOT o UEFI?
 
-    Canvia el sistema, és a dir: posa-hi BOOT si és UEFI, o posa UEFI si era BOOT.
+    Canvia el sistema, és a dir: posa-hi BIOS si és UEFI, o posa UEFI si era BIOS.
     
-    Indica els canvis que provoca aquest canvi (per exemple, les opcions de configuració de la BIOS, l'arrencada del sistema, etc...).
+    Indica els canvis que provoca aquest canvi (per exemple, les opcions de configuració del firmware del processador, l'arrencada del sistema, etc...).
 
     Torna a deixar el sistema com estava originalment.
 
