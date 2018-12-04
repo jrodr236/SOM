@@ -15,7 +15,7 @@ Utilització del sistema operatiu - Exercicis pràctics
 
 2. Busca a Internet la forma d'accedir a la configuració de la BIOS del VMWare Workstation. Amb una màquina virtual de prova, busca el lloc a on s'indica  l'ordre dels dispositius d'arrencada. Fes que la unitat òptica sigui la última.
 
-3. A les propietats de la màquina virtual Windows, revisa el sistema que utilitza. És BOOT o UEFI?
+3. A les propietats de la màquina virtual Windows, revisa el sistema que utilitza. És BIOS o UEFI?
 
     Canvia el sistema, és a dir: posa-hi BIOS si és UEFI, o posa UEFI si era BIOS.
     
