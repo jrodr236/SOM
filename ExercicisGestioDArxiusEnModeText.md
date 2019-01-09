@@ -30,19 +30,19 @@ Gestió d'arxius en mode text -  - Exercicis pràctics
 
 4. Mou el directori `CSS` a dins de `M08-AW`
 
-5. Crea el següent directori: `M01-MME-COPIA` i, amb una sola comanda, copia tot el contingut que hi ha dins `M01-MME`.
+5. Crea el següent directori: `M02-SOM-COPIA` i, amb una sola comanda, copia tot el contingut que hi ha dins `M02-SOM`.
 
 6. Amb una sola comanda, mostra tota l'estructura de directoris que has creat.
 
 7. Amb un editor de textos sense format (per exemple, el _notepad_), crea un fitxer de text anomenat `PROVA.TXT` i escriu algun text a dins.
 
-8. Copia aquest fitxer a dins `M01-MME\APUNTS` i a `M01-MME\PRACTIQUES`.
+8. Copia aquest fitxer a dins `M02-SOM\APUNTS` i a `M02-SOM\PRACTIQUES`.
 
-9. Esborra el fitxer  `M01-MME\APUNTS\PROVA.TXT`.
+9. Esborra el fitxer  `M02-SOM\APUNTS\PROVA.TXT`.
 
 10. Reanomena `PROVA.TXT` a `PROVA2.TXT`.
 
-11. Mou el fitxer `PROVA2.TXT` a `M02-SOM`.
+11. Mou el fitxer `PROVA2.TXT` a `M05-XL`.
 
 12. Amb una comanda, mostra el contingut de `PROVA2.TXT`.
 
