@@ -5,26 +5,26 @@ Gestió d'arxius en mode text -  - Exercicis pràctics
 
 2. Amb comandes crea la següent estructura de directoris:
 
-```
-1SMX
-├───CSS
-├───M01-MME
-│   ├───APUNTS
-│   │   ├───UF1
-│   │   ├───UF2
-│   │   └───UF3
-│   └───PRACTIQUES
-├───M02-SOM
-│   ├───APUNTS
-│   └───PRACTIQUES
-├───M03-AO
-├───M05-XL
-├───M08-AW
-│   ├───HTML
-│   └───READY_PLAYER_ONE
-├───M09-ANG
-└───M10-FOL
-```
+    ```
+    1SMX
+    ├───CSS
+    ├───M01-MME
+    │   ├───APUNTS
+    │   │   ├───UF1
+    │   │   ├───UF2
+    │   │   └───UF3
+    │   └───PRACTIQUES
+    ├───M02-SOM
+    │   ├───APUNTS
+    │   └───PRACTIQUES
+    ├───M03-AO
+    ├───M05-XL
+    ├───M08-AW
+    │   ├───HTML
+    │   └───READY_PLAYER_ONE
+    ├───M09-ANG
+    └───M10-FOL
+    ```
 
 3. Esborra tots els subdirectoris de `M01-MME`
 
