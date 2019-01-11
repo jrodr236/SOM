@@ -239,7 +239,7 @@ Algunes de les ordres que permeten manipular directoris son:
 
 |PowerShell|abreviació|cmd|Unix|
 |---|---|---|---|
-|New-Item -ItemType Directory|ni ItemType Directory|md|mkdir|
+|New-Item -ItemType Directory|ni -ItemType Directory|md|mkdir|
 |Set-Location|sl|cd|cd|
 |Remove-Item|ri|rd|rmdir|
 |Get-ChildItem|gci|dir|ls|
