@@ -29,9 +29,7 @@ UF2. Sistemes operatius propietaris
 
 UF3. Sistemes operatius lliures
 ------------------------------
-* Instal·lació de sistemes operatius lliures
-* Utilització del sistema operatiu
-* ...
+* Projecte
 
 ---
 
