@@ -83,7 +83,7 @@ Product Backlog (requeriments)
    - Muntar-ho a /home
 
 9. Fer còpia de seguretat dels arxius dels usuaris.
-   - Simular que peta el hardware i recuperar el sistema
+   - Simular que peta el hardware (no fer-ho, realment) i recuperar el sistema (en una raspberry)
 
 10. Gestionar processos i serveis
 
