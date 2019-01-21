@@ -15,8 +15,12 @@ com a característica principal que la informació no es perd quan no hi arriba 
 diferència de la memòria principal. En podem indicar com a exemples, els discos durs, les unitats de
 CD/DVD, pendrives, SSD, etc.
 
+![Memòria secundària](https://www.eposts.co/wp-content/uploads/2018/04/slider2.png)
+
 Recorda que alguns d'aquests dispositius, com els discos durs, suporten la creació de particions per
 a obtenir unitats amb sistemes d'arxius diferents.
+
+![Particions](https://cdn1.techadvisor.co.uk/cmsdata/features/3679598/how-to-partition-windows-10_thumb800.jpg)
 
 Al sistemes Windows podem gestionar els dispositius d'emmagatzematge amb la eina administrador
 de discos, al qual podem accedir pel camí Inici/Configuració/Eines administratives/Administració
@@ -28,11 +32,16 @@ Gestió del sistema d'arxius
 Un sistema de fitxers és un component dels sistemes operatius que ens ajuda a organitzar la
 informació en un suport.
 
+![Sistemes de fitxers](https://www.minitool.com/images-mt/lib/hard-disk-partition.jpg)
+
+
 Els sistemes operatius actuals de Windows fan servir una estructura jeràrquica de fitxers en forma
 d’arbre. El sistema permet crear directoris i inserir dins de cada directori fitxers i directoris nous.
 
 Tota l’estructura comença des de l’arrel que constitueix el directori principal o directori arrel.
 Aquest directori es representa mitjançant el símbol \ i conté els altres directoris i fitxers.
+
+![Arbre de fitxers](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/windows-file-structure_orig.jpg)
 
 En els sistemes Windows podem veure unitats individuals, és a dir, cada unitat té la seva estructura
 en arbre corresponent. Cada partició dels discos durs es correspon a una unitat.
@@ -49,3 +58,5 @@ d’executar el processador.
 
 Per efectuar aquesta gestió en els sistemes Windows el camí pot ser: MiPC/Botó
 dret/Propietats/Opcions avançades/Rendiment/Configuració/Opcions avançades.
+
+![Memòria virtual](https://images.techhive.com/images/article/2014/10/1124-primary-100528062-large.jpg)
