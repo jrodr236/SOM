@@ -20,11 +20,11 @@ UF2. Sistemes operatius propietaris
 * [Utilització del sistema operatiu](UtilitzacioSistemesPropietaris.md)
 * [Gestió d'arxius en mode text](GestioDArxiusEnModeText.md)
 * [Gestió d'arxius en mode gràfic](GestioDArxiusEnModeGrafic.md)
-* Gestió d'actualitzacions
-* Gestió d'usuaris
-* Gestió d'emmagatzematge
-* Gestió de processos i serveis
-* Mètodes de recuperació del sistema operatiu
+<!-- * Gestió d'actualitzacions
+* Gestió d'usuaris -->
+* [Gestió d'emmagatzematge](GestioDEmmagatzematge.md)
+<!-- * Gestió de processos i serveis
+* Mètodes de recuperació del sistema operatiu -->
 
 
 UF3. Sistemes operatius lliures
