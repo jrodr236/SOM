@@ -32,8 +32,6 @@ Gestió del sistema d'arxius
 
 Sistema de fitxers organitza la informació en un suport
 
-+++
-
 Estructures de fitxers: jeràrquiques (arbre).
 
 +++
@@ -45,8 +43,6 @@ Inici estructura: arrel, directori principal (\\).
 A Windows, cada unitat té la seva estructura (arbre) corresponent.
 
 Cada partició té una unitat.
-
-+++
 
 A Windows: gestió del sistema de fitxers a _MyPC_.
 
@@ -60,7 +56,7 @@ Permet executar programes més grans que la memòria principal disponible
 
 +++
 
-Quan el programa no hi quep a la memòria principal, es passa de forma temporal al disc dur, a l'espai anomenat _memòria virtual_.
+Quan el programa necessita més espai a la memòria principal de la que hi ha disponible, es passa de forma temporal al disc dur, a l'espai anomenat _memòria virtual_.
 
 +++
 
