@@ -47,7 +47,7 @@ Product Backlog (requeriments)
 1. Instal·lar el sistema operatiu
    - Competició internacional: idioma anglès, teclat català.
    - Usuaris i tècnics cecs: sense entorn gràfic
-   - Sistema operatiu: Ubuntu Server
+   - Sistema operatiu: Ubuntu Server / Debian?
    - Particions: sistema i dades d'usuaris en particions separades.
 
 2. Crear usuaris de forma massiva
@@ -58,6 +58,7 @@ Product Backlog (requeriments)
 
 4. Crear manual d'ús de comandes de gestió d'arxius.
    - Només text
+   - ls, cd, mkdir, rmdir, cp, mv...
 
 5. Afegir informació de benvinguda
    - A tots els usuaris
@@ -85,7 +86,9 @@ Product Backlog (requeriments)
 9. Fer còpia de seguretat dels arxius dels usuaris.
    - Simular que peta el hardware (no fer-ho, realment) i recuperar el sistema (en una raspberry)
 
-10. Gestionar processos i serveis
+10. Permisos
+
+11. Gestionar processos i serveis
 
 
 
