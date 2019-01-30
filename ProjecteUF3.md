@@ -102,7 +102,8 @@ Reunions
     - Quins problemes t'impedeixen arribar als teus objectius del Sprint?
 
 
-- Scrum Planning Meeting -> cada dos setmanes
+- Sprint review + Scrum Planning Meeting -> cada dos setmanes
+   - Quins ítems del backlog han finalitzat + demo + canvis backlog
    - Tasques a fer, hores per cada tasca (3*8=24h)
 
 
@@ -116,3 +117,9 @@ Sprints de 1 setmana: 4h (cada alumne)
 Exàmen
 ------
 Es demanaràn coses relacionades amb el projecte. Mínim 4 per aprovar UF.
+
+
+Pendrives
+---------
+
+INF USB2: grup Tatiana
