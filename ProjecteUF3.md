@@ -1,14 +1,14 @@
 Projecte UF3: campionats mundials d'esports per a cecs
 ==================================================
 
-**AMB ELS SERVIDORS DELL**
-
 Descripció
 ----------
 
 Farem el sistema informàtic per al campionat d'un esport per a cecs.
 
-Ho farem en grups de 3 persones.
+Utilitzarem els servidors Dell.
+
+Ho farem en grups. Han de sortir 5 grups per classe (~3 persones per grup)
 
 [NO EXPLICAR-HO] Utilitzarem la metodologia [Scrum](https://ca.wikipedia.org/wiki/Scrum).
 
@@ -20,12 +20,80 @@ Grups
 Feu-vos un selfie amb els integrants del grup, i envieu-lo per correu al professor, incloent l'esport escollit i els vostres noms.
 
 ### 1 SMX A
-* Esport
-  * Membres
+* Atletisme
+
+  ![](grups/dani-dennis-urkai.jpg)
+  * Dani Aguilar
+  * Dennis Corrales
+  - Urkai Alkonso
+
+* Judo
+
+  ![](grups/roger-oriol-sergi.jpg)
+  - Roger Coromina
+  - Oriol Basols
+  - Sergi Pujol
+
+* Goalball
+
+  ![](grups/david-pau-jaume.jpg)
+  - David Garcia
+  - Pau López
+  - Jaume Casamitjana
+
+* Escacs
+  
+  ![](grups/xavier-iu-faisal.jpg)
+  - Xavier Canal
+  - Iu Bartrina
+  - Faisal Aaychi
+
+* Esquí
+
+  ![](grups/juan-alex-dani.jpeg)
+  - Juan José Correa
+  - Alex Franco
+  - Dani Benítez
 
 ### 1 SMX B
-* Esport
-  * Membres
+* Atletisme
+
+  ![](grups/aleix-oscar-sergi.jpg)
+  * Aleix Mesa
+  * Óscar Serrano
+  * Sergi Prat
+
+* Showdown
+
+  ![](grups/marco-nic-tatiana.jpg)
+  * Marco Rosado
+  * Nic Paulus
+  * Tatiana Urbina
+
+* Esqui
+
+  ![](grups/jordi-liu-pablo-eric.jpg)
+  * Jordi Padrosa
+  * Liu Santana
+  * Pablo Robles
+  * Eric Sala
+
+* Escacs
+
+  ![](grups/juan-nil-axel.jpg)
+  - Juan Vallespin
+  - Nil Pujol
+  - Axel Zenia
+
+* Natació
+  
+  Falta foto
+  - Aurora Silvestre
+  - Jordi Camps
+  - Gerard Ruiz
+
+
+
 
 Post-Its
 --------
@@ -47,7 +115,7 @@ Product Backlog (requeriments)
 1. Instal·lar el sistema operatiu
    - Competició internacional: idioma anglès, teclat català.
    - Usuaris i tècnics cecs: sense entorn gràfic
-   - Sistema operatiu: Ubuntu Server / Debian?
+   - Sistema operatiu: Ubuntu Server
    - Particions: sistema i dades d'usuaris en particions separades.
 
 2. Crear usuaris de forma massiva
@@ -74,6 +142,8 @@ Product Backlog (requeriments)
 
 
 ---
+
++++ Instal·lar lector de pantalla
 
 7. Eliminar Resum.txt per tots els usuaris.
 
@@ -122,4 +192,14 @@ Es demanaràn coses relacionades amb el projecte. Mínim 4 per aprovar UF.
 Pendrives
 ---------
 
+###1SMXB
 INF USB2: grup Tatiana
+INFO USB3: grup Oscar
+INFO USB14: grup Nil
+INFO USB5: grup Aurora
+INFO USB6: grup Eric
+
+### 1SMXA
+UBF USB15: grup Iu
+INF USB4: grup Dennis, server 9
+
