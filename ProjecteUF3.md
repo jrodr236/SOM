@@ -201,5 +201,26 @@ INFO USB6: grup Eric
 
 ### 1SMXA
 UBF USB15: grup Iu
-INF USB4: grup Dennis, server 9
+INF USB4: grup Dennis
+INF USB9: grup Sergi, server 9
+INF USB13: grup Juan + Franco + Dani
+INF USB12: grup Pau
 
+
+Hores
+-----
+
+### Grup A
+- divendres 1/2 -> Explicat el projecte
+- dimarts 5/2 -> EXAMEN
+- divendres 8/2 -> 2h (6h)
+
+### Grup B
+- dimecres 30/1 -> Explicat el projecte
+- dilluns 4/2 -> EXAMEN
+- dimecres 6/2 -> 2h (6h)
+- dilluns 11/2 -> 2h (6+6=12h)
+- dimecres 13/2 -> 2h (12+6=18h)
+
+- dilluns 18/2 -> 2h (18+6=24h)
+- dimecres 20/2 -> DEMO!
