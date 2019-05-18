@@ -168,14 +168,17 @@ Reunions
 
 Planificació
 ------------
-33h total
-Sprints de 1 setmana: 4h (cada alumne)
-33 / 4 = 8,25h
+33h total UF
 
+Sprints de 1 setmana: 4h (cada alumne)
+
+33h / {4h/sprint} = 8,25 sprints (seràn menys per vagues, sortides, imprevistos, etc...)
+
+Un grup de 3 alumnes, cada sprint tenen 3*4h de hores de _treballador_.
 
 Exàmen
 ------
-Es demanaràn coses relacionades amb el projecte. Mínim 4 per aprovar UF.
+Individuals. Es demanaràn coses relacionades amb el projecte. Mínim nota mitjana de 4 per aprovar UF. Això garantirà que tots els alumnes aprovats han assolit els coneixements mínims.
 
 * 1a prova
   * Instal·lar ubuntu server a una màquina virtual, amb
