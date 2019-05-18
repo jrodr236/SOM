@@ -29,7 +29,7 @@ UF2. Sistemes operatius propietaris
 
 UF3. Sistemes operatius lliures
 ------------------------------
-* Projecte
+* [Projecte](ProjecteUF3Public.md)
 
 ---
 
