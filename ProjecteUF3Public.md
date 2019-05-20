@@ -8,7 +8,7 @@ Descripció
 
 Farem el sistema informàtic per al campionat d'un esport per a cecs.
 
-Utilitzarem els servidors enrackables Dell, un rack i dos switchos. Com a recurs secundari, s'utilitzaràn màquines virtuals, Raspberry Pi. També tindrem a l'abast els PCs assignats a cada alumne, cablejat elèctric, de xarxa i de vídeo, monitors extra, CD/DVDs i pendrives.
+Utilitzarem els servidors enrackables Dell, un rack i dos switchos. Com a recurs secundari, s'utilitzaràn màquines virtuals, Raspberry Pi. També tindrem a l'abast els PCs assignats a cada alumne, cablejat elèctric, de xarxa i de vídeo, monitors extra, CD/DVDs, pendrives, lectors de microSD.
 
 Ho farem en grups. Han de sortir 5 grups per cada classe (~3 persones per grup)
 
@@ -251,6 +251,11 @@ Hores
 - divendres 23/4 -> 1h (hem anat a veure teatre St. Jordi)
 - divendres 26/4 -> DEMO3 (revisar kanban, penjar foto a classroom)
 - dimarts 30/4 -> EXAMEN3
+- dimarts 7/5 -> 4h
+- divendres 10/5 -> 6h
+- dimarts 14/5 -> 8h
+- divendres 17/5 -> DEMO4 +2h
+- dimarts 21/5 -> EXAMEN4
 - ...
 
 ### Grup B
@@ -278,6 +283,11 @@ Hores
 - dimecres 24/4 -> 8h
 - dilluns 29/4 -> DEMO4 (revisar kanban, penjar foto a classroom)
 - dilluns 6/5 -> EXAMEN3
+- dimecres 8/5 > 4h
+- dilluns 13/5 -> 6h
+- dimecres 15/5 -> 8h
+- dilluns 20/5 -> DEMO5 +2h
+- dimecres 22/5 -> EXAMEN4
 - ...
 
 
