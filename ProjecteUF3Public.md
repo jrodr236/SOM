@@ -150,7 +150,9 @@ Es corresponen, més o menys, amb els continguts i resultats d'aprenentatge d'aq
       ls -l ~ | grep '^.....w'
       ```
     - Un cop feta la presentació, un esportista et pregunta com funciona aquesta comanda. Prepara't per respondre.
-
+24. Directori de suggeriments
+    - Amb 1 arxiu, els participants es trolegen els suggeriments entre si
+    - Utilitzar Sticky Bit a un directori perquè cada participant pugui posar o treure només els seus propis suggeriments.
 
 
 Reunions
