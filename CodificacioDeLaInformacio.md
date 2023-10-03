@@ -3,16 +3,6 @@ Com funciona un ordinador
 
 [How Computers Work: Binary & Data](https://www.youtube.com/watch?v=USCBCmwMCDA)
 
-Definició de la informació
---------------------------
-
-La **informació** és el resultat de la manipulació de les *dades*.
-
-![Data vs. Informació](https://www.difference.wiki/wp-content/uploads/2017/08/data-vs-information.jpg)
-
-La **informació** és tota forma de representació de fets, objectes,
-valors, idees, etc., que permet la comunicació entre persones i
-l’adquisició del coneixement de les coses.
 
 Elements de la informació
 -------------------------
