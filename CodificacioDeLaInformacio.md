@@ -1,8 +1,7 @@
 Com funciona un ordinador
 ============================
 
-* Exercicis teòrics: *moodle*
-
+[How Computers Work: Binary & Data](https://www.youtube.com/watch?v=USCBCmwMCDA)
 
 Definició de la informació
 --------------------------
