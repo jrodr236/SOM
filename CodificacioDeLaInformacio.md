@@ -60,7 +60,7 @@ símbols, 0 i 1, anomenats bits.
 Un grup de vuit bits s’anomena **byte**. Aquest grup també es coneix amb
 el nom d’octet.
 
-![bit vs. byte](http://www.circuitgrove.com/sites/default/files/tutorial_photos/bitbyte.svg)
+![bit vs. byte](https://4.bp.blogspot.com/-17MDkedGL_8/WfwkTk_-4LI/AAAAAAAABL0/RGhGT5X5SaMSezBJkFETdHt1BkT0YTv3ACLcBGAs/s1600/bytes-wide-768x238.png))
 
 Prefixos d’ús convencional en informàtica
 -----------------------------------------
