@@ -118,29 +118,6 @@ Sistemes de numeració amb base:
 Sistemes de numeració sense base:
 * romà (utilització més complicada).
 
-Una **magnitud analògica** -com una tensió elèctrica o la velocitat-
-pot tenir qualsevol valor dins d’un interval continu.
-
-> Per exemple, la tensió a la sortida d’un micròfon podria ser dins de
-    qualsevol valor entre 0 mV i 10 mV.
-
-En la **representació digital**, les quantitats –representades per
-dígits– no poden tenir qualsevol valor, sinó sols valors discrets.
-
-> Per exemple, un rellotge digital marca el temps del dia en forma de
-dígits decimals (hores, minuts i segons). Ara bé, el temps varia d’una manera contínua, però la posició de les busques del rellotge
-no varia d’una manera contínua, sinó a passos (segons). És a dir, el
-rellotge només pot donar valors discrets.
-
-![analog vs. digital](http://i2.wp.com/www.droneuplift.com/wp-content/uploads/2016/03/Analog-digi.png)
-
-Un **sistema digital** és una combinació de dispositius (generalment
-electrònics) dissenyada per a manipular quantitats físiques o informació
-que estigui representada de manera digital
-
-> Per exemple, els ordinadors, les calculadores digitals, els equips
-d’àudio i vídeo digital, els telèfons intel·ligents *(smartphones)*, etc.
-
 La tecnologia digital utilitza molts sistemes de nombres. Els més comuns
 són:
 
