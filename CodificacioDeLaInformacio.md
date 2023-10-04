@@ -1,22 +1,13 @@
-Codificació de la informació
+![Binari](https://scontent-bcn1-1.xx.fbcdn.net/v/t1.6435-9/102279740_617364262319790_7271647854577573795_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=o8RoKus9jP8AX84KQ3c&_nc_ht=scontent-bcn1-1.xx&oh=00_AfCn6V6GOOPwKUNL0rJL6xEqgZ5IG0K4bOdkXMN1mbA03g&oe=65446C17)
+
+
+Com funciona un ordinador
 ============================
 
+[How Computers Work: Binary & Data](https://www.youtube.com/watch?v=USCBCmwMCDA)
 
-* [Resum](https://gitpitch.com/jrodr236/som/master?p=CodificacioDeLaInformacio)
-* Exercicis teòrics: *moodle*
-* [Exercicis pràctics](ExercicisCodificacioDeLaInformacio.md)
+[Circuits and logic](https://www.youtube.com/watch?v=ZoqMiFKspAA)
 
-
-Definició de la informació
---------------------------
-
-La **informació** és el resultat de la manipulació de les *dades*.
-
-![Data vs. Informació](https://www.difference.wiki/wp-content/uploads/2017/08/data-vs-information.jpg)
-
-La **informació** és tota forma de representació de fets, objectes,
-valors, idees, etc., que permet la comunicació entre persones i
-l’adquisició del coneixement de les coses.
 
 Elements de la informació
 -------------------------
@@ -74,17 +65,13 @@ símbols, 0 i 1, anomenats bits.
 Un grup de vuit bits s’anomena **byte**. Aquest grup també es coneix amb
 el nom d’octet.
 
-![bit vs. byte](http://www.circuitgrove.com/sites/default/files/tutorial_photos/bitbyte.svg)
+![bit vs. byte](https://4.bp.blogspot.com/-17MDkedGL_8/WfwkTk_-4LI/AAAAAAAABL0/RGhGT5X5SaMSezBJkFETdHt1BkT0YTv3ACLcBGAs/s1600/bytes-wide-768x238.png))
 
 Prefixos d’ús convencional en informàtica
 -----------------------------------------
 
 ![Piràmide múltiples byte](http://fossbytes.com/wp-content/uploads/2016/08/bytes-kilobyte-megabyte-representation.jpg)
 
-
-![Prefixos](img/prefixos.png)
-
-[*Font de la imatge: wikipedia*](https://ca.wikipedia.org/wiki/Byte)
 
 En general s'acostumen a utilitzar els prefixos amb múltiples binaris, però a vegades hi han confusions:
 
@@ -93,8 +80,11 @@ En general s'acostumen a utilitzar els prefixos amb múltiples binaris, però a 
 
 ![1024 vs. 1000](https://qph.fs.quoracdn.net/main-qimg-1535fd9d2793c45bc8b4a73782e8b489-c)
 
-Es recomana que el bit es representi amb el símbol b i el byte amb el
-símbol B.
+**Es recomana que el bit es representi amb el símbol b i el byte amb el
+símbol B.**
+
+**STOP**
+[Revisió de bits i bytes](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-un-bit/)
 
 > Exemple de conversió d'unitats de mesura:
 tenim un fitxer al disc dur d'exactament 250 GB. A quants bytes i
@@ -181,29 +171,11 @@ Com que és molt fàcil la conversió amb el sistema binari, l'hexadecimal s'uti
 
 
 
-
-
 Conversió entre sistemes de numeració
 ----------------------------------
 
-El **teorema fonamental de la numeració** (TFN) permet fer conversions entre diferents sistemes de nomeració. Aquest teorema diu que el valor decimal
-d’una quantitat expressada en altres sistemes de numeració s’expressa
-segons el polinomi següent:
-
-... + x<sub>4</sub>b⁴ + x<sub>3</sub>b³ + x<sub>2</sub>b² + x<sub>1</sub>b¹ + x<sub>0</sub>b⁰ + ...
-
-en què el símbol b representa la base i x són els dígits del nombre.
-
-> Exemple d’aplicació del teorema fonamental de la numeració:
->
-> Representeu el 4123(5 en base 10 segons el teorema fonamental de la numeració.
->
-> Solució: 4123(5 = 4 x 5³ + 1 x 5² + 2 x 5¹ + 3 x 5⁰ = 500 + 25 + 10 + 3 = 538(10
-
-
-Hi han altres mètodes per fer conversions entre sistemes de numeració:
-* Regla de Ruffini
-* Divisions successives per la base.
+Mètodes per fer conversions entre sistemes de numeració:
+* [Divisions successives per la base.](https://depolitica20yotrosdemonios.wordpress.com/2014/03/04/hay-10-tipos-de-personas-las-que-conocen-el-codigo-binario-y-las-que-no/)
 * Conversió directa utilitzant taula (binari-hexadecimal).
 
 ```
@@ -227,6 +199,8 @@ F 1111
 
 Exemple: `A4(16 =  1010 0100(2`
 
+[Convertir hex a dec](https://cual-es-mi-ip.online/herramientas/conversores-numericos/conversor-hexadecimal-a-decimal/)
+
 Operacions bàsiques amb sistemes de numeració
 ---------------------------------------------
 
@@ -237,16 +211,6 @@ divisió), en el sistema binari octal i hexadecimal també les podem fer.
 
 Representació dels nombres enters
 ---------------------------------
-
-Els ordinadors poden fer servir diferents mètodes per a representar
-internament els nombres enters, positius i negatius. Entre altres
-mètodes destaquen:
-
--   Decimal empaquetat (més senzills per a les persones)
--   Mòdul i signe.
--   Complement a 1.
--   Complement a 2.
--   Excés a 2<sup>n</sup>–1. (simplifiquen operacions aritmètiques a l'ordinador)
 
 La **paraula** és el nombre de bytes que pot gestionar l’ordinador, és a
 dir, el nombre de bits que l’ordinador és capaç de manipular per a fer
@@ -259,14 +223,7 @@ diferents.
     = 256 combinacions diferents, i un de 32 bits amb 2³² =
     4.294.967.200.
 
-
-Representació dels nombres amb xifres decimals
------------------------------------
-
-Els mètodes principals per a representar nombres amb xifres decimals son:
-
--   En coma fixa.
--   En coma flotant.
+[CPU DE 32 VS CPU DE 64 BITS](https://www.xataka.com/basics/que-significa-que-mi-cpu-sea-de-32-o-64-bits-y-cual-es-la-diferencia)
 
 
 Sistemes de representació de la informació alfanumèrica
@@ -291,20 +248,6 @@ Hi ha d’haver una conversió de codis entre formes externes i internes.   Aque
     dispositiu anomenat interfície o connexió.
 
 
-En tot aquest procés de transmissió de la informació, hi ha un sistema
-de control d’errors per a assegurar que les dades arribin correctament a
-la destinació.
-
->   Exemple: control de paritat.
->    -   Paritat parella. El nombre total de bits 1 en cada byte ha de
-        ser parell; si no, en el bit de paritat es posa un 1 i, en cas
-        contrari, es posa un 0.
->    -   Paritat senar. El nombre total de bits 1 en cada byte ha de ser
-        senar; si no, en el bit de paritat es posa un 1 i, en cas
-        contrari, es posa un 0.
-
-![control de paritat](https://image.slidesharecdn.com/dcchapter-10-140704010417-phpapp02/95/error-detection-and-correction-21-638.jpg?cb=1404436011)
-
 Codificació interna de les dades
 ------------------------------
 
@@ -319,6 +262,7 @@ Tenim diferents sistemes de codificació interna de les dades:
 -   Codi **ASCII**. És el codi classic que s'ha fet servir per a
     representar cada caràcter en forma d’un byte i que s’aplica
     principalment en els microordinadors.
+    Més sobre el codi [ASCII](https://ca.wikipedia.org/wiki/ASCII)
 -   Codi **EBCDIC**. També és un codi de 8 bits i s’aplica principalment
     en grans ordinadors.
 -   Codi **Unicode**. És el més modern i cada cop s'utilitza més. És un codi de 32 bits; per tant, el nombre de
