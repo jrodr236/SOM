@@ -1,7 +1,11 @@
+![Binari](https://scontent-bcn1-1.xx.fbcdn.net/v/t1.6435-9/102279740_617364262319790_7271647854577573795_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=o8RoKus9jP8AX84KQ3c&_nc_ht=scontent-bcn1-1.xx&oh=00_AfCn6V6GOOPwKUNL0rJL6xEqgZ5IG0K4bOdkXMN1mbA03g&oe=65446C17)
+
+
 Com funciona un ordinador
 ============================
 
 [How Computers Work: Binary & Data](https://www.youtube.com/watch?v=USCBCmwMCDA)
+[Circuits and logic](https://www.youtube.com/watch?v=ZoqMiFKspAA)
 
 
 Elements de la informació
@@ -167,29 +171,11 @@ Com que és molt fàcil la conversió amb el sistema binari, l'hexadecimal s'uti
 
 
 
-
-
 Conversió entre sistemes de numeració
 ----------------------------------
 
-El **teorema fonamental de la numeració** (TFN) permet fer conversions entre diferents sistemes de nomeració. Aquest teorema diu que el valor decimal
-d’una quantitat expressada en altres sistemes de numeració s’expressa
-segons el polinomi següent:
-
-... + x<sub>4</sub>b⁴ + x<sub>3</sub>b³ + x<sub>2</sub>b² + x<sub>1</sub>b¹ + x<sub>0</sub>b⁰ + ...
-
-en què el símbol b representa la base i x són els dígits del nombre.
-
-> Exemple d’aplicació del teorema fonamental de la numeració:
->
-> Representeu el 4123(5 en base 10 segons el teorema fonamental de la numeració.
->
-> Solució: 4123(5 = 4 x 5³ + 1 x 5² + 2 x 5¹ + 3 x 5⁰ = 500 + 25 + 10 + 3 = 538(10
-
-
-Hi han altres mètodes per fer conversions entre sistemes de numeració:
-* Regla de Ruffini
-* Divisions successives per la base.
+Mètodes per fer conversions entre sistemes de numeració:
+* [Divisions successives per la base.](https://depolitica20yotrosdemonios.wordpress.com/2014/03/04/hay-10-tipos-de-personas-las-que-conocen-el-codigo-binario-y-las-que-no/)
 * Conversió directa utilitzant taula (binari-hexadecimal).
 
 ```
