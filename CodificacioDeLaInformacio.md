@@ -82,6 +82,8 @@ En general s'acostumen a utilitzar els prefixos amb múltiples binaris, però a 
 
 **Es recomana que el bit es representi amb el símbol b i el byte amb el
 símbol B.**
+
+**STOP**
 [Revisió de bits i bytes](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-un-bit/)
 
 > Exemple de conversió d'unitats de mesura:
