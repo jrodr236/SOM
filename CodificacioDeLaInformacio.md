@@ -199,6 +199,8 @@ F 1111
 
 Exemple: `A4(16 =  1010 0100(2`
 
+[Convertir hex a dec](https://cual-es-mi-ip.online/herramientas/conversores-numericos/conversor-hexadecimal-a-decimal/)
+
 Operacions bàsiques amb sistemes de numeració
 ---------------------------------------------
 
@@ -209,16 +211,6 @@ divisió), en el sistema binari octal i hexadecimal també les podem fer.
 
 Representació dels nombres enters
 ---------------------------------
-
-Els ordinadors poden fer servir diferents mètodes per a representar
-internament els nombres enters, positius i negatius. Entre altres
-mètodes destaquen:
-
--   Decimal empaquetat (més senzills per a les persones)
--   Mòdul i signe.
--   Complement a 1.
--   Complement a 2.
--   Excés a 2<sup>n</sup>–1. (simplifiquen operacions aritmètiques a l'ordinador)
 
 La **paraula** és el nombre de bytes que pot gestionar l’ordinador, és a
 dir, el nombre de bits que l’ordinador és capaç de manipular per a fer
@@ -231,14 +223,7 @@ diferents.
     = 256 combinacions diferents, i un de 32 bits amb 2³² =
     4.294.967.200.
 
-
-Representació dels nombres amb xifres decimals
------------------------------------
-
-Els mètodes principals per a representar nombres amb xifres decimals son:
-
--   En coma fixa.
--   En coma flotant.
+[CPU DE 32 VS CPU DE 64 BITS](https://www.xataka.com/basics/que-significa-que-mi-cpu-sea-de-32-o-64-bits-y-cual-es-la-diferencia)
 
 
 Sistemes de representació de la informació alfanumèrica
@@ -277,6 +262,7 @@ Tenim diferents sistemes de codificació interna de les dades:
 -   Codi **ASCII**. És el codi classic que s'ha fet servir per a
     representar cada caràcter en forma d’un byte i que s’aplica
     principalment en els microordinadors.
+    Més sobre el codi [ASCII](https://ca.wikipedia.org/wiki/ASCII)
 -   Codi **EBCDIC**. També és un codi de 8 bits i s’aplica principalment
     en grans ordinadors.
 -   Codi **Unicode**. És el més modern i cada cop s'utilitza més. És un codi de 32 bits; per tant, el nombre de
