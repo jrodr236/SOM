@@ -5,6 +5,7 @@ Com funciona un ordinador
 ============================
 
 [How Computers Work: Binary & Data](https://www.youtube.com/watch?v=USCBCmwMCDA)
+
 [Circuits and logic](https://www.youtube.com/watch?v=ZoqMiFKspAA)
 
 
