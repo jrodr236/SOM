@@ -79,8 +79,9 @@ En general s'acostumen a utilitzar els prefixos amb múltiples binaris, però a 
 
 ![1024 vs. 1000](https://qph.fs.quoracdn.net/main-qimg-1535fd9d2793c45bc8b4a73782e8b489-c)
 
-Es recomana que el bit es representi amb el símbol b i el byte amb el
-símbol B.
+**Es recomana que el bit es representi amb el símbol b i el byte amb el
+símbol B.**
+[Revisió de bits i bytes](https://www.ionos.es/digitalguide/paginas-web/desarrollo-web/que-es-un-bit/)
 
 > Exemple de conversió d'unitats de mesura:
 tenim un fitxer al disc dur d'exactament 250 GB. A quants bytes i
