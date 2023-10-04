@@ -72,10 +72,6 @@ Prefixos d’ús convencional en informàtica
 ![Piràmide múltiples byte](http://fossbytes.com/wp-content/uploads/2016/08/bytes-kilobyte-megabyte-representation.jpg)
 
 
-![Prefixos](img/prefixos.png)
-
-[*Font de la imatge: wikipedia*](https://ca.wikipedia.org/wiki/Byte)
-
 En general s'acostumen a utilitzar els prefixos amb múltiples binaris, però a vegades hi han confusions:
 
 * 1.024 (2¹⁰) no és 1.000 (10³).
@@ -262,20 +258,6 @@ Hi ha d’haver una conversió de codis entre formes externes i internes.   Aque
     dins del processador, abans d’arribar al processador, en un
     dispositiu anomenat interfície o connexió.
 
-
-En tot aquest procés de transmissió de la informació, hi ha un sistema
-de control d’errors per a assegurar que les dades arribin correctament a
-la destinació.
-
->   Exemple: control de paritat.
->    -   Paritat parella. El nombre total de bits 1 en cada byte ha de
-        ser parell; si no, en el bit de paritat es posa un 1 i, en cas
-        contrari, es posa un 0.
->    -   Paritat senar. El nombre total de bits 1 en cada byte ha de ser
-        senar; si no, en el bit de paritat es posa un 1 i, en cas
-        contrari, es posa un 0.
-
-![control de paritat](https://image.slidesharecdn.com/dcchapter-10-140704010417-phpapp02/95/error-detection-and-correction-21-638.jpg?cb=1404436011)
 
 Codificació interna de les dades
 ------------------------------
