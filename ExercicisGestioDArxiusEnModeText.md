@@ -3,27 +3,27 @@ Gestió d'arxius en mode text -  - Exercicis pràctics
 
 1. Esmenta 5 tipus d'extensions de fitxer i explica quin tipus d'arxiu representen.
 
-2. Amb comandes crea la següent estructura de directoris:
+2. Amb comandes crea la següent estructura de directoris (fes una captura i pujala)
 
     ```
-    1SMX
-    ├───CSS
-    ├───M01-MME
+    1TIC
+    ├───MAT
+    ├───FYQ
     │   ├───APUNTS
-    │   │   ├───UF1
-    │   │   ├───UF2
-    │   │   └───UF3
+    │   │   ├───U1
+    │   │   ├───U2
+    │   │   └───U3
     │   └───PRACTIQUES
-    ├───M02-SOM
+    ├───INF
     │   ├───APUNTS
     │   └───PRACTIQUES
-    ├───M03-AO
-    ├───M05-XL
-    ├───M08-AW
-    │   ├───HTML
-    │   └───READY_PLAYER_ONE
-    ├───M09-ANG
-    └───M10-FOL
+    ├───VAL
+    ├───CAS
+    ├───ANG
+    │   ├───LIS
+    │   └───REA
+    ├───ECO
+    └───BIO
     ```
 
 3. Esborra tots els subdirectoris de `M01-MME`
