@@ -26,9 +26,9 @@ Gestió d'arxius en mode text -  - Exercicis pràctics
     └───BIO
     ```
 
-3. Esborra tots els subdirectoris de `M01-MME`
+3. Esborra tots els subdirectoris de `ANG`
 
-4. Mou el directori `CSS` a dins de `M08-AW`
+4. Mou el directori `CAS` a dins de ``
 
 5. Crea el següent directori: `M02-SOM-COPIA` i, amb una sola comanda, copia tot el contingut que hi ha dins `M02-SOM`.
 
@@ -51,11 +51,4 @@ Gestió d'arxius en mode text -  - Exercicis pràctics
 14. Aconsegueix que el fitxer `PROVA2.TXT` tingui l'atribut d'ocult. Es mostra amb la resta dels fitxers?
 
 
-Grimpades
----------
 
-1. Utilitzant la comanda ATTRIB, feu que un fitxer anomenat NOPUCBORRAR.TXT no pugui eliminar-se.
-
-2. Utilitzant la comanda ATTRIB, feu que un fitxer anomenat NOPUCVEURE.TXT sigui ocult.
-
-3. Aconsegueix un mitjà per instal·lar el sistema FreeDOS o l'antic MS-DOS. Instal·la-ho en una màquina virtual, i fes algunes proves de les comandes que hem vist a classe.
