@@ -2,11 +2,6 @@ Gestió d'arxius en mode text
 ====================================
 
 
-* [Resum](https://gitpitch.com/jrodr236/som/master?p=GestioDArxiusEnModeText)
-* Exercicis teòrics: _moodle_
-* [Exercicis pràctics](ExercicisGestioDArxiusEnModeText.md)
-
-
 Tipus d'entorn en mode text del Windows
 ---------------------------------------
 
