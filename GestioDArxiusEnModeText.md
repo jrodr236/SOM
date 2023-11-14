@@ -72,7 +72,6 @@ Igual que en els fitxers, els directoris han de tenir un nom, i les
 regles d’assignació són les mateixes que les indicades en el cas dels fitxers, però no és normal assignar
 extensions als directoris.
 
-![directori](https://uis.georgetown.edu/sites/uis/files/files/upload/win10-fileexplorer-display9.jpg)
 
 Format de les ordres
 --------------------
