@@ -48,8 +48,6 @@ Les unitats es representen de la manera següent:
 A les altres particions, unitats magnètiques, òptiques, flash... se’ls
 assignen les lletres següents per ordre alfabètic.
 
-![lletres d'unitat](http://www.partitionwizard.com/images/tu3001/drive-letter-is-missing-in-windows.jpg)
-
 Fitxers
 -------
 
@@ -62,8 +60,8 @@ tipus de fitxer (exe, docx, pdf...).
 
 ![extensions](https://i1.wp.com/www.tapscape.com/wp-content/uploads/2017/12/Extensions.jpg?fit=768%2C428&ssl=1)
 
-Directoris
-----------
+Directoris o Carpetes
+---------------------
 
 Un directori és un contenidor, a on hi poden haver fitxers o altres directoris a dins. S'emmagatzema internament en forma de taula de fitxers en què cadascuna de les entrades
 desa informació referida a aquests fitxers.
